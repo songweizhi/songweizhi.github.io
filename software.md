@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Softwares
+title: My Software
 ---
 
 
-### **Binning_refiner**
+## **Binning_refiner**
 
 **Description:**
 
@@ -20,7 +20,7 @@ Microbial genomes have recently been reconstructed from metagenomic datasets usi
 
 -------------------------
 
-### **HgtSIM**
+## **HgtSIM**
 
 **Description:**
 
@@ -35,7 +35,7 @@ The development and application of metagenomic approaches have provided an oppor
 
 -------------------------
 
-### **MetaCHIP**
+## **MetaCHIP**
 
 **Description:**
 
