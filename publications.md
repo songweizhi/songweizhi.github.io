@@ -7,23 +7,23 @@ Download my [CV](https://rgriff23.github.io/assets/pdfs/CV.pdf)
 
 ___
 
-Schneider-Crease, I.A., **Griffin, R.H.**, Gomery, M.A., Bergman, T.J., and J.C. Beehner. 2017. High mortality associated with parasitism in geladas (Theropithecus gelada) in the Simien Mountains National Park, Ethiopia. *American Journal of Primatology*, 79(9). [pdf](https://rgriff23.github.io/assets/pdfs/Schneider-Crease_etal_2017b.pdf)
 
-Schneider-Crease, I.A., **Griffin, R.H.**, Dorny, P., Noh, J.C., Handali, S., Chastain, H.M., Wilkins, P.P., Nunn, C.L., Snyder-Mackler, N., Beehner, J.C., and T.J. Bergman. 2017. Identifying wildlife reservoirs of neglected taeniid tapeworms: non-invasive diagnosis of endemic *Taenia serialis* infection in wild primates. *PLOS Neglected Tropical Diseases*, 11(7): p.e0005709. [pdf](https://rgriff23.github.io/assets/pdfs/Schneider-Crease_etal_2017a.pdf)
+1. **Song WZ**, Wemheuer B, Zhang S, Steensen K, Thomas T (2018) MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and explicit phylogenetic tree approaches. **Microbiome**, (Under review). [pdf](https://rgriff23.github.io/assets/pdfs/Schneider-Crease_etal_2017a.pdf)
 
-**Griffin, R.H.**, and G.S. Yapunich. 2017. A critical comment on the 'multiple variance Brownian motion'model of Smaers et al. (2016). *Biological Journal of the Linnean Society*, 121(1): 223-228. [pdf](https://rgriff23.github.io/assets/pdfs/Griffin&Yapuncich_2017.pdf)
+1. **Song WZ**, Thomas T, Edwards R (2018) Complete genome sequences of pooled genomic DNA from 10 marine bacteria using PacBio sequencing. **GigaScience**, (Final preparation).
 
-Reiskind, M., **Griffin, R.H.**, Janairo, M.S., and K.A. Hopperstad. 2016. Mosquitoes of Field and Forest: The Scale of Habitat Segregation in a Diverse Mosquito Assemblage. *Medical and Veterinary Entomology*, 31(1): 44-54. [pdf](https://rgriff23.github.io/assets/pdfs/Reiskind_etal_2016.pdf)
+1. Yu YP, **Song WZ**, Lau SCK (2018) Transcriptomic analysis of E. coli and cryptic Escherichia growing in the pore water provides insights into their survival strategy in coastal marine sediment. **Environmental Microbiology**, (Under review).
 
-**Griffin, R.H.**, and G.S. Yapuncich. 2015. The Independent Evolution method is not a viable phylogenetic comparative method. *PLoS ONE* 10(12):e0144147. [pdf](https://rgriff23.github.io/assets/pdfs/Griffin&Yapuncich_2015.pdf)
+1. **Song WZ**, Thomas T (2017) Binning_refiner: Improving genome bins through the combination of different binning programs. **Bioinformatics**, 33(12), 1873-1875.
 
-Coburn, R.A., **Griffin, R.H.**, & S.D. Smith. 2015. Genetic basis for a rare floral mutant in an Andean species of Solanaceae. *American Journal of Botany* 102(2):264-272. [pdf](https://rgriff23.github.io/assets/pdfs/Coburn_etal_2015.pdf)
+1. **Song WZ**, Steensen K, Thomas T (2017) HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities. **PeerJ**, 5: e4015.
 
-Young, H., **Griffin, R.**, Wood, C.L., and Nunn, C.L. 2013. Does habitat disturbance increase infectious disease risk for primates? *Ecology Letters*, 16(5): 656-663. [pdf](https://rgriff23.github.io/assets/pdfs/Young_etal_2013.pdf)
+1. Zhang S, **Song WZ**, Yu M, Lin XZ (2017) Comparative genomics analysis of five Psychrobacter strains isolated from world-wide habitats reveal high intra-genus variations. **Extremophiles**, 21(3), 581-589.
 
-Cooper, N., **Griffin, R.**, Franz, M., Omotayo, M., and Nunn, C.L. 2012. Phylogenetic host specificity and understanding parasite sharing in primates. *Ecology Letters* 15(12): 1370-77. [pdf](https://rgriff23.github.io/assets/pdfs/Cooper_etal_2012.pdf) and <a href="https://www.sciencedaily.com/releases/2012/08/120827122321.htm" target="_blank">Science Daily press release</a>
+1. Che S, **Song WZ**, Lin XZ (2013) Response of heat-shock protein (HSP) genes to temperature and salinity stress in the antarctic psychrotrophic bacterium Psychrobacter sp. G. **Current microbiology**, 67(5), 601-608.
 
-**Griffin, R.H.**, Matthews, L.J., and Nunn, C.L. 2012. Evolutionary Disequilibrium and Activity Period in Primates: A Bayesian Phylogenetic Approach. *American Journal of Physical Anthropology* 147:409-416. [pdf](https://rgriff23.github.io/assets/pdfs/Griffin_etal_2012.pdf)
+1. Che S, Song L, **Song WZ**, Yang M, Liu GM, Lin XZ (2013) Complete genome sequence of Antarctic bacterium Psychrobacter sp. strain G. **Genome announcements**, 1(5), e00725-13.
 
-**Griffin, R.H.** and Nunn, C.L. 2011. Community structure and the spread of infectious disease in primate social networks. *Evolutionary Ecology* 26(4):779-800. [pdf](https://rgriff23.github.io/assets/pdfs/Griffin&Nunn_2011.pdf)
+1. **Song WZ**, Lin XZ, Huang XH (2012) Characterization and expression analysis of three cold shock protein (CSP) genes under different stress conditions in the Antarctic bacterium Psychrobacter sp. G. **Polar Biology**. 35: 1515-1524.
 
+1. **Song WZ**, Lin XZ, Che S (2012) Identification of regulatory sequences and expression analysis of OmpR gene under different stress conditions in the Antarctic bacterium Psychrobacter sp. G. **Current Microbiology**. 66(3): 259-65.
