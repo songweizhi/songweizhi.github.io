@@ -7,7 +7,7 @@ title: Education
 ### **Doctor of Philosophy**
 
 <div class="row small center column">
-  <img style="float:right; display: block;" src="img/UNSW.png" style="width: 110px;">
+  <img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 110px;">
 </div>
 
 <div>
@@ -21,7 +21,7 @@ title: Education
 ### **Master of Science**
 
 <div class="row small center column">
-  <img style="float:right; display: block;" src="img/fio.png" style="width: 150px;">
+  <img style="float:right; display: block;" src="/assets/img/fio.png" style="width: 150px;">
 </div>
 
 <div>
@@ -35,7 +35,7 @@ title: Education
 ### **Bachelor of Engineering**
 
 <div class="row small center column">
-  <img style="float:right; display: block;" src="img/jianda2.png" style="width: 150px;">
+  <img style="float:right; display: block;" src="/assets/img/jianda2.png" style="width: 150px;">
 </div>
 
 <div>
