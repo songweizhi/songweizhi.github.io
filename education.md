@@ -3,26 +3,25 @@ layout: page
 title: Education
 ---
 
+### **Doctor of Philosophy**
+
 <div class="row small center column">
   <img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 110px;">
 </div>
 
-### **Doctor of Philosophy**
-
 <div>
-<p><i class="fa fa-clock-o" aria-hidden="true"></i> 2015 - 2019 </p>
+<p><i class="fa fa-clock-o" aria-hidden="true"></i> 2015 - 2018 </p>
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Microbiology and Bioinformatics </p>
 <p><i class="fa fa-university" aria-hidden="true"></i> The University of New South Wales, Sydney, Australia </p>
 </div>
 
 -------------------------
 
+### **Master of Science**
 
 <div class="row small center column">
-  <img style="float:right; display: block;" src="/assets/images/fio.png" style="width: 150px;">
+  <img style="float:top; display: block;" src="/assets/images/fio.png" style="width: 150px;">
 </div>
-
-### **Master of Science**
 
 <div>
 <p><i class="fa fa-clock-o" aria-hidden="true"></i> 2009 - 2012 </p>
@@ -32,12 +31,11 @@ title: Education
 
 -------------------------
 
+### **Bachelor of Engineering**
 
 <div class="row small center column">
   <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 150px;">
 </div>
-
-### **Bachelor of Engineering**
 
 <div>
 <p><i class="fa fa-clock-o" aria-hidden="true"></i> 2005 - 2009 </p>
