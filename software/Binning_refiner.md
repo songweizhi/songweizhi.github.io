@@ -1,5 +1,5 @@
 ---
-layout: software
+layout: page
 title: "Binning_refiner"
 author: Weizhi Song
 comments: false
