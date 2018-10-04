@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: software
 title: "HgtSIM"
 author: Weizhi Song
 comments: false
