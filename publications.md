@@ -8,7 +8,7 @@ title: publication
 
 **Song WZ**, Wemheuer B, Zhang S, Steensen K, Thomas T (2018) MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and explicit phylogenetic tree approaches. **Microbiome**, (Under review). [pdf](https://rgriff23.github.io/assets/pdfs/Schneider-Crease_etal_2017a.pdf)
 
-**Song WZ**, Thomas T, Edwards R (2018) Complete genome sequences of pooled genomic DNA from 10 marine bacteria using PacBio sequencing. **GigaScience**, (Final preparation).
+**Song WZ**, Thomas T, Edwards R (2018) Complete genome sequences of pooled genomic DNA from 10 marine bacteria using PacBio sequencing. **GigaScience**, (Under review).
 
 Yu YP, **Song WZ**, Lau SCK (2018) Transcriptomic analysis of E. coli and cryptic Escherichia growing in the pore water provides insights into their survival strategy in coastal marine sediment. **Environmental Microbiology**, (Under review).
 
@@ -39,3 +39,4 @@ ___
 **Song WZ**, Lin XZ, Che S (2012) Identification of regulatory sequences and expression analysis of OmpR gene under different stress conditions in the Antarctic bacterium Psychrobacter sp. G. **Current Microbiology**. 66(3): 259-65.
 
 ___
+
