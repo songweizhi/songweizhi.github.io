@@ -15,6 +15,10 @@ ___
 
 ___
 
+<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Taipei.jpg" style="width: 600px;"></div>
+<div><p>Taipei 101</p></div>
+
+___
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Milan.jpg" style="width: 600px;"></div>
 <div><p>Milan Cathedral</p></div>
 
@@ -35,5 +39,9 @@ ___
 
 ___
 
+<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Rome.jpg" style="width: 600px;"></div>
+<div><p>Rome Colosseum</p></div>
+
+___
 
 
