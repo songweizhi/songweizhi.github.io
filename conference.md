@@ -10,14 +10,14 @@ title: Conference
 <p><i class="fab fa-map-marker"></i> Leipzig, Germany </p>
 <p><i class="fab fa-microphone"></i> Poster: Towards the detection of horizontal gene transfer in metagenomics datasets. </p>[PDF](https://songweizhi.github.io/assets/pdfs/Poster_ISME_2018.pdf)
 
--
+___
 
 #### **Sydney Bioinformatics Research Symposium (SBRS)**
 {: .left}
 <p><i class="fa fa-clock-o" aria-hidden="true"></i> June 15th, 2018 </p>
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Sydney, Australia </p>
 
--
+___
 
 #### **Australian Microbial Ecology Conference (AusME)**
 {: .left}
@@ -25,21 +25,21 @@ title: Conference
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Melbourne, Australia </p>
 <p><i class="fa fa-microphone" aria-hidden="true"></i> Oral presentation: Binning_refiner: Improving genome bins through the combination of different binning programs. </p>
 
--
+___
 
 #### **Australian Microbial Genomics Symposium**
 {: .left}
 <p><i class="fa fa-clock-o" aria-hidden="true"></i> April 14-16th, 2015 </p>
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Sydney, Australia </p>
 
--
+___
 
 #### **Gordon Research Conferences - Marine Molecular Ecology**
 {: .left}
 <p><i class="fa fa-clock-o" aria-hidden="true"></i> August 11-16th, 2013 </p>
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Hong Kong, China </p>
 
--
+___
 
 #### **China Symposium on Polar Science**
 {: .left}
