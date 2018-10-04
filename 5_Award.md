@@ -8,7 +8,7 @@ ___
 **Tuition Fee Scholarship, The University of New South Wales (UNSW)**
 <div>
 <p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px"></i> 2015-2019 </p>
-<p><i class="fa fa-coins" aria-hidden="true" style="font-size:24px"></i> AUD 147K</p>
+<p><i class="fa fa-coins" aria-hidden="true" style="font-size:24px"></i> AUD 174.0K</p>
 </div>
 
 ___
