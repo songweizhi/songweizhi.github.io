@@ -27,6 +27,6 @@ My [resume](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf)
 
 ___
 
-**[Last updated: October 03, 2018]**
+**[Last updated: October, 2018]**
 
 ___
