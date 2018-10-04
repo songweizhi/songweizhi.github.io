@@ -15,7 +15,7 @@ ___
 
 ### **My Toolbox**
 
-<div style="text-align: center">
+<div>
 <a ><img style="float:right; display: block;" class="img-sponsor" src="{{ site.baseurl }}/assets/images/linux.png" style="height: 120px;"></a>
 <a ><img style="float:right; display: block;" class="img-sponsor" src="{{ site.baseurl }}/assets/images/Python.png" style="height: 120px;"></a>
 <a ><img style="float:right; display: block;" class="img-sponsor" src="{{ site.baseurl }}/assets/images/Rlogo.png" style="height: 120px;"></a>
