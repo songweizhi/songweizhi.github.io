@@ -23,7 +23,7 @@ ___
 
 **PhD Top-Up Scholarship, BABS, UNSW**
 <div>
-<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px"></i> 2017-2018 </p>
+<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px"></i> 2017 and 2018 </p>
 <p><i class="fa fa-coins" aria-hidden="true" style="font-size:24px"></i> AUD 7.5K</p>
 </div>
 
