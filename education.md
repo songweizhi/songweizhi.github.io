@@ -27,10 +27,10 @@ ___
 </div>
 
 <div>
-<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:24px></i> Master of Science </p>
-<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px></i> 2009 - 2012 </p>
-<p><i class="fa fa-book" aria-hidden="true" style="font-size:24px></i> Marine Biology </p> 
-<p><i class="fa fa-university" aria-hidden="true" style="font-size:24px></i> The First Institute of Oceanography, State Oceanic Administration, China </p>
+<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:24px"></i> Master of Science </p>
+<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px"></i> 2009 - 2012 </p>
+<p><i class="fa fa-book" aria-hidden="true" style="font-size:24px"></i> Marine Biology </p> 
+<p><i class="fa fa-university" aria-hidden="true" style="font-size:24px"></i> The First Institute of Oceanography, State Oceanic Administration, China </p>
 </div>
 
 ___
@@ -39,10 +39,10 @@ ___
 
 <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 150px;">
 <div>
-<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:24px></i> Bachelor of Engineering </p>
-<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px></i> 2005 - 2009 </p>
-<p><i class="fa fa-book" aria-hidden="true" style="font-size:24px></i> Biological Engineering </p>
-<p><i class="fa fa-university" aria-hidden="true" style="font-size:24px></i> Shandong Jianzhu University, Shandong, China </p>
+<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:24px"></i> Bachelor of Engineering </p>
+<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px"></i> 2005 - 2009 </p>
+<p><i class="fa fa-book" aria-hidden="true" style="font-size:24px"></i> Biological Engineering </p>
+<p><i class="fa fa-university" aria-hidden="true" style="font-size:24px"></i> Shandong Jianzhu University, Shandong, China </p>
 </div>
 
 ___
