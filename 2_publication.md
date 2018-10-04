@@ -5,7 +5,6 @@ title: Publications
 
 ___
 
-
 **2018**
 
 **Song WZ**, Wemheuer B, Zhang S, Steensen K, Thomas T (2018) MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and explicit phylogenetic tree approaches. Microbiome, (**Under review**) 
@@ -54,4 +53,3 @@ ___
 [PDF](https://songweizhi.github.io/assets/pdfs/Publication_2012_OmpR.pdf)
 
 ___
-
