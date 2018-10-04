@@ -7,7 +7,7 @@
     Name = "publication"
     URL = "/publication"
 
-[tags]
-    Name = "Tags"
-    Title = "Show list of tags"
-    URL = "/tags"
+[gallery]
+    Name = "Gallery"
+    Title = "Show gallery"
+    URL = "/gallery"
