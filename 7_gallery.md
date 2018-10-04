@@ -25,7 +25,7 @@ ___
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Milan.jpg" style="width: 600px;"></div>
-<div style="text-align:center"><p>Milan Cathedral</p></div>
+<div><p>Milan Cathedral</p></div>
 
 ___
 
