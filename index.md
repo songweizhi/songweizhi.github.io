@@ -24,6 +24,6 @@ ___
 
 ___
 
-**[Last updated: October, 2018]**
+**Last updated: October, 2018**
 
 ___
