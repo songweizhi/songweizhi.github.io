@@ -28,6 +28,7 @@ ___
 <div class="row small center column">
   <img style="float:right; display: block;" src="/assets/images/fio.png" style="width: 150px;">
 </div>
+
 <div>
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2009 - 2012 </p>
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Marine Biology </p> 
@@ -40,6 +41,7 @@ ___
 <div class="row small center column">
   <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 150px;">
 </div>
+
 <div>
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2005 - 2009 </p>
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Biological Engineering </p>
