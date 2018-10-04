@@ -6,9 +6,9 @@ title: Conference
 
 #### **International Symposium on Microbial Ecology (ISME)**
 {: .left}
-<p><i class="fa fa-clock-o" aria-hidden="true"></i> August 12-17th, 2018 </p>
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Leipzig, Germany </p>
-<p><i class="fa fa-microphone" aria-hidden="true"></i> Poster: Towards the detection of horizontal gene transfer in metagenomics datasets. </p>[PDF](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf)
+<p><i class="fab fa-clock-o" aria-hidden="true"></i> August 12-17th, 2018 </p>
+<p><i class="fab fa-map-marker" aria-hidden="true"></i> Leipzig, Germany </p>
+<p><i class="fab fa-microphone" aria-hidden="true"></i> Poster: Towards the detection of horizontal gene transfer in metagenomics datasets. </p>[PDF](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf)
 
 -
 
