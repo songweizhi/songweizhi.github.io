@@ -1,25 +1,22 @@
 ---
 layout: project
-title: "Public health projects"
-author: Randi H. Griffin
+title: "HgtSIM"
+author: Weizhi Song
 comments: false
 ---
 ___
 
-I have two projects in collaboration with Yale Medical student [Samara Fox](https://www.linkedin.com/in/samara-fox-5483469/):
 
-___
+### **HgtSIM**
 
-### Project 1: Time to treatment for traumatic brain injury patients in Tanzania
+The development and application of metagenomic approaches have provided an opportunity to study and define horizontal gene transfer (HGT) on the level of microbial communities. However, no current metagenomic data simulation tools offers the option to introduce defined HGT within a microbial community. Here, we present HgtSIM, a pipeline to simulate HGT event among microbial community members with user-defined mutation levels. It was developed for testing and benchmarking pipelines for recovering HGTs from complex microbial datasets.
 
-We are analyzing data on the time it took to receive various treatments for patients arriving with traumatic brain injuries at an emergency room in Moshi, Tanzania. We are interested in knowing how patient outcomes can be improved at this hospital.
+**Link:**
+[https://github.com/songweizhi/HgtSIM](https://github.com/songweizhi/HgtSIM)
 
-### Project 2: Effectiveness of a training intervention for emergency room staff in Tanzania
+**Publication:**
 
-At the same hospital as Project 1, we are evaluating the effectiveness of a staff traning intervention (developed and implemented by Samara Fox) in improving clinical practice and patient outcomes for patients with traumatic brain injuries. 
+**Song WZ**, Steensen K, Thomas T (2017) HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities. **PeerJ**, 5: e4015.
 
-### Project 3: Mental health in LGBTQ asylum seekers
-
-We are analyzing survey data about mental health and healthcare access among LGBTQ asylum seekers in the U.S. Our goal is to describe the epidemiology of mental health problems in this population and their access to treatment.
 
 ___

@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Public health projects"
-author: Randi H. Griffin
+title: "Binning_refiner"
+author: Weizhi Song
 comments: false
 ---
 ___
@@ -10,16 +10,16 @@ I have two projects in collaboration with Yale Medical student [Samara Fox](http
 
 ___
 
-### Project 1: Time to treatment for traumatic brain injury patients in Tanzania
+### **Binning_refiner**
 
-We are analyzing data on the time it took to receive various treatments for patients arriving with traumatic brain injuries at an emergency room in Moshi, Tanzania. We are interested in knowing how patient outcomes can be improved at this hospital.
+Microbial genomes have recently been reconstructed from metagenomic datasets using binning approaches. Inconsistent binning results are however often observed between different binning programs, likely due to the different algorithms or statistical models used. We present Binning_refiner, a pipeline that merges the results of different binning programs. Our results demonstrated that Binning_refiner can significantly reduce the contamination level of genome bins and increase the total size of contamination-free and ‘good-quality’ genome bins. Binning_refiner is thus an useful tool to improve the quality of genome bins derived from metagenomic data.
 
-### Project 2: Effectiveness of a training intervention for emergency room staff in Tanzania
+**Link:**
+[https://github.com/songweizhi/Binning_refiner](https://github.com/songweizhi/Binning_refiner)
 
-At the same hospital as Project 1, we are evaluating the effectiveness of a staff traning intervention (developed and implemented by Samara Fox) in improving clinical practice and patient outcomes for patients with traumatic brain injuries. 
+**Publication:**
 
-### Project 3: Mental health in LGBTQ asylum seekers
+**Song WZ**, Thomas T (2017) Binning_refiner: Improving genome bins through the combination of different binning programs. **Bioinformatics**, 33(12), 1873-1875.
 
-We are analyzing survey data about mental health and healthcare access among LGBTQ asylum seekers in the U.S. Our goal is to describe the epidemiology of mental health problems in this population and their access to treatment.
 
 ___
