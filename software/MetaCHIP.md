@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: software
 title: "MetaCHIP"
 author: Weizhi Song
 comments: false
