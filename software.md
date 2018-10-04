@@ -3,6 +3,14 @@ layout: page
 title: Software
 ---
 
+[**MetaCHIP**](/software/MetaCHIP)- In collaboration with Samara Fox at Yale Medical School
+
+[**Binning_refiner**](/software/Binning_refiner)- In collaboration with Samara Fox at Yale Medical School
+
+[**HgtSIM**](/software/HgtSIM)- My dissertation
+
+
+
 ### **Binning_refiner**
 
 Microbial genomes have recently been reconstructed from metagenomic datasets using binning approaches. Inconsistent binning results are however often observed between different binning programs, likely due to the different algorithms or statistical models used. We present Binning_refiner, a pipeline that merges the results of different binning programs. Our results demonstrated that Binning_refiner can significantly reduce the contamination level of genome bins and increase the total size of contamination-free and ‘good-quality’ genome bins. Binning_refiner is thus an useful tool to improve the quality of genome bins derived from metagenomic data.
