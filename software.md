@@ -3,11 +3,11 @@ layout: page
 title: Software
 ---
 
-[**MetaCHIP**](/software/MetaCHIP)- In collaboration with Samara Fox at Yale Medical School
+[**MetaCHIP**](/software/MetaCHIP) - community-level HGT identification pipeline
 
-[**Binning_refiner**](/software/Binning_refiner)- In collaboration with Samara Fox at Yale Medical School
+[**Binning_refiner**](/software/Binning_refiner) - improving genome bins through the combination of different binning programs
 
-[**HgtSIM**](/software/HgtSIM)- My dissertation
+[**HgtSIM**](/software/HgtSIM) - a simulator for HGT in microbial communities
 
 
 
