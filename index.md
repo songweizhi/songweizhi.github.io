@@ -12,7 +12,7 @@ ___
 
 <div class="small column">
 <p>Microbiology, Microbial ecology</p>
-<p>Genomics, Metagenomics, Transcriptomics</p>
+<p>Genomics, Metagenomics, Tree of life</p>
 <p>Bioinformatics, Machine/Deep learning, Data mining</p>
 </div>
 
