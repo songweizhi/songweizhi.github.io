@@ -11,13 +11,6 @@ title: Conference
 
 ___
 
-#### **Sydney Bioinformatics Research Symposium (SBRS)**
-{: .left}
-<p><i class="fa fa-clock" aria-hidden="true"></i> June 15th, 2018 </p>
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Sydney, Australia </p>
-
-___
-
 #### **Australian Microbial Ecology Conference (AusME)**
 {: .left}
 <p><i class="fa fa-clock" aria-hidden="true"></i> February 13-15th, 2017 </p>
