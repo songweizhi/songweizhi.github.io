@@ -13,7 +13,7 @@ ___
 
 #### **Sydney Bioinformatics Research Symposium (SBRS)**
 {: .left}
-<p><i class="fa fa-clock-o" aria-hidden="true"></i> June 15th, 2018 </p>
+<p><i class="fa fa-clock" aria-hidden="true"></i> June 15th, 2018 </p>
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Sydney, Australia </p>
 
 ___
