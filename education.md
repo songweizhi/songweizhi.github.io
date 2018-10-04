@@ -6,7 +6,6 @@ title: Education
 ___
 
 
-
 <div class="row small center column">
   <img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 110px;">
 </div>
