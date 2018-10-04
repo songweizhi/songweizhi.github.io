@@ -3,11 +3,17 @@ layout: page
 title: Education
 ---
 
+### **Doctor of Philosophy**
+### **Master of Science**
+### **Bachelor of Engineering**
+
+
+
 <div class="row small center column">
   <img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 110px;">
 </div>
 
-### **Doctor of Philosophy**
+
 
 <div>
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2015 - 2019 </p>
@@ -22,7 +28,7 @@ title: Education
   <img style="float:right; display: block;" src="/assets/images/fio.png" style="width: 150px;">
 </div>
 
-### **Master of Science**
+
 
 <div>
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2009 - 2012 </p>
@@ -37,7 +43,7 @@ title: Education
   <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 150px;">
 </div>
 
-### **Bachelor of Engineering**
+
 
 <div>
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2005 - 2009 </p>
