@@ -11,36 +11,36 @@ ___
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Sydney.jpg" style="width: 600px;"></div>
-<div><p>Sydney Opera House</p></div>
+<div><p>Sydney Opera House, Australia</p></div>
 
 ___
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Taipei.jpg" style="width: 600px;"></div>
-<div><p>Taipei 101</p></div>
+<div><p>Taipei 101, aiwan</p></div>
 
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Rome.jpg" style="width: 600px;"></div>
-<div><p>Rome Colosseum</p></div>
+<div><p>Rome Colosseum, Italy</p></div>
 
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Milan.jpg" style="width: 600px;"></div>
-<div><p>Milan Cathedral</p></div>
+<div><p>Milan Cathedral, Italy</p></div>
 
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Florence.jpg" style="width: 600px;"></div>
-<div><p>Florence Cathedral</p></div>
+<div><p>Florence Cathedral, Italy</p></div>
 
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Pisa.jpg" style="width: 600px;"></div>
-<div><p>Pisa Cathedral</p></div>
+<div><p>Pisa Cathedral, Italy</p></div>
 
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Venice.jpg" style="width: 600px;"></div>
-<div><p>Venice</p></div>
+<div><p>Venice, Italy</p></div>
 
 ___
 
