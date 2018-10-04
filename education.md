@@ -10,7 +10,7 @@ title: Education
 </div>
 
 <div>
-<p><i class="fa fa-clock" aria-hidden="true"></i> 2015 - 2018 </p>
+<p><i class="fa fa-clock" aria-hidden="true"></i> 2015 - 2019 </p>
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Microbiology and Bioinformatics </p>
 <p><i class="fa fa-university" aria-hidden="true"></i> The University of New South Wales, Sydney, Australia </p>
 </div>
