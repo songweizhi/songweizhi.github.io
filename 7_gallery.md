@@ -10,6 +10,11 @@ ___
 
 ___
 
+<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/we_too.jpg" style="width: 600px;"></div>
+<div><p>We too<i class="far fa-kiss-wink-heart"></i> </p></div>
+
+___
+
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Sydney.jpg" style="width: 600px;"></div>
 <div><p>Sydney Opera House, Australia</p></div>
 
