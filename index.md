@@ -3,8 +3,6 @@ layout: default
 title: About me
 ---
 
-<p><h1>About me</h1></p>
-
 My [resume](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf)
 
 ___
