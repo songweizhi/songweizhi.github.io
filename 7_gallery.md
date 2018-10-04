@@ -11,7 +11,7 @@ ___
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/my_sweety.jpg" style="width: 600px;"></div>
-<div><p>My sweety ^_^ </p></div>
+<div><p>My sweet ^_^ </p></div>
 
 ___
 
