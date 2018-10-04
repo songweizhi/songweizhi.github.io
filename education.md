@@ -53,3 +53,17 @@ ___
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Biological Engineering </p>
 <p><i class="fa fa-university" aria-hidden="true"></i> Shandong Jianzhu University, Shandong, China </p>
 </div>
+
+-------------------------
+
+<div class="row small center column">
+  <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 180px;">
+</div>
+
+<div>
+<p><i class="fa fa-user" aria-hidden="true"></i> Weizhi Song </p>
+<p><i class="fa fa-graduation-cap" aria-hidden="true"></i> PhD candidate in Microbiology and Bioinformatics </p>
+<p><i class="fa fa-university" aria-hidden="true"></i> The University of New South Wales (UNSW), Australia </p>
+<p><i class="fa fa-envelope" aria-hidden="true"></i> songwz03@gmail.com </p> 
+<p><i class="fa fa-github" aria-hidden="true"></i> https://songweizhi.github.io </p> 
+</div>
