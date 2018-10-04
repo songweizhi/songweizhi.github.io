@@ -17,7 +17,7 @@ ___
 <p><i class="fa fa-university" aria-hidden="true" style="font-size:24px"></i> The University of New South Wales, Sydney, Australia </p>
 </div>
 
-__
+___
 
 
 <div class="row small center column">
@@ -31,7 +31,7 @@ __
 <p><i class="fa fa-university" aria-hidden="true" style="font-size:24px"></i> The First Institute of Oceanography, State Oceanic Administration, China </p>
 </div>
 
-_
+___
 
 
 <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 150px;">
