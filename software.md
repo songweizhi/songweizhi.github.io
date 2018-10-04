@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Software
 ---
 
 [**MetaCHIP**](/software/MetaCHIP) - community-level HGT identification pipeline
