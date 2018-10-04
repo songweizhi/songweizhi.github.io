@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: publication
+title: Publication
 ---
 
 
@@ -20,7 +20,7 @@ ___
 
 **Song WZ**, Steensen K, Thomas T (2017) HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities. **PeerJ**, 5: e4015. [PDF](https://songweizhi.github.io/assets/pdfs/Publication_HgtSIM.pdf)
 
-Zhang S, **Song WZ**, Yu M, Lin XZ (2017) Comparative genomics analysis of five Psychrobacter strains isolated from world-wide habitats reveal high intra-genus variations. **Extremophiles**, 21(3), 581-589. [PDF](https://songweizhi.github.io/assets/pdfs/Publication_Comparative_genomics.pdf)
+Zhang S, **Song WZ**, Yu M, Lin XZ (2017) Comparative genomics analysis of five Psychrobacter strains isolated from world-wide habitats reveal high intra-genus variations. **Extremophiles**, 21(3), 581-589. [PDF](https://songweizhi.github.io/assets/pdfs/Publication_comparative_genomics.pdf)
 
 ___
 
