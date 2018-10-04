@@ -38,19 +38,19 @@ ___
 <div style="text-align: center">
 
 <a >
-   <img class="img-sponsor" src="{{ site.baseurl }}/img/linux.png" style="height: 120px;">
+   <img class="img-sponsor" src="{{ site.baseurl }}/assets/images/linux.png" style="height: 120px;">
 </a>
 
 <a >
-   <img class="img-sponsor" src="{{ site.baseurl }}/img/Python.png" style="height: 120px;">
+   <img class="img-sponsor" src="{{ site.baseurl }}/assets/images/Python.png" style="height: 120px;">
 </a>
 
 <a >
-   <img class="img-sponsor" src="{{ site.baseurl }}/img/Rlogo.png" style="height: 120px;">
+   <img class="img-sponsor" src="{{ site.baseurl }}/assets/images/Rlogo.png" style="height: 120px;">
 </a>
 
 <a >
-   <img class="img-sponsor" src="{{ site.baseurl }}/img/github-logo.png" style="height: 120px;">
+   <img class="img-sponsor" src="{{ site.baseurl }}/assets/images/github-logo.png" style="height: 120px;">
 </a>
 
 </div>
