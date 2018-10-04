@@ -15,7 +15,7 @@ ___
 
 ___
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Taipei.jpg" style="width: 600px;"></div>
-<div><p>Taipei 101, aiwan</p></div>
+<div><p>Taipei 101, Taiwan</p></div>
 
 ___
 
