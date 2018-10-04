@@ -10,26 +10,14 @@ My [resume](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf)
 ___
 
 
-
 ### **Research Interests**
 
 <div class="small column">
-<p>Microbial ecology </p>
-<p>Bioinformatics </p>
-<p>Machine learning </p>
+<p>Microbiology, Microbial ecology</p>
+<p>Genomics, Metagenomics, Transcriptomics</p>
+<p>Bioinformatics, Machine/Deep learning, Data mining</p>
 </div>
 
-<div class="small column">
-<p>Marine microbiology </p>
-<p>Genomics/Metagenomics </p>
-<p>Deep learning </p>
-</div>
-
-<div class="small column">
-<p>Tree of life </p>
-<p>Transcriptomics </p>
-<p>Data mining </p>
-</div>
 
 -------------------------
 
