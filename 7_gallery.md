@@ -11,7 +11,7 @@ ___
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/we_too.jpg" style="width: 600px;"></div>
-<div><p>We too<i class="far fa-kiss-wink-heart"></i> </p></div>
+<div><p>We too</p></div>
 
 ___
 
@@ -19,6 +19,7 @@ ___
 <div><p>Sydney Opera House, Australia</p></div>
 
 ___
+
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Taipei.jpg" style="width: 600px;"></div>
 <div><p>Taipei 101, Taiwan</p></div>
 
