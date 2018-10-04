@@ -10,7 +10,7 @@ title: Education
 </div>
 
 <div>
-<p><i class="fa fa-clock-o" aria-hidden="true"></i> 2015 - 2018 </p>
+<p><i class="fa fa-clock" aria-hidden="true"></i> 2015 - 2018 </p>
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Microbiology and Bioinformatics </p>
 <p><i class="fa fa-university" aria-hidden="true"></i> The University of New South Wales, Sydney, Australia </p>
 </div>
@@ -24,7 +24,7 @@ title: Education
 </div>
 
 <div>
-<p><i class="fa fa-clock-o" aria-hidden="true"></i> 2009 - 2012 </p>
+<p><i class="fa fa-clock" aria-hidden="true"></i> 2009 - 2012 </p>
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Marine Biology </p> 
 <p><i class="fa fa-university" aria-hidden="true"></i> The First Institute of Oceanography, State Oceanic Administration, China </p>
 </div>
@@ -38,7 +38,7 @@ title: Education
 </div>
 
 <div>
-<p><i class="fa fa-clock-o" aria-hidden="true"></i> 2005 - 2009 </p>
+<p><i class="fa fa-clock" aria-hidden="true"></i> 2005 - 2009 </p>
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Biological Engineering </p>
 <p><i class="fa fa-university" aria-hidden="true"></i> Shandong Jianzhu University, Shandong, China </p>
 </div>
