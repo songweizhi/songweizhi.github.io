@@ -3,8 +3,6 @@ layout: default
 title: About me
 ---
 
-My [resume](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf)
-
 ___
 
 
@@ -16,8 +14,7 @@ ___
 <p>Bioinformatics, Software development, Machine/Deep learning</p>
 </div>
 
-
--------------------------
+___
 
 ### **My Toolbox**
 
@@ -28,6 +25,12 @@ ___
 <a ><img class="img-sponsor" src="{{ site.baseurl }}/assets/images/github-logo.png" style="height: 120px;"></a>
 </div>
 
+___
+
+My [resume](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf)
+
+___
 
 **[Last updated: October 03, 2018]**
 
+___
