@@ -1,6 +1,6 @@
 ---
-layout: publication
-title: Publication
+layout: page
+title: publication
 ---
 
 2018
