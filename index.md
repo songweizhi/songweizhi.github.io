@@ -9,9 +9,9 @@ ___
 ### **Research Interests**
 
 <div class="small column">
-<p>Microbiology, Microbial ecology</p>
-<p>Genomics, Metagenomics, Tree of life</p>
-<p>Bioinformatics, Software development, Machine/Deep learning</p>
+<p>Microbiology, Microbial ecology, Tree of life</p>
+<p>Bioinformatics, Genomics, Metagenomics</p>
+<p>Software development, Machine learning, Deep learning</p>
 </div>
 
 ___
