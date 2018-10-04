@@ -5,6 +5,8 @@ title: Education
 
 ___
 
+
+
 <div class="row small center column">
   <img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 110px;">
 </div>
@@ -18,25 +20,29 @@ ___
 
 ___
 
+
+
 <div class="row small center column">
   <img style="float:right; display: block;" src="/assets/images/fio.png" style="width: 150px;">
 </div>
 
 <div>
-<p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Master of Science </p>
-<p><i class="fa fa-clock" aria-hidden="true"></i> 2009 - 2012 </p>
-<p><i class="fa fa-book" aria-hidden="true"></i> Marine Biology </p> 
-<p><i class="fa fa-university" aria-hidden="true"></i> The First Institute of Oceanography, State Oceanic Administration, China </p>
+<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:24px></i> Master of Science </p>
+<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px></i> 2009 - 2012 </p>
+<p><i class="fa fa-book" aria-hidden="true" style="font-size:24px></i> Marine Biology </p> 
+<p><i class="fa fa-university" aria-hidden="true" style="font-size:24px></i> The First Institute of Oceanography, State Oceanic Administration, China </p>
 </div>
 
 ___
 
+
+
 <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 150px;">
 <div>
-<p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Bachelor of Engineering </p>
-<p><i class="fa fa-clock" aria-hidden="true"></i> 2005 - 2009 </p>
-<p><i class="fa fa-book" aria-hidden="true"></i> Biological Engineering </p>
-<p><i class="fa fa-university" aria-hidden="true"></i> Shandong Jianzhu University, Shandong, China </p>
+<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:24px></i> Bachelor of Engineering </p>
+<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px></i> 2005 - 2009 </p>
+<p><i class="fa fa-book" aria-hidden="true" style="font-size:24px></i> Biological Engineering </p>
+<p><i class="fa fa-university" aria-hidden="true" style="font-size:24px></i> Shandong Jianzhu University, Shandong, China </p>
 </div>
 
 ___
