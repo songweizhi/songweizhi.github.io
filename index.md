@@ -6,9 +6,9 @@ title: About me
 ### **Research Interests**
 
 <div class="small column">
-<span class="dot"></span><p>Microbiology, Microbial ecology, Tree of life</p>
+<p><span>Microbiology, Microbial ecology, Tree of life</p>
 <span class="dot"></span><p>Bioinformatics, Genomics, Metagenomics</p>
-<p>Software development, Machine learning, Deep learning</p>
+<p><span class="dot"></span>Software development, Machine learning, Deep learning</p>
 </div>
 
 ___
