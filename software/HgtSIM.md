@@ -1,11 +1,10 @@
 ---
-layout: project
+layout: software
 title: "HgtSIM"
 author: Weizhi Song
 comments: false
 ---
 ___
-
 
 ### **HgtSIM**
 

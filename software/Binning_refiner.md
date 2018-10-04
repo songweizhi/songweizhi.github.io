@@ -1,12 +1,9 @@
 ---
-layout: project
+layout: software
 title: "Binning_refiner"
 author: Weizhi Song
 comments: false
 ---
-___
-
-I have two projects in collaboration with Yale Medical student [Samara Fox](https://www.linkedin.com/in/samara-fox-5483469/):
 
 ___
 
