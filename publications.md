@@ -1,8 +1,7 @@
 ---
 layout: publication
-title: Publication
+title: publication
 ---
-
 
 2018
 
