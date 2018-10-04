@@ -3,9 +3,6 @@ layout: default
 title: About me
 ---
 
-___
-
-
 ### **Research Interests**
 
 <div class="small column">
