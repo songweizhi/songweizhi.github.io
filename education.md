@@ -10,7 +10,7 @@ ___
 </div>
 
 <div>
-<p><i class="fa fa-clock" aria-hidden="true"></i> Doctor of Philosophy </p>
+<p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Doctor of Philosophy </p>
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2015 - 2019 </p>
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Microbiology and Bioinformatics </p>
 <p><i class="fa fa-university" aria-hidden="true"></i> The University of New South Wales, Sydney, Australia </p>
@@ -23,7 +23,7 @@ ___
 </div>
 
 <div>
-<p><i class="fa fa-clock" aria-hidden="true"></i> Master of Science </p>
+<p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Master of Science </p>
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2009 - 2012 </p>
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Marine Biology </p> 
 <p><i class="fa fa-university" aria-hidden="true"></i> The First Institute of Oceanography, State Oceanic Administration, China </p>
@@ -33,7 +33,7 @@ ___
 
 <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 150px;">
 <div>
-<p><i class="fa fa-clock" aria-hidden="true"></i> Bachelor of Engineering </p>
+<p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Bachelor of Engineering </p>
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2005 - 2009 </p>
 <p><i class="fa fa-graduation-cap" aria-hidden="true"></i> Biological Engineering </p>
 <p><i class="fa fa-university" aria-hidden="true"></i> Shandong Jianzhu University, Shandong, China </p>
