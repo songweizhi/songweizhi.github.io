@@ -19,8 +19,7 @@ ___
 ### **My Toolbox**
 
 <div style="text-align: center">
-<a ><img class="img-sponsor" src="{{ site.baseurl }}/assets/images/linux.png" style="height: 120px;"></a>
-<a ><img class="img-sponsor" src="{{ site.baseurl }}/assets/images/Python.png" style="height: 120px;"></a>
+<a ><img class="img-sponsor" src="{{ site.baseurl }}/assets/images/linux.png" style="height: 120px;"><img class="img-sponsor" src="{{ site.baseurl }}/assets/images/Python.png" style="height: 120px;"></a>
 <a ><img class="img-sponsor" src="{{ site.baseurl }}/assets/images/Rlogo.png" style="height: 120px;"></a>
 <a ><img class="img-sponsor" src="{{ site.baseurl }}/assets/images/github-logo.png" style="height: 120px;"></a>
 </div>
