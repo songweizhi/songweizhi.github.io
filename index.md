@@ -5,7 +5,7 @@ title: About me
 
 
 
-### **Who am I** ([resume](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf))
+## **Who am I** ([resume](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf))
 
 **Name:** Weizhi Song
 
@@ -17,7 +17,7 @@ title: About me
 
 ___
 
-### **Research Interests**
+## **Research Interests**
 
 <div class="small column">
 <p><i class="fa fa-microscope" aria-hidden="true" style="font-size:24px"></i>   Microbiology, Microbial ecology, Tree of life</p>
@@ -27,7 +27,7 @@ ___
 
 ___
 
-### **My Toolbox**
+## **My Toolbox**
 
 <div id="banner">
     <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/linux.png" style="height: 120px;"></div>
