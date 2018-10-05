@@ -11,7 +11,7 @@ ___
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/wetwo.JPG" style="width: 600px;"></div>
-<div><p>We two</p></div>
+<div><p>We two <i class="far fa-smile-beam"></i> </p></div>
 
 ___
 
@@ -52,8 +52,4 @@ ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Leipzig.JPG" style="width: 600px;"></div>
 <div><p>Leipzig, Germany</p></div>
-
-
-
-
 
