@@ -5,7 +5,7 @@ title: About me
 
 
 
-### **Who am I** [Resume](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf)
+### **Who am I** ([Resume](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf))
 
 **Name:** Weizhi Song
 
