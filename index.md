@@ -38,6 +38,3 @@ ___
 **Last updated: October, 2018**
 
 ___
-
-
-<img src="img2.jpg">
