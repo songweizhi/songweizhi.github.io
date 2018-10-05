@@ -11,7 +11,11 @@ title: About me
 
 <span class="dot"></span><p>Bioinformatics, Genomics, Metagenomics</p>
 
-<p><span class="dot"></span>Software development, Machine learning, Deep learning</p>
+<p><i class="fa fa-laptop" aria-hidden="true" style="font-size:24px"></i>Bioinformatics, Genomics, Metagenomics</p>
+
+
+<p><i class="fa fa-laptop" aria-hidden="true" style="font-size:24px"></i>Software development, Machine learning, Deep learning</p>
+
 
 </div>
 
