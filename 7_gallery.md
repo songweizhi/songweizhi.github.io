@@ -50,3 +50,10 @@ ___
 
 ___
 
+<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Leipzig.JPG" style="width: 600px;"></div>
+<div><p>Leipzig, Germany</p></div>
+
+
+
+
+
