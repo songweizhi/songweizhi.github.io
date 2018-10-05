@@ -8,7 +8,7 @@ ___
 ### **Who am I**
 
 DOB: March 14th, 1987
-Nationality: Chinese (P. R. China)
+Nationality: Chinese (P.R. China)
 
 ___
 
