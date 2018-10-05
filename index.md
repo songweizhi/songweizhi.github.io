@@ -7,21 +7,17 @@ title: About me
 
 ### **Who am I**
 
+**Name:** Weizhi Song
+
+**DOB:** March 1987
+
+**Nationality:** P.R. China
+
+**E-mail:** songwz03@gmail.com
+
 ___
-
-Name: Weizhi Song
-
-DOB: March 1987
-
-Nationality: P.R. China
-
-E-mail: songwz03@gmail.com
-
-
 
 ### **Research Interests**
-
-___
 
 <div class="small column">
 <p><i class="fa fa-microscope" aria-hidden="true" style="font-size:24px"></i>   Microbiology, Microbial ecology, Tree of life</p>
@@ -29,11 +25,9 @@ ___
 <p><i class="fa fa-laptop-code" aria-hidden="true" style="font-size:24px"></i>  Software development, Machine/Deep learning</p>
 </div>
 
-
+___
 
 ### **My Toolbox**
-
-___
 
 <div id="banner">
     <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/linux.png" style="height: 120px;"></div>
