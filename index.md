@@ -15,6 +15,8 @@ title: About me
 
 **E-mail:** songwz03@gmail.com
 
+My [resume](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume.pdf)
+
 ___
 
 ### **Research Interests**
