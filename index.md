@@ -36,10 +36,10 @@ ___
 
 
 <div id="banner">
-<div class="inline-block"><img src ="/assets/images/linux.png" style="height:120px;></div>
-<div class="inline-block"><img src ="/assets/images/Python.png" style="height:120px;></div>
-<div class="inline-block"><img src ="/assets/images/Rlogo.png" style="height:120px;></div>
-<div class="inline-block"><img src ="/assets/images/github-logo.png" style="height:120px;></div>
+<div class="inline-block"><img src ="/assets/images/linux.png" style="height:120px;"></div>
+<div class="inline-block"><img src ="/assets/images/Python.png" style="height:120px;"></div>
+<div class="inline-block"><img src ="/assets/images/Rlogo.png" style="height:120px;"></div>
+<div class="inline-block"><img src ="/assets/images/github-logo.png" style="height:120px;"></div>
 </div>
 
 ___
