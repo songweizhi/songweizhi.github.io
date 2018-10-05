@@ -56,6 +56,6 @@ ___
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/ISME2018.jpg" style="width: 600px;"></div>
-<div><p>ISME2018, Leipzig, Germany</p></div>
+<div><p>ISME 2018, Leipzig, Germany</p></div>
 
 ___
