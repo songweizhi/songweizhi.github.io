@@ -34,6 +34,17 @@ ___
 </a>
 </div>
 
+
+
+
+
+<div id="banner">
+<div class="inline-block"><img src ="/assets/images/linux.png"></div>
+<div class="inline-block"><img src ="/assets/images/Python.png"></div>
+<div class="inline-block"><img src ="/assets/images/Rlogo.png"></div>
+<div class="inline-block"><img src ="/assets/images/github-logo.png"></div>
+</div>
+
 ___
 
 
