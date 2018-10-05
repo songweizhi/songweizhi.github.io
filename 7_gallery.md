@@ -6,12 +6,12 @@ title: Gallery
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/wetwo.JPG" style="width: 600px;"></div>
-<div><p>We two <i class="far fa-smile-beam"></i></p></div>
+<div><p><i class="far fa-smile-beam"></i></p></div>
 
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/my_sweety.jpg" style="width: 600px;"></div>
-<div><p>My sweet <i class="far fa-kiss-wink-heart"></i></p></div>
+<div><p><i class="far fa-kiss-wink-heart"></i></p></div>
 
 ___
 
