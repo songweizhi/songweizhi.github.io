@@ -25,16 +25,6 @@ ___
 </div>
 
 
-<div>
-<a >
-  <img src="/assets/images/linux.png" style="height: 120px;">
-  <img src="/assets/images/Python.png" style="height: 120px;">
-  <img style="float:right;" class="img-sponsor" src="{{ site.baseurl }}/assets/images/Rlogo.png" style="height: 120px;">
-  <img style="float:right;" class="img-sponsor" src="{{ site.baseurl }}/assets/images/github-logo.png" style="height: 120px;">
-</a>
-</div>
-
-
 <div id="banner">
     <div class="inline-block"><img src ="/assets/images/linux.png" style="height:120px; display:inline-block;"></div>
     <div class="inline-block"><img src ="/assets/images/Python.png" style="height:120px; display:inline-block;"></div>
