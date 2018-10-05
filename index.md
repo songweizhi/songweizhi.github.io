@@ -4,7 +4,6 @@ title: About me
 ---
 
 
-
 ### **Who am I**
 
 <div class="small column">
