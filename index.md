@@ -7,13 +7,12 @@ title: About me
 
 ### **Who am I**
 
-**Name:** Weizhi Song
-
-**DOB:** March 1987
-
-**Nationality:** P.R. China
-
-**E-mail:** songwz03@gmail.com
+<div class="small column">
+<p>**Name:** Weizhi Song</p>
+<p>**DOB:** March 1987</p>
+<p>**Nationality:** P.R. China</p>
+<p>**E-mail:** songwz03@gmail.com</p>
+</div>
 
 ___
 
@@ -39,5 +38,4 @@ ___
 ___
 
 **Last updated:** October, 2018
-
 
