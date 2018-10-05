@@ -10,8 +10,8 @@ ___
 
 ___
 
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/we_too.jpg" style="width: 600px;"></div>
-<div><p>We too</p></div>
+<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/wetwo.JPG" style="width: 600px;"></div>
+<div><p>We two</p></div>
 
 ___
 
