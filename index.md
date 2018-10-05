@@ -10,7 +10,7 @@ ___
 <div class="small column">
 <p><i class="fa fa-microscope" aria-hidden="true" style="font-size:24px"></i>   Microbiology, Microbial ecology, Tree of life</p>
 <p><i class="fa fa-dna" aria-hidden="true" style="font-size:24px"></i>   Bioinformatics, Genomics, Metagenomics</p>
-<p><i class="fa fa-desktop" aria-hidden="true" style="font-size:24px"></i>  Software development, Machine/Deep learning</p>
+<p><i class="fa fa-laptop-code" aria-hidden="true" style="font-size:24px"></i>  Software development, Machine/Deep learning</p>
 </div>
 
 ___
