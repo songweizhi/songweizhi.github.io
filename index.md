@@ -17,8 +17,6 @@ ___
 
 ### **My Toolbox**
 
-
-
 <div id="banner">
     <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/linux.png" style="height: 120px;"></div>
     <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/Python.png" style="height: 120px;"></div>
@@ -28,7 +26,7 @@ ___
 
 ___
 
-**Last updated: October, 2018**
+**Last updated:** October, 2018
 
 ___
 
