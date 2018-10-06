@@ -65,6 +65,11 @@ ___
 
 ___
 
+<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Frankfurt.JPG" style="width: 600px;"></div>
+<div><p>Frankfurt, Germany</p></div>
+
+___
+
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Leipzig.JPG" style="width: 600px;"></div>
 <div><p>Leipzig, Germany</p></div>
 
