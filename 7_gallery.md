@@ -3,6 +3,8 @@ layout: page
 title: Gallery
 ---
 
+Playing with DNA sequences is fun, so do travelling...
+
 ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/wetwo.JPG" style="width: 600px;"></div>
