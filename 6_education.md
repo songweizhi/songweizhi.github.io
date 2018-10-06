@@ -5,7 +5,6 @@ title: Education
 
 ___
 
-
 <div class="row small center column">
   <img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 110px;">
 </div>
@@ -19,7 +18,6 @@ ___
 
 ___
 
-
 <div class="row small center column">
   <img style="float:right; display: block;" src="/assets/images/fio.png" style="width: 150px;">
 </div>
@@ -32,7 +30,6 @@ ___
 </div>
 
 ___
-
 
 <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 150px;">
 <div>
