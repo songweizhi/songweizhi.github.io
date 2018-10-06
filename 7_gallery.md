@@ -25,6 +25,11 @@ ___
 
 ___
 
+<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/HongKong.jpeg" style="width: 600px;"></div>
+<div><p>Hong Kong</p></div>
+
+___
+
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/great_wall.jpeg" style="width: 600px;"></div>
 <div><p>The Great Wall, Beijing, China</p></div>
 
