@@ -25,6 +25,11 @@ ___
 
 ___
 
+<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/great_wall.jpeg" style="width: 600px;"></div>
+<div><p>The Great Wall, Beijing, China</p></div>
+
+___
+
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Rome.jpg" style="width: 600px;"></div>
 <div><p>Rome Colosseum, Italy</p></div>
 
@@ -47,6 +52,11 @@ ___
 
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Venice.jpg" style="width: 600px;"></div>
 <div><p>Venice, Italy</p></div>
+
+___
+
+<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/prague.jpeg" style="width: 600px;"></div>
+<div><p>Prague, Czech</p></div>
 
 ___
 
