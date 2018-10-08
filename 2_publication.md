@@ -17,7 +17,7 @@ Yu YP, **Song WZ**, Lau SCK (2018) Transcriptomic analysis of E. coli and crypti
 [PDF](https://songweizhi.github.io/assets/pdfs/Publication_2018_HKUST_transcriptome.pdf)
 
 ####Zhang S, **Song WZ**, Wemheuer B, Thomas T (2018) Stages of Evolutionary Adaptation to the Sponge Environment in Thaumarchaeota. Environmental Microbiology (**Final preparation**).####
-####[PDF](https://songweizhi.github.io/assets/pdfs/Publication_2018_HKUST_transcriptome.pdf)####
+####[PDF]####(https://songweizhi.github.io/assets/pdfs/Publication_2018_HKUST_transcriptome.pdf)
 
 ___
 
