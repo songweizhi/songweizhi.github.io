@@ -20,5 +20,6 @@ ___
 **Publication:**
 
 **Song WZ**, Steensen K, Thomas T (2017) HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities. **PeerJ**, 5: e4015.
+[PDF](https://songweizhi.github.io/assets/pdfs/Publication_2017_HgtSIM.pdf)
 
 ___
