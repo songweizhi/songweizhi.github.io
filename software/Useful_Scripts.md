@@ -8,17 +8,17 @@ comments: false
 ___
 
 COG_wrapper.py
-___
-
-
-[https://github.com/songweizhi/HgtSIM](https://github.com/songweizhi/HgtSIM)
 
 ___
-
 
 KEGG_wrapper.py
 
+___
 
 get_purity.py
 
+___
+
 get_reads_from_sam.py
+___
+
