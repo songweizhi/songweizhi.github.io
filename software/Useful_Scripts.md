@@ -23,5 +23,7 @@ ___
 
 1. Reads_simulator.py
 
+1. Newick_tree_plotter.py
+
 ___
 
