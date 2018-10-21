@@ -52,19 +52,9 @@ ___
 ___
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/"><img src="/assets/photos/" style="height: 150px;"></a><div><p>Hong Kong</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/"><img src="/assets/photos/" style="height: 150px;"></a><div><p>Hong Kong</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Frankfurt.JPG"><img src="/assets/photos/Frankfurt.JPG" style="height: 150px;"></a><div><p>Frankfurt</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Leipzig.JPG"><img src="/assets/photos/Leipzig.JPG" style="height: 150px;"></a><div><p>Leipzig</p></div></div>
 </div>
-
-___
-
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Frankfurt.JPG" style="width: 600px;"></div>
-<div><p>Frankfurt, Germany</p></div>
-
-___
-
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Leipzig.JPG" style="width: 600px;"></div>
-<div><p>Leipzig, Germany</p></div>
 
 ___
 
