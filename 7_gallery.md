@@ -9,38 +9,17 @@ ___
 
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/wetwo.JPG" style="width: 200px;"></div>
-	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/my_sweety.jpg" style="width: 200px;"></div>
+	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/wetwo.JPG" style="height: 150px;"></div>
+	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/my_sweety.jpg" style="height: 150px;"></div>
 </div>
 
 ___
 
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/Sydney.jpg" style="width: 200px;"></div>
-	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/Taipei.jpg" style="width: 200px;"></div>
+	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/Sydney.jpg" style="height: 150px;"></div>
+	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/Taipei.jpg" style="height: 150px;"></div>
 </div>
-
-___
-
-
-<div id="banner">
-	<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/wetwo.JPG" style="width: 200px;"></div>
-	<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/my_sweety.jpg" style="width: 200px;"></div>
-	<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Sydney.jpg" style="width: 200px;"></div>
-	<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Taipei.jpg" style="width: 200px;"></div>
-</div>
-
-___
-
-
-<div id="banner">
-    <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/linux.png" style="height: 120px;"></div>
-    <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/Python.png" style="height: 120px;"></div>
-    <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/Rlogo.png" style="height: 120px;"></div>
-    <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/github-logo.png" style="height: 120px;"></div>
-</div>
-
 
 ___
 
