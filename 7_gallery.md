@@ -23,34 +23,10 @@ ___
 
 ___
 
-
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/wetwo.JPG" style="width: 600px;"></div>
-<div><p><i class="far fa-smile-beam"></i></p></div>
-
-___
-
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/my_sweety.jpg" style="width: 600px;"></div>
-<div><p><i class="far fa-kiss-wink-heart"></i></p></div>
-
-___
-
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Sydney.jpg" style="width: 600px;"></div>
-<div><p>Sydney Opera House, Australia</p></div>
-
-___
-
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Taipei.jpg" style="width: 600px;"></div>
-<div><p>Taipei 101, Taiwan</p></div>
-
-___
-
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/HongKong.jpeg" style="width: 600px;"></div>
-<div><p>Hong Kong</p></div>
-
-___
-
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/great_wall.jpeg" style="width: 600px;"></div>
-<div><p>The Great Wall, Beijing, China</p></div>
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/HongKong.jpeg"><img src="/assets/photos/HongKong.jpeg" style="height: 150px;"></a><div><p>Hong Kong</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/great_wall.jpeg"><img src="/assets/photos/great_wall.jpeg" style="height: 150px;"></a><div><p>The Great Wall</p></div></div>
+</div>
 
 ___
 
