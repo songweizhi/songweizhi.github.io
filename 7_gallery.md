@@ -34,3 +34,22 @@ Italy 2018
 </div>
 
 ___
+
+Germany and Czech
+
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Frankfurt.JPG"><img src="/assets/photos/Frankfurt.JPG" style="height: 120px;"></a><div><p>Frankfurt</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Leipzig.JPG"><img src="/assets/photos/Leipzig.JPG" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/prague.jpeg"><img src="/assets/photos/prague.jpeg" style="height: 120px;"></a><div><p>Prague</p></div></div>
+</div>
+
+___
+
+ISME 2018 (Germany)
+
+
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018.jpg"><img src="/assets/photos/ISME2018.jpg" style="height: 120px;"></a><div><p>ISME 2018, Germany</p></div></div>
+</div>
+
+
