@@ -9,7 +9,7 @@ ___
 
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/wetwo.JPG"><img src="/assets/photos/wetwo.JPG" style="height: 150px;"></a></div>
+	<div class="inline-block" style="display:inline-block;"><a href="default.asp"><img src="/assets/photos/wetwo.JPG" alt="/assets/photos/wetwo.JPG" style="height: 150px;"></a></div>
 	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/wetwo.JPG" style="height: 150px;"><div><p><i class="far fa-smile-beam"></i></p></div></div>
 	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/my_sweety.jpg" style="height: 150px;"><div><p><i class="far fa-kiss-wink-heart"></i></p></div></div>
 </div>
