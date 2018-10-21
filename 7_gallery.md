@@ -30,33 +30,31 @@ ___
 
 ___
 
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Rome.jpg" style="width: 600px;"></div>
-<div><p>Rome Colosseum, Italy</p></div>
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Rome.jpg"><img src="/assets/photos/Rome.jpg" style="height: 150px;"></a><div><p>Rome</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Milan.jpg"><img src="/assets/photos/Milan.jpg" style="height: 150px;"></a><div><p>Milan</p></div></div>
+</div>
 
 ___
 
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Milan.jpg" style="width: 600px;"></div>
-<div><p>Milan Cathedral, Italy</p></div>
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Florence.jpg"><img src="/assets/photos/Florence.jpg" style="height: 150px;"></a><div><p>Florence</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Pisa.jpg"><img src="/assets/photos/Pisa.jpg" style="height: 150px;"></a><div><p>Pisa</p></div></div>
+</div>
 
 ___
 
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Florence.jpg" style="width: 600px;"></div>
-<div><p>Florence Cathedral, Italy</p></div>
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Venice.jpg"><img src="/assets/photos/Venice.jpg" style="height: 150px;"></a><div><p>Venice</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/prague.jpeg"><img src="/assets/photos/prague.jpeg" style="height: 150px;"></a><div><p>Prague</p></div></div>
+</div>
 
 ___
 
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Pisa.jpg" style="width: 600px;"></div>
-<div><p>Pisa Cathedral, Italy</p></div>
-
-___
-
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Venice.jpg" style="width: 600px;"></div>
-<div><p>Venice, Italy</p></div>
-
-___
-
-<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/prague.jpeg" style="width: 600px;"></div>
-<div><p>Prague, Czech</p></div>
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/"><img src="/assets/photos/" style="height: 150px;"></a><div><p>Hong Kong</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/"><img src="/assets/photos/" style="height: 150px;"></a><div><p>Hong Kong</p></div></div>
+</div>
 
 ___
 
