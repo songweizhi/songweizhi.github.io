@@ -24,16 +24,6 @@ ___
 ___
 
 
-<div id="banner">
-	<div><p><i class="far fa-smile-beam"></i></p></div>
-	<div><p><i class="far fa-kiss-wink-heart"></i></p></div>
-	<div><p>Sydney Opera House, Australia</p></div>
-	<div><p>Taipei 101, Taiwan</p></div>
-</div>
-
-___
-
-
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/wetwo.JPG" style="width: 600px;"></div>
 <div><p><i class="far fa-smile-beam"></i></p></div>
 
