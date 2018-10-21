@@ -26,7 +26,7 @@ ___
 
 ___
 
-Taiwan 2017
+**Taiwan 2017**
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 120px;"></a><div><p>Taipei 101</p></div></div>
@@ -35,7 +35,7 @@ Taiwan 2017
 
 ___
 
-Italy 2018
+**Italy 2018**
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Rome.jpg"><img src="/assets/photos/Rome.jpg" style="height: 120px;"></a><div><p>Rome</p></div></div>
@@ -47,7 +47,7 @@ Italy 2018
 
 ___
 
-Germany and Czech 2018
+**Germany and Czech 2018**
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Frankfurt.JPG"><img src="/assets/photos/Frankfurt.JPG" style="height: 120px;"></a><div><p>Frankfurt</p></div></div>
@@ -57,7 +57,7 @@ Germany and Czech 2018
 
 ___
 
-ISME 2018 (Germany)
+**ISME 2018 (Germany)**
 
 
 <div id="banner">
