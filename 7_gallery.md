@@ -28,7 +28,7 @@ Playing with DNA sequences is fun, so do travelling...
 ___
 
 
-***Taiwan 2017***
+**Taiwan 2017**
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 120px;"></a><div><p>Taipei 101</p></div></div>
