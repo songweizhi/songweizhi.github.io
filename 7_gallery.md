@@ -39,7 +39,7 @@ Italy 2018
 
 ___
 
-Germany and Czech
+Germany and Czech 2018
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Frankfurt.JPG"><img src="/assets/photos/Frankfurt.JPG" style="height: 120px;"></a><div><p>Frankfurt</p></div></div>
