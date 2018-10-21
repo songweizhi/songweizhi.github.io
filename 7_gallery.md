@@ -10,7 +10,7 @@ ___
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/wetwo.JPG"><img src="/assets/photos/wetwo.JPG" style="height: 150px;"></a><div><p><i class="far fa-smile-beam"></i></p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/my_sweety.JPG"><img src="/assets/photos/my_sweety.JPG" style="height: 150px;"></a><div><p><i class="far fa-kiss-wink-heart"></i></p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/wetwo.JPG"><img src="/assets/photos/wetwo.JPG" style="height: 150px;"></a><div><p><i class="far fa-smile-beam"></i></p></div></div>
 </div>
 
 ___
