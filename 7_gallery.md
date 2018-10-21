@@ -20,10 +20,18 @@ ___
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Sydney.jpg"><img src="/assets/photos/Sydney.jpg" style="height: 120px;"></a><div><p>Sydney Opera House</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 120px;"></a><div><p>Taipei 101</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/HongKong.jpeg"><img src="/assets/photos/HongKong.jpeg" style="height: 120px;"></a><div><p>Hong Kong</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/great_wall.jpeg"><img src="/assets/photos/great_wall.jpeg" style="height: 120px;"></a><div><p>The Great Wall</p></div></div>
 </div>
+
+___
+
+Taiwan 2017
+
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 120px;"></a><div><p>Taipei 101</p></div></div>
+</div>
+
 
 ___
 
