@@ -9,7 +9,7 @@ ___
 
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;">[<img src="/assets/photos/wetwo.JPG" style="height: 150px;"></div>](/assets/photos/wetwo.JPG)
+	<div class="inline-block" style="display:inline-block;">[<img src="/assets/photos/wetwo.JPG" style="height: 150px;">](/assets/photos/wetwo.JPG)</div>
 	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/wetwo.JPG" style="height: 150px;"></div>
 	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/my_sweety.jpg" style="height: 150px;"></div>
 </div>
