@@ -7,48 +7,6 @@ Playing with DNA sequences is fun, so do travelling...
 
 ___
 
-
-<div id="banner">
-	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/wetwo.JPG" style="width: 200px;"></div>
-	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/my_sweety.jpg" style="width: 200px;"></div>
-	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/Sydney.jpg" style="width: 200px;"></div>
-	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/Taipei.jpg" style="width: 200px;"></div>
-</div>
-
-___
-
-
-<div id="banner">
-	<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/wetwo.JPG" style="width: 200px;"></div>
-	<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/my_sweety.jpg" style="width: 200px;"></div>
-	<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Sydney.jpg" style="width: 200px;"></div>
-	<div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/Taipei.jpg" style="width: 200px;"></div>
-</div>
-
-___
-
-
-<div id="banner">
-    <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/linux.png" style="height: 120px;"></div>
-    <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/Python.png" style="height: 120px;"></div>
-    <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/Rlogo.png" style="height: 120px;"></div>
-    <div class="inline-block" style="display:inline-block;"><img src ="/assets/images/github-logo.png" style="height: 120px;"></div>
-</div>
-
-
-___
-
-
-<div id="banner">
-	<div><p><i class="far fa-smile-beam"></i></p></div>
-	<div><p><i class="far fa-kiss-wink-heart"></i></p></div>
-	<div><p>Sydney Opera House, Australia</p></div>
-	<div><p>Taipei 101, Taiwan</p></div>
-</div>
-
-___
-
-
 <div class="row small center column"><img style="float:right; display: block;" src="/assets/photos/wetwo.JPG" style="width: 600px;"></div>
 <div><p><i class="far fa-smile-beam"></i></p></div>
 
