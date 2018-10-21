@@ -11,6 +11,12 @@ ___
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/wetwo.JPG" style="width: 200px;"></div>
 	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/my_sweety.jpg" style="width: 200px;"></div>
+</div>
+
+___
+
+
+<div id="banner">
 	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/Sydney.jpg" style="width: 200px;"></div>
 	<div class="inline-block" style="display:inline-block;"><img src="/assets/photos/Taipei.jpg" style="width: 200px;"></div>
 </div>
