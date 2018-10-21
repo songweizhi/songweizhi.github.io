@@ -3,8 +3,6 @@ layout: page
 title: Gallery
 ---
 
-Playing with DNA sequences is fun, so do travelling...
-
 ___
 
 <div><p><i class="far fa-smile-beam"></i><i class="far fa-smile-beam"></i><i class="far fa-smile-beam"></i></p></div>
@@ -16,6 +14,9 @@ ___
 </div>
 
 ___
+
+Playing with DNA sequences is fun, so do travelling...
+
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Sydney.jpg"><img src="/assets/photos/Sydney.jpg" style="height: 120px;"></a><div><p>Sydney</p></div></div>
