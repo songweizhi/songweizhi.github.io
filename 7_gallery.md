@@ -10,15 +10,15 @@ ___
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/wetwo.JPG"><img src="/assets/photos/wetwo.JPG" style="height: 150px;"></a><div><p><i class="far fa-smile-beam"></i></p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/my_sweety.jpg"><img src="/assets/photos/my_sweety.jpg" style="height: 150px;"></a><div><p><i class="far fa-smile-beam"></i></p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/my_sweety.jpg"><img src="/assets/photos/my_sweety.jpg" style="height: 150px;"></a><div><p><i class="far fa-kiss-wink-heart"></i></p></div></div>
 </div>
 
 ___
 
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Sydney.jpg"><img src="/assets/photos/Sydney.jpg" style="height: 150px;"></a><div><p>Sydney Opera House, Australia</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 150px;"></a><div><p>Taipei 101, Taiwan</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Sydney.jpg"><img src="/assets/photos/Sydney.jpg" style="height: 150px;"></a><div><p>Sydney Opera House</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 150px;"></a><div><p>Taipei 101</p></div></div>
 </div>
 
 ___
