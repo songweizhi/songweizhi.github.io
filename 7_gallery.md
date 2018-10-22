@@ -27,13 +27,11 @@ Playing with DNA sequences is fun, so do travelling...
 
 ___
 
-
 **Taiwan 2017**
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 120px;"></a><div><p>Taipei 101</p></div></div>
 </div>
-
 
 ___
 
@@ -61,14 +59,12 @@ ___
 
 **ISME 2018 (Germany)**
 
-
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018.jpg"><img src="/assets/photos/ISME2018.jpg" style="height: 120px;"></a><div><p>ISME2018</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018.jpg"><img src="/assets/photos/ISME2018.jpg" style="height: 120px;"></a><div><p>ISME2018</p></div></div>
 </div>
 
 ___
-
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018.jpg"><img src="/assets/photos/ISME2018.jpg" style="height: 120px;"></a><div><p>ISME2018</p></div></div>
@@ -84,3 +80,10 @@ ___
 </div>
 
 ___
+
+
+
+
+
+
+
