@@ -5,7 +5,7 @@ title: Gallery
 
 ___
 
-<div><p><i class="far fa-smile-beam"></i><i class="far fa-smile-beam"></i><i class="far fa-smile-beam"></i></p></div>
+<div><p><i class="far fa-smile-beam"></i> <i class="far fa-smile-beam"></i> <i class="far fa-smile-beam"></i></p></div>
 
 
 <div id="banner">
