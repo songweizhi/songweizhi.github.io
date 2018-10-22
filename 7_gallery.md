@@ -67,6 +67,7 @@ ___
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018.jpg"><img src="/assets/photos/ISME2018.jpg" style="height: 120px;"></a><div><p>ISME2018</p></div></div>
 </div>
 
+___
 
 
 <div id="banner">
@@ -82,3 +83,4 @@ ___
 	
 </div>
 
+___
