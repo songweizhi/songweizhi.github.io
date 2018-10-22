@@ -5,7 +5,7 @@ title: Gallery
 
 ___
 
-<div><p><i class="far fa-smile-beam"></i> <i class="far fa-smile-beam"></i> <i class="far fa-smile-beam"></i></p></div>
+<div><p><i class="far fa-smile-beam"></i><i class="far fa-smile-beam"></i><i class="far fa-smile-beam"></i></p></div>
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/wetwo.JPG"><img src="/assets/photos/wetwo.JPG" style="height: 120px;"></a></div>
