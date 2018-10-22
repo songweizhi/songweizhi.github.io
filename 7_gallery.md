@@ -70,12 +70,10 @@ ___
 
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018.jpg"><img src="/assets/photos/ISME2018.jpg" style="height: 120px;"></a><div><p>ISME2018</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018.jpg"><img src="/assets/photos/ISME2018.jpg" style="height: 120px;"></a><div><p>ISME2018</p></div></div>
-	
+
 	<div id="banner">
 		<div class="inline-block" style="display:inline-block;">
-			<a href="/assets/photos/ISME2018.jpg"><img src="/assets/photos/ISME2018.jpg" style="height: 120px;"></a>
+			<a href="/assets/photos/ISME2018_1.jpg"><img src="/assets/photos/ISME2018_1.jpg" style="height: 120px;"></a>
 			<div><p>ISME2018</p></div>
 		</div>
 	</div>
