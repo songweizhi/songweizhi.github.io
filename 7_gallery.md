@@ -60,6 +60,16 @@ ___
 **ISME 2018 (Germany)**
 
 <div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018_1.jpg"><img src="/assets/photos/ISME2018_1.jpg" style="height: 120px;"></a><div><p>Frankfurt</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018_2.jpg"><img src="/assets/photos/ISME2018_2.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018_3.jpg"><img src="/assets/photos/ISME2018_3.jpg" style="height: 120px;"></a><div><p>Prague</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018_4.jpg"><img src="/assets/photos/ISME2018_4.jpg" style="height: 120px;"></a><div><p>Prague</p></div></div>
+</div>
+
+___
+
+
+<div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018_1.jpg"><img src="/assets/photos/ISME2018_1.jpg" style="height: 120px;"></a><div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018_2.jpg"><img src="/assets/photos/ISME2018_2.jpg" style="height: 120px;"></a><div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018_3.jpg"><img src="/assets/photos/ISME2018_3.jpg" style="height: 120px;"></a><div>
@@ -67,6 +77,7 @@ ___
 </div>
 
 ___
+
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018.jpg"><img src="/assets/photos/ISME2018.jpg" style="height: 120px;"></a><div><p>ISME2018</p></div></div>
