@@ -10,6 +10,7 @@ ___
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/wetwo.JPG"><img src="/assets/photos/wetwo.JPG" style="height: 120px;"></a></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/my_sweety.jpg"><img src="/assets/photos/my_sweety.jpg" style="height: 120px;"></a></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/images/songweizhi_3.jpg"><img src="/assets/images/songweizhi_3.jpg" style="height: 120px;"></a></div>
 </div>
 
 ___
@@ -32,8 +33,8 @@ ___
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Sydney.jpg"><img src="/assets/photos/Sydney.jpg" style="height: 120px;"></a><div><p>Sydney</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Palm_Beach.JPG"><img src="/assets/photos/Palm_Beach.JPG" style="height: 120px;"></a><div><p>Palm Beach</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Coogee_Beach.JPG"><img src="/assets/photos/Coogee_Beach.JPG" style="height: 120px;"></a><div><p>Coogee Beach</p></div></div>
 </div>
-
 
 ___
 
