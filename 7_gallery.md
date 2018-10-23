@@ -19,9 +19,7 @@ Playing with DNA sequences is fun, so do travelling...
 
 ___
 
-
 **China**
-
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/great_wall.jpeg"><img src="/assets/photos/great_wall.jpeg" style="height: 120px;"></a><div><p>The Great Wall</p></div></div>
 </div>
@@ -29,7 +27,6 @@ ___
 ___
 
 **Australia**
-
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Sydney.jpg"><img src="/assets/photos/Sydney.jpg" style="height: 120px;"></a><div><p>Sydney</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Palm_Beach.JPG"><img src="/assets/photos/Palm_Beach.JPG" style="height: 120px;"></a><div><p>Palm Beach</p></div></div>
@@ -39,7 +36,6 @@ ___
 ___
 
 **Hong Kong**
-
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/HongKong.jpeg"><img src="/assets/photos/HongKong.jpeg" style="height: 120px;"></a><div><p>Hong Kong</p></div></div>
 </div>
@@ -47,19 +43,16 @@ ___
 ___
 
 **Taiwan 2017**
-
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_1.jpg"><img src="/assets/photos/Taiwan_1.jpg" style="height: 120px;"></a><div><p>Taiwan</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 120px;"></a><div><p>Taipei 101</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_2.jpg"><img src="/assets/photos/Taiwan_2.jpg" style="height: 120px;"></a><div><p>Hualian</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_3.jpg"><img src="/assets/photos/Taiwan_3.jpg" style="height: 120px;"></a><div><p>Jiufen</p></div></div>
-
 </div>
 
 ___
 
 **Italy 2018**
-
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Rome.jpg"><img src="/assets/photos/Rome.jpg" style="height: 120px;"></a><div><p>Rome</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Milan_1.jpg"><img src="/assets/photos/Milan_1.jpg" style="height: 120px;"></a><div><p>Milan</p></div></div>
@@ -82,7 +75,7 @@ ___
 
 ___
 
-**ISME 2018 (Germany)**
+**ISME 2018 (Leipzig, Germany)**
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018_1.jpg"><img src="/assets/photos/ISME2018_1.jpg" style="height: 120px;"></a></div>
