@@ -27,6 +27,7 @@ ___
 **Taiwan 2017**
 
 <div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_1.jpg"><img src="/assets/photos/Taiwan_1.jpg" style="height: 120px;"></a><div><p>Taiwan 101</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 120px;"></a><div><p>Taipei 101</p></div></div>
 </div>
 
@@ -36,7 +37,8 @@ ___
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Rome.jpg"><img src="/assets/photos/Rome.jpg" style="height: 120px;"></a><div><p>Rome</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Milan.jpg"><img src="/assets/photos/Milan.jpg" style="height: 120px;"></a><div><p>Milan</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Milan_1.jpg"><img src="/assets/photos/Milan_1.jpg" style="height: 120px;"></a><div><p>Milan</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Milan_2.jpg"><img src="/assets/photos/Milan_2.jpg" style="height: 120px;"></a><div><p>Milan</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Florence.jpg"><img src="/assets/photos/Florence.jpg" style="height: 120px;"></a><div><p>Florence</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Pisa.jpg"><img src="/assets/photos/Pisa.jpg" style="height: 120px;"></a><div><p>Pisa</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Venice.jpg"><img src="/assets/photos/Venice.jpg" style="height: 120px;"></a><div><p>Venice</p></div></div>
@@ -48,7 +50,8 @@ ___
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Frankfurt.JPG"><img src="/assets/photos/Frankfurt.JPG" style="height: 120px;"></a><div><p>Frankfurt</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Leipzig.JPG"><img src="/assets/photos/Leipzig.JPG" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Leipzig_1.JPG"><img src="/assets/photos/Leipzig_1.JPG" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Leipzig_2.JPG"><img src="/assets/photos/Leipzig_2.JPG" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/prague.jpeg"><img src="/assets/photos/prague.jpeg" style="height: 120px;"></a><div><p>Prague</p></div></div>
 </div>
 
