@@ -31,7 +31,9 @@ ___
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Sydney.jpg"><img src="/assets/photos/Sydney.jpg" style="height: 120px;"></a><div><p>Sydney</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Palm_Beach.JPG"><img src="/assets/photos/Palm_Beach.JPG" style="height: 120px;"></a><div><p>Palm Beach</p></div></div>
 </div>
+
 
 ___
 
@@ -48,8 +50,8 @@ ___
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_1.jpg"><img src="/assets/photos/Taiwan_1.jpg" style="height: 120px;"></a><div><p>Taiwan</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 120px;"></a><div><p>Taipei 101</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_2.jpg"><img src="/assets/photos/Taiwan_2.jpg" style="height: 120px;"></a><div><p>Taiwan</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_3.jpg"><img src="/assets/photos/Taiwan_3.jpg" style="height: 120px;"></a><div><p>Taiwan</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_2.jpg"><img src="/assets/photos/Taiwan_2.jpg" style="height: 120px;"></a><div><p>Hualian</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_3.jpg"><img src="/assets/photos/Taiwan_3.jpg" style="height: 120px;"></a><div><p>Jiufen</p></div></div>
 
 </div>
 
