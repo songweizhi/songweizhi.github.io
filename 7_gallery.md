@@ -65,7 +65,6 @@ ___
 ___
 
 **Germany and Czech 2018**
-
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Frankfurt.JPG"><img src="/assets/photos/Frankfurt.JPG" style="height: 120px;"></a><div><p>Frankfurt</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Leipzig_1.JPG"><img src="/assets/photos/Leipzig_1.JPG" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
@@ -76,7 +75,6 @@ ___
 ___
 
 **ISME 2018 (Leipzig, Germany)**
-
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018_1.jpg"><img src="/assets/photos/ISME2018_1.jpg" style="height: 120px;"></a></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/ISME2018_2.jpg"><img src="/assets/photos/ISME2018_2.jpg" style="height: 120px;"></a></div>
