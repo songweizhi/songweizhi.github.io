@@ -4,7 +4,6 @@ title: About me
 ---
 
 
-
 ## **Who am I** 
 
 **Name:** Weizhi Song
@@ -14,8 +13,6 @@ title: About me
 **Nationality:** P.R. China
 
 **E-mail:** songwz03@gmail.com
-
-**Resume:** [[PDF]](https://songweizhi.github.io/assets/pdfs/Weizhi_Song_resume_.pdf)
 
 ___
 
