@@ -11,6 +11,7 @@ ___
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/wetwo.JPG"><img src="/assets/photos/wetwo.JPG" style="height: 120px;"></a></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/my_sweety.jpg"><img src="/assets/photos/my_sweety.jpg" style="height: 120px;"></a></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/images/songweizhi_3.jpg"><img src="/assets/images/songweizhi_3.jpg" style="height: 120px;"></a></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/images/songweizhi_4.jpg"><img src="/assets/images/songweizhi_4.jpg" style="height: 120px;"></a></div>
 </div>
 
 ___
