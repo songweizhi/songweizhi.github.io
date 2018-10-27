@@ -18,7 +18,7 @@ ___
 
 Playing with DNA sequences is fun, so do travelling...
 
-___
+
 
 **China**
 <div id="banner">
