@@ -16,7 +16,7 @@ ___
 
 ___
 
-Playing with DNA sequences is fun, so do travelling...
+**Playing with DNA sequences is fun, so do travelling...**
 
 
 
