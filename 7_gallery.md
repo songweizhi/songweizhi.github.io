@@ -63,6 +63,10 @@ ___
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Florence.jpg"><img src="/assets/photos/Florence.jpg" style="height: 120px;"></a><div><p>Florence</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Pisa.jpg"><img src="/assets/photos/Pisa.jpg" style="height: 120px;"></a><div><p>Pisa</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Venice.jpg"><img src="/assets/photos/Venice.jpg" style="height: 120px;"></a><div><p>Venice</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Pompeii_1.JPG"><img src="/assets/photos/Pompeii_1.JPG" style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Pompeii_2.JPG"><img src="/assets/photos/Pompeii_2.JPG" style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Pompeii_3.JPG"><img src="/assets/photos/Pompeii_3.JPG" style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Pompeii_4.JPG"><img src="/assets/photos/Pompeii_4.JPG" style="height: 120px;"></a><div><p>Pompeii</p></div></div>
 </div>
 
 ___
