@@ -48,9 +48,9 @@ ___
 **Taiwan 2017**
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_1.jpg"><img src="/assets/photos/Taiwan_1.jpg" style="height: 120px;"></a><div><p>Taiwan</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 120px;"></a><div><p>Taipei 101</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_2.jpg"><img src="/assets/photos/Taiwan_2.jpg" style="height: 120px;"></a><div><p>Hualian</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_3.jpg"><img src="/assets/photos/Taiwan_3.jpg" style="height: 120px;"></a><div><p>Jiufen</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taipei.jpg"><img src="/assets/photos/Taipei.jpg" style="height: 120px;"></a><div><p>台北101</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_2.jpg"><img src="/assets/photos/Taiwan_2.jpg" style="height: 120px;"></a><div><p>花莲</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/Taiwan_3.jpg"><img src="/assets/photos/Taiwan_3.jpg" style="height: 120px;"></a><div><p>九份</p></div></div>
 </div>
 
 ___
