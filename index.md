@@ -3,15 +3,6 @@ layout: default
 title: About me
 ---
 
-
-## **Who am I** 
-
-**Name:** Weizhi Song
-
-**Nationality:** P.R. China
-
-**E-mail:** songwz03@gmail.com
-
 ___
 
 ## **Research Interests**
