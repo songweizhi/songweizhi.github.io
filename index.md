@@ -8,8 +8,6 @@ title: About me
 
 **Name:** Weizhi Song
 
-**DOB:** March 1987
-
 **Nationality:** P.R. China
 
 **E-mail:** songwz03@gmail.com
@@ -37,6 +35,6 @@ ___
 
 ___
 
-**Last updated:** October, 2018
+**Last updated:** April, 2019
 
 
