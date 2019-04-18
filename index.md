@@ -3,7 +3,6 @@ layout: default
 title: About me
 ---
 
-___
 
 ## **Research Interests**
 
