@@ -10,15 +10,6 @@ ___
 **Song WZ**, Wemheuer B, Zhang S, Steensen K, Thomas T (2019) MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches. Microbiome. 7:36.
 [PDF](https://songweizhi.github.io/assets/pdfs/Publication_2018_MetaCHIP.pdf)
 
-**Song WZ**, Thomas T, Edwards R (2019) Complete genome sequences of pooled genomic DNA from 10 marinebacteria using PacBio long-read sequencing. GigaScience, (**Under review**). 
-[PDF](https://songweizhi.github.io/assets/pdfs/Publication_2018_PacBio_manuscript.pdf)
-
-Yu YP, **Song WZ**, Lau SCK (2019) Transcriptomic analysis of E. coli and cryptic Escherichia growing in the pore water provides insights into their survival strategy in coastal marine sediment. Environmental Microbiology, (**Under review**)
-[PDF](https://songweizhi.github.io/assets/pdfs/Publication_2018_HKUST_transcriptome.pdf)
-
-Zhang S, **Song WZ**, Wemheuer B, Thomas T (2019) Stages of Evolutionary Adaptation to the Sponge Environment in Thaumarchaeota. Environmental Microbiology (**Final preparation**).
-[PDF](https://songweizhi.github.io/assets/pdfs/Publication_2018_HKUST_transcriptome.pdf)
-
 ___
 
 **2017**
