@@ -3,14 +3,14 @@ layout: page
 title: Publications
 ---
 
-<p style="font-size:20px;">
+
 
 ___
 
 **2019**
 
-**Song WZ**, Wemheuer B, Zhang S, Steensen K, Thomas T (2019) MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches. Microbiome. 7:36.
-[PDF](https://songweizhi.github.io/assets/pdfs/Publication_2018_MetaCHIP.pdf)
+<p style="font-size:10px;">**Song WZ**, Wemheuer B, Zhang S, Steensen K, Thomas T (2019) MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches. Microbiome. 7:36.
+[PDF](https://songweizhi.github.io/assets/pdfs/Publication_2018_MetaCHIP.pdf)</p>
 
 ___
 
@@ -48,4 +48,3 @@ ___
 ___
 
 
-</p>
