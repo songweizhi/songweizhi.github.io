@@ -5,8 +5,6 @@ title: Publications
 
 ___
 
-<p>
-
 **2019**
 
 **Song WZ**, Wemheuer B, Zhang S, Steensen K, Thomas T (2019) MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches. Microbiome. 7:36.
@@ -44,5 +42,5 @@ ___
 
 **Song WZ**, Lin XZ, Che S (2012) Identification of regulatory sequences and expression analysis of OmpR gene under different stress conditions in the Antarctic bacterium Psychrobacter sp. G. Current Microbiology. 66(3): 259-65. 
 [PDF](https://songweizhi.github.io/assets/pdfs/Publication_2012_OmpR.pdf)
-</p>
+
 ___
