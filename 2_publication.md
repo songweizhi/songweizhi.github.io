@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-<p style="font-size:50px;">
+<p style="font-size:20px;">
 ___
 
 **2019**
