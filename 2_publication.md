@@ -3,6 +3,7 @@ layout: page
 title: Publications
 ---
 
+<p style="font-size:50px;">
 ___
 
 **2019**
@@ -44,3 +45,5 @@ ___
 [PDF](https://songweizhi.github.io/assets/pdfs/Publication_2012_OmpR.pdf)
 
 ___
+
+</p>
