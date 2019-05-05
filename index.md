@@ -3,6 +3,10 @@ layout: default
 title: About me
 ---
 
+[![pypi   licence        ](https://img.shields.io/pypi/l/MyBioTools.svg)](https://opensource.org/licenses/gpl-3.0.html)
+[![pypi   version        ](https://img.shields.io/pypi/v/MyBioTools.svg)](https://pypi.python.org/pypi/MyBioTools) 
+[![pypi   download month ](https://img.shields.io/pypi/dm/MyBioTools.svg)](https://pypi.python.org/pypi/MyBioTools)
+
 
 ## **Research Interests**
 
