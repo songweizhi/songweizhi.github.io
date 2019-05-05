@@ -44,7 +44,7 @@ ___
 <div id="banner">
     
     <div class="inline-block" style="display:inline-block;">
-    <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 160px;">
+    <img style="float:right; display: block;" src="/assets/images/fio.png" style="width: 160px;">
     </div>
 	
 	<div class="inline-block" style="display:inline-block;">
