@@ -5,20 +5,6 @@ title: Education
 
 ___
 
-<div class="row small center column">
-  <img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 110px;">
-</div>
-
-<div>
-<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:24px"></i> Doctor of Philosophy </p>
-<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px"></i> 2015 - 2019 </p>
-<p><i class="fa fa-book" aria-hidden="true" style="font-size:24px"></i> Microbiology and Bioinformatics </p>
-<p><i class="fa fa-university" aria-hidden="true" style="font-size:24px"></i> The University of New South Wales, Sydney, Australia </p>
-</div>
-
-
-___
-
 <div id="banner">
     
     <div class="inline-block" style="display:inline-block;">
