@@ -25,6 +25,4 @@ ___
 
 ___
 
-![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)
-[![HitCount](http://hits.dwyl.io/dwyl/hits.svg)](https://github.com/dwyl/hits)
-![HitCount](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)
+![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange) ![HitCount](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)
