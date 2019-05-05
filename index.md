@@ -27,20 +27,3 @@ ___
 
 <span class="badge badge-primary">![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)</span>
 <span class="badge badge-secondary">![HitCount](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)</span>
-
-![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)
-![HitCount](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)
-
-
-<span class="badge badge-default">Default</span>
-<span class="badge badge-primary">Primary</span>
-<span class="badge badge-secondary">Secondary</span>
-<span class="badge badge-success">Success</span>
-<span class="badge badge-danger">Danger</span>
-<span class="badge badge-warning">Warning</span>
-<span class="badge badge-info">Info</span>
-<span class="badge badge-light">Light</span>
-<span class="badge badge-dark">Dark</span>
-
-<p>Here are a few examples:</p>
-<p><img alt="green" src="https://assets.readthedocs.org/static/projects/badges/passing-flat.svg" />&nbsp;<img alt="red" src="https://assets.readthedocs.org/static/projects/badges/failing-flat.svg" />&nbsp;<img alt="yellow" src="https://assets.readthedocs.org/static/projects/badges/unknown-flat.svg" /></p>
