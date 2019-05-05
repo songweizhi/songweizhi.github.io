@@ -3,13 +3,6 @@ layout: default
 title: About me
 ---
 
-[![](https://img.shields.io/pypi/l/MyBioTools.svg)](https://opensource.org/licenses/gpl-3.0.html)
-[![](https://img.shields.io/pypi/v/MyBioTools.svg)](https://pypi.python.org/pypi/MyBioTools) 
-[![](https://img.shields.io/pypi/dm/MyBioTools.svg)](https://pypi.python.org/pypi/MyBioTools)
-
-![Last update](https://img.shields.io/static/v1.svg?label=update&message=2019-04&color=orange)
-
-
 ## **Research Interests**
 
 <div class="small column">
@@ -32,6 +25,6 @@ ___
 
 ___
 
-**Last updated:** April, 2019
+![Last update](https://img.shields.io/static/v1.svg?label=update&message=2019-04&color=orange)
 
 
