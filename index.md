@@ -25,12 +25,6 @@ ___
 
 ___
 
-<div id="banner">
-    <div class="badge badge-secondary block-badge" style="display:inline-block;"><![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)></div>
-    <div class="badge badge-secondary block-badge" style="display:inline-block;"><![HitCount](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)></div>
-</div>
-
-
 <span class="badge badge-secondary block-badge">![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)</span>
 <span class="badge badge-secondary block-badge">![HitCount   ](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)</span>
 
