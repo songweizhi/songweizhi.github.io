@@ -15,7 +15,7 @@ ___
 	<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:18px"></i> Doctor of Philosophy </p>
 	<p><i class="fa fa-clock" aria-hidden="true" style="font-size:18px"></i> 2015 - 2019 </p>
 	<p><i class="fa fa-book" aria-hidden="true" style="font-size:18px"></i> Microbiology and Bioinformatics </p>
-	<p><i class="fa fa-university" aria-hidden="true" style="font-size:18px"></i> The University of New South Wales, Sydney, Australia </p>
+	<p><i class="fa fa-university" aria-hidden="true" style="font-size:18px"></i> University of New South Wales, Sydney, Australia </p>
 	</div>
 
 </div>
@@ -32,7 +32,7 @@ ___
 	<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:18px"></i> Master of Science </p>
 	<p><i class="fa fa-clock" aria-hidden="true" style="font-size:18px"></i> 2009 - 2012 </p>
 	<p><i class="fa fa-book" aria-hidden="true" style="font-size:18px"></i> Marine Biology </p>
-	<p><i class="fa fa-university" aria-hidden="true" style="font-size:18px"></i> First Institute of Oceanography, Ministry of Natural Resources </p>
+	<p><i class="fa fa-university" aria-hidden="true" style="font-size:18px"></i>First Institute of Oceanography, Ministry of Natural Resources</p>
 	</div>
 
 </div>
