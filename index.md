@@ -28,7 +28,7 @@ ___
 <span class="badge badge-primary">![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)</span>
 <span class="badge badge-secondary">![HitCount](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)</span>
 
-![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)![HitCount](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)
+![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)
+![HitCount](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)
 
 
-![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange), ![HitCount](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)
