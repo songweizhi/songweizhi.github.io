@@ -44,6 +44,25 @@ ___
 <div id="banner">
     
     <div class="inline-block" style="display:inline-block;">
+    <img style="float:right; display: block;" src="/assets/images/fio.png" style="width: 160px;">
+    </div>
+	
+	<div class="inline-block" style="display:inline-block;">
+	<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:24px"></i> Master of Science </p>
+	<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px"></i> 2009 - 2012 </p>
+	<p><i class="fa fa-book" aria-hidden="true" style="font-size:24px"></i> Marine Biology </p> 
+	<p><i class="fa fa-university" aria-hidden="true" style="font-size:24px"></i> The First Institute of Oceanography, State Oceanic Administration, China </p>
+	</div>
+
+</div>
+
+
+
+___
+
+<div id="banner">
+    
+    <div class="inline-block" style="display:inline-block;">
     <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 160px;">
     </div>
 	
