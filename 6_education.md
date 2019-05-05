@@ -8,7 +8,7 @@ ___
 <div id="banner">
     
     <div class="inline-block" style="display:inline-block;">
-  	<img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 200px;">
+  	<img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 180px;">
     </div>
 	
 	<div class="inline-block" style="display:inline-block;">
@@ -25,7 +25,7 @@ ___
 <div id="banner">
     
     <div class="inline-block" style="display:inline-block;">
-    <img style="float:right; display: block;" src="/assets/images/fio.png" style="width: 200px;">
+    <img style="float:right; display: block;" src="/assets/images/fio.png" style="width: 180px;">
     </div>
 	
 	<div class="inline-block" style="display:inline-block;">
@@ -42,7 +42,7 @@ ___
 <div id="banner">
     
     <div class="inline-block" style="display:inline-block;">
-    <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 200px;">
+    <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 180px;">
     </div>
 	
 	<div class="inline-block" style="display:inline-block;" margin-left="-.25rem;">
