@@ -51,7 +51,7 @@ ___
 <div id="banner">
     
     <div class="inline-block" style="display:inline-block;">
-    <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 150px;">
+    <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 200px;">
     </div>
 	
 	<div class="inline-block" style="display:inline-block;">
