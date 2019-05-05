@@ -35,7 +35,7 @@ ___
 
 
 
-<span class="badge badge-secondary" style="display:inline-block;">
+<span class="inline-block" style="display:inline-block;">
 ![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)
 ![HitCount   ](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)
 </span>
