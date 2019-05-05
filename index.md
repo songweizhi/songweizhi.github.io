@@ -25,5 +25,36 @@ ___
 
 ___
 
+<span class="badge badge-primary">![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)</span>, 
+<span class="badge badge-secondary">![HitCount](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)</span>
+
+
+<span class="badge badge-secondary block-badge">![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)</span>, 
+<span class="badge badge-secondary block-badge">![HitCount   ](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)</span>
+
+<span class="badge badge-secondary">
 ![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)
 ![HitCount   ](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)
+
+
+
+
+<span class="inline-block" style="display:inline-block;"><
+![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)
+![HitCount   ](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)
+></span>
+
+
+
+![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-04&color=orange)
+![HitCount   ](http://hits.dwyl.io/songweizhi/songweizhi.github.io.svg)
+
+
+
+
+<div>
+    <span class="badge badge-secondary">Badge 1</span>
+</div>
+<div>
+    <span class="badge badge-secondary">Badge 2</span>
+</div>
