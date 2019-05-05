@@ -8,7 +8,7 @@ ___
 <div id="banner">
     
     <div class="inline-block" style="display:inline-block;">
-  	<img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 100px;">
+  	<img style="float:right; display: block;" src="/assets/images/UNSW.png" style="width: 160px;">
     </div>
 	
 	<div class="inline-block" style="display:inline-block;">
