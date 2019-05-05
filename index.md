@@ -41,3 +41,6 @@ ___
 <span class="badge badge-info">Info</span>
 <span class="badge badge-light">Light</span>
 <span class="badge badge-dark">Dark</span>
+
+<p>Here are a few examples:</p>
+<p><img alt="green" src="https://assets.readthedocs.org/static/projects/badges/passing-flat.svg" />&nbsp;<img alt="red" src="https://assets.readthedocs.org/static/projects/badges/failing-flat.svg" />&nbsp;<img alt="yellow" src="https://assets.readthedocs.org/static/projects/badges/unknown-flat.svg" /></p>
