@@ -16,11 +16,6 @@ ___
 ___
 
 
-**Playing with DNA sequences is fun, so do travelling...**
-
-___
-
-
 **China**
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="/assets/photos/great_wall.jpeg"><img src="/assets/photos/great_wall.jpeg" style="height: 120px;"></a><div><p>The Great Wall</p></div></div>
