@@ -47,7 +47,7 @@ ___
     <img style="float:right; display: block;" src="/assets/images/jianda2.png" style="width: 150px;">
     </div>
 	
-	<div>
+	<div class="inline-block" style="display:inline-block;">
 	<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:24px"></i> Bachelor of Engineering </p>
 	<p><i class="fa fa-clock" aria-hidden="true" style="font-size:24px"></i> 2005 - 2009 </p>
 	<p><i class="fa fa-book" aria-hidden="true" style="font-size:24px"></i> Biological Engineering </p>
@@ -55,3 +55,21 @@ ___
 	</div>
 
 </div>
+
+
+
+<div id="banner">
+
+    <div class="inline-block" style="display:inline-block;">
+    <img src ="/assets/images/linux.png" style="height: 120px;">
+    </div>
+
+
+    <div class="inline-block" style="display:inline-block;">
+    <img src ="/assets/images/Python.png" style="height: 120px;">
+    </div>
+
+</div>
+
+
+
