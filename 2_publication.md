@@ -8,7 +8,8 @@ ___
 **2019**
 
 <p style="font-size:18px;">
-<strong>Song WZ</strong>, Thomas T*, Edwards R* (2019) Complete genome sequences of pooled genomic DNA from 10 marine bacteria using PacBio long-read sequencing. Marine Genomics. https://doi.org/10.1016/j.margen.2019.05.002
+<strong>Song WZ</strong>, Thomas T*, Edwards R* (2019) Complete genome sequences of pooled genomic DNA from 10 marine bacteria using PacBio long-read sequencing. Marine Genomics.
+<a href="https://doi.org/10.1016/j.margen.2019.05.002">https://doi.org/10.1016/j.margen.2019.05.002</a>
 </p>
 
 <p style="font-size:18px;">
