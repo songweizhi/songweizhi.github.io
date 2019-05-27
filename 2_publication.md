@@ -14,7 +14,7 @@ ___
 
 <p style="font-size:18px;">
 <strong>Song WZ</strong>, Wemheuer B, Zhang S, Steensen K, Thomas T (2019) MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches. Microbiome. 7:36. 
-<a href="https://songweizhi.github.io/assets/pdfs/Publication_2018_MetaCHIP.pdf">PDF</a>
+<a href="https://doi.org/10.1186/s40168-019-0649-y">https://doi.org/10.1186/s40168-019-0649-y</a>
 </p>
 ___
 
@@ -22,17 +22,17 @@ ___
 
 <p style="font-size:18px;">
 <strong>Song WZ</strong>, Thomas T (2017) Binning_refiner: Improving genome bins through the combination of different binning programs. Bioinformatics, 33(12), 1873-1875. 
-<a href="https://songweizhi.github.io/assets/pdfs/Publication_2017_Binning_refiner.pdf">PDF</a>
+<a href="https://doi.org/10.1093/bioinformatics/btx086">https://doi.org/10.1093/bioinformatics/btx086</a>
 </p>
 
 <p style="font-size:18px;">
 <strong>Song WZ</strong>, Steensen K, Thomas T (2017) HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities. PeerJ, 5: e4015. 
-<a href="https://songweizhi.github.io/assets/pdfs/Publication_2017_HgtSIM.pdf">PDF</a>
+<a href="https://doi.org/10.7717/peerj.4015">https://doi.org/10.7717/peerj.4015</a>
 </p>
 
 <p style="font-size:18px;">
 Zhang S, <strong>Song WZ</strong>, Yu M, Lin XZ (2017) Comparative genomics analysis of five Psychrobacter strains isolated from world-wide habitats reveal high intra-genus variations. Extremophiles, 21(3), 581-589. 
-<a href="https://songweizhi.github.io/assets/pdfs/Publication_2017_comparative_genomics.pdf">PDF</a>
+<a href="https://doi.org/10.1007/s00792-017-0927-1">https://doi.org/10.1007/s00792-017-0927-1</a>
 </p>
 
 ___
