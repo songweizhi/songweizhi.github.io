@@ -3,8 +3,6 @@ layout: page
 title: Publications
 ---
 
-
-
 ___
 
 **2019**
