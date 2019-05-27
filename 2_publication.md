@@ -10,6 +10,10 @@ ___
 **2019**
 
 <p style="font-size:18px;">
+<strong>Song WZ</strong>, Thomas T*, Edwards R* (2019) Complete genome sequences of pooled genomic DNA from 10 marine bacteria using PacBio long-read sequencing. Marine Genomics. https://doi.org/10.1016/j.margen.2019.05.002
+</p>
+
+<p style="font-size:18px;">
 <strong>Song WZ</strong>, Wemheuer B, Zhang S, Steensen K, Thomas T (2019) MetaCHIP: community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches. Microbiome. 7:36. 
 <a href="https://songweizhi.github.io/assets/pdfs/Publication_2018_MetaCHIP.pdf">PDF</a>
 </p>
