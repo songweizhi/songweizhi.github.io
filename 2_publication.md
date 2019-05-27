@@ -41,12 +41,12 @@ ___
 
 <p style="font-size:18px;">
 Che S, <strong>Song WZ</strong>, Lin XZ (2013) Response of heat-shock protein (HSP) genes to temperature and salinity stress in the antarctic psychrotrophic bacterium Psychrobacter sp. G. Current microbiology, 67(5), 601-608. 
-<a href="https://songweizhi.github.io/assets/pdfs/Publication_2013_HSP.pdf">PDF</a>
+<a href="https://doi.org/10.1007/s00284-013-0409-3">https://doi.org/10.1007/s00284-013-0409-3</a>
 </p>
 
 <p style="font-size:18px;">
 Che S, Song L, <strong>Song WZ</strong>, Yang M, Liu GM, Lin XZ (2013) Complete genome sequence of Antarctic bacterium Psychrobacter sp. strain G. Genome announcements, 1(5), e00725-13. 
-<a href="https://songweizhi.github.io/assets/pdfs/Publication_2013_Genome_Announc.pdf">PDF</a>
+<a href="https://doi.org/10.1128/genomeA.00725-13">https://doi.org/10.1128/genomeA.00725-13</a>
 </p>
 
 ___
@@ -56,12 +56,12 @@ ___
 
 <p style="font-size:18px;">
 <strong>Song WZ</strong>, Lin XZ, Huang XH (2012) Characterization and expression analysis of three cold shock protein (CSP) genes under different stress conditions in the Antarctic bacterium Psychrobacter sp. G. Polar Biology. 35: 1515-1524. 
-<a href="https://songweizhi.github.io/assets/pdfs/Publication_2012_CSP.pdf">PDF</a>
+<a href="https://doi.org/10.1007/s00300-012-1191-6">https://doi.org/10.1007/s00300-012-1191-6</a>
 </p>
 
 <p style="font-size:18px;">
 <strong>Song WZ</strong>, Lin XZ, Che S (2012) Identification of regulatory sequences and expression analysis of OmpR gene under different stress conditions in the Antarctic bacterium Psychrobacter sp. G. Current Microbiology. 66(3): 259-65. 
-<a href="https://songweizhi.github.io/assets/pdfs/Publication_2012_OmpR.pdf">PDF</a>
+<a href="https://doi.org/10.1007/s00284-012-0266-5">https://doi.org/10.1007/s00284-012-0266-5</a>
 </p>
 
 ___
