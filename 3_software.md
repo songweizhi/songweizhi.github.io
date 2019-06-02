@@ -17,6 +17,6 @@ ___
 
 ___
 
-[**MyBioTools**](/software/MyBioTools) - some useful scripts
+[**MyBioTools**](/software/MyBioTools) - some commonly-used scripts
 
 ___
