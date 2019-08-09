@@ -8,6 +8,10 @@ ___
 **2019**
 
 <p style="font-size:18px;">
+Zhang S, <strong>Song WZ</strong>, Wemheuer B, Reveillaud J, Webster N, Thomas T* (2019) Comparative Genomics Reveals Ecological and Evolutionary Insights into Sponge-Associated Thaumarchaeota. <strong>mSystem</strong> (accepted).
+</p>
+
+<p style="font-size:18px;">
 <strong>Song WZ</strong>, Thomas T*, Edwards R* (2019) Complete genome sequences of pooled genomic DNA from 10 marine bacteria using PacBio long-read sequencing. <strong>Marine Genomics</strong>.
 <a href="https://doi.org/10.1016/j.margen.2019.05.002">https://doi.org/10.1016/j.margen.2019.05.002</a>
 </p>
