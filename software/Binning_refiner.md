@@ -21,6 +21,6 @@ ___
 **Publication:**
 
 **Song WZ**, Thomas T (2017) Binning_refiner: Improving genome bins through the combination of different binning programs. **Bioinformatics**, 33(12), 1873-1875.
-[PDF](https://songweizhi.github.io/assets/pdfs/Publication_2017_Binning_refiner.pdf)
+[https://doi.org/10.1093/bioinformatics/btx086](https://doi.org/10.1093/bioinformatics/btx086)
 
 ___
