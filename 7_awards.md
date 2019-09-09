@@ -8,38 +8,35 @@ ___
 #### **UNSW, Tuition Fee Scholarship**
 {: .left}
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2015-2019 </p>
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Leipzig, Germany </p>
-<p><i class="fa fa-microphone" aria-hidden="true"></i> Poster: Towards the detection of horizontal gene transfer in metagenomics datasets (<a href="https://songweizhi.github.io/assets/pdfs/Poster_ISME_2018.pdf">PDF</a>)</p> 
+<p><i class="fa dollar-sign" aria-hidden="true"></i> Leipzig, Germany </p>
 
 ___
 
 #### **China Scholarship Council (CSC)**
 {: .left}
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2015-2018 </p>
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Melbourne, Australia </p>
-<p><i class="fa fa-microphone" aria-hidden="true"></i> Oral: Binning_refiner: Improving genome bins through the combination of different binning programs </p>
+<p><i class="fa dollar-sign" aria-hidden="true"></i> Melbourne, Australia </p>
 
 ___
 
 #### **UNSW, PhD Top-Up Scholarship**
 {: .left}
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2018 </p>
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Sydney, Australia </p>
+<p><i class="fa dollar-sign" aria-hidden="true"></i> Sydney, Australia </p>
 
 ___
 
 #### **UNSW, Graduate Research School, Conference travel funding**
 {: .left}
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2018 </p>
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Hong Kong, China </p>
+<p><i class="fa dollar-sign" aria-hidden="true"></i> Hong Kong, China </p>
 
 ___
 
 #### **UNSW, PhD Top-Up Scholarship**
 {: .left}
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2017  </p>
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Wuhan, China </p>
-<p><i class="fa fa-microphone" aria-hidden="true"></i> Oral: The expression patterns of stress related genes in Antarctic bacterium Psychrobacter sp. G </p>
+<p><i class="fa dollar-sign" aria-hidden="true"></i> Wuhan, China </p>
 
 ___
 
@@ -47,8 +44,7 @@ ___
 #### **UNSW, School of Biotechnology and Biomolecular Sciences, Conference travel funding**
 {: .left}
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2017  </p>
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> Wuhan, China </p>
-<p><i class="fa fa-microphone" aria-hidden="true"></i> Oral: The expression patterns of stress related genes in Antarctic bacterium Psychrobacter sp. G </p>
+<p><i class="fa dollar-sign" aria-hidden="true"></i> Wuhan, China </p>
 
 ___
 
