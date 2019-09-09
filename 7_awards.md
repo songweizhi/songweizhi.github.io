@@ -13,7 +13,6 @@ ___
 ___
 
 #### **China Scholarship Council (CSC)**
-{: .left}
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2015-2018 </p>
 <p><i class="fa fa-coins" aria-hidden="true"></i> 61,200 AUD </p>
 
