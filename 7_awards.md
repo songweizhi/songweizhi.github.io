@@ -30,8 +30,6 @@ ___
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2018 </p>
 <p><i class="fa fa-coins" aria-hidden="true"></i> 2,600 AUD </p>
 
-___
-
 #### **UNSW, PhD Top-Up Scholarship**
 {: .left}
 <p><i class="fa fa-clock" aria-hidden="true"></i> 2017  </p>
