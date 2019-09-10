@@ -9,7 +9,7 @@ ___
 
 <div class="small column">
 <p><i class="fa fa-microscope" aria-hidden="true" style="font-size:24px"></i>   Microbial ecology, Evolutionary microbiology</p>
-<p><i class="fa fa-dna" aria-hidden="true" style="font-size:24px"></i>   Genomics, Metagenomics, Tree of life</p>
+<p><i class="fa fa-dna" aria-hidden="true" style="font-size:24px"></i>   (Meta)genomics, Tree of life, Eukaryogenesis</p>
 <p><i class="fa fa-laptop-code" aria-hidden="true" style="font-size:24px"></i>  Bioinformatics, Software development</p>
 </div>
 
