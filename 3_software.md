@@ -5,18 +5,18 @@ title: Software
 
 ___
 
-[**MetaCHIP**](/software/MetaCHIP) - community-level HGT identification pipeline
+[**MetaCHIP**](/software/MetaCHIP) - Community-level HGT identification pipeline
 
 ___
 
-[**Binning_refiner**](/software/Binning_refiner) - improving genome bins through the combination of different binning programs
+[**Binning_refiner**](/software/Binning_refiner) - Improving genome bins through the combination of different binning programs
 
 ___
 
-[**HgtSIM**](/software/HgtSIM) - a simulator for HGT in microbial communities
+[**HgtSIM**](/software/HgtSIM) - A simulator for HGT in microbial communities
 
 ___
 
-[**MyBioTools**](/software/MyBioTools) - some commonly-used scripts
+[**BioSAK**](/software/BioSAK) - A Swiss Army Knife for Biologists
 
 ___
