@@ -8,7 +8,7 @@ ___
 **2020**
 
 <p style="font-size:18px;">
-Liu Q, <strong>Song WZ</strong>, Zhou YG, Dong XZ, Xin YH (2019) Phenotypic divergence of thermotolerance: Molecular basis and cold adaptive evolution related to intrinsic DNA flexibility of glacier‐inhabiting Cryobacterium strains. <strong>Environmental Microbiology</strong>.
+Liu Q, <strong>Song WZ</strong>, Zhou YG, Dong XZ, Xin YH (2020) Phenotypic divergence of thermotolerance: Molecular basis and cold adaptive evolution related to intrinsic DNA flexibility of glacier‐inhabiting Cryobacterium strains. <strong>Environmental Microbiology</strong>.
 <a href="https://doi.org/10.1111/1462-2920.14957">https://doi.org/10.1111/1462-2920.14957</a>
 </p>
 
