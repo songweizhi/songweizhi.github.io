@@ -5,6 +5,10 @@ title: Software
 
 ___
 
+[**MarkerMAG**](https://github.com/songweizhi/MarkerMAG) - Link MAGs with marker genes
+
+___
+
 [**MetaCHIP**](https://github.com/songweizhi/MetaCHIP) - Community-level HGT identification pipeline
 
 ___
@@ -21,6 +25,5 @@ ___
 
 ___
 
-[**MarkerMAG**](https://github.com/songweizhi/MarkerMAG) - Link MAGs with marker genes
 
-___
+
