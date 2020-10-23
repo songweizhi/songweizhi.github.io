@@ -17,6 +17,10 @@ ___
 
 ___
 
-[**BioSAK**](https://github.com/songweizhi/BioSAK) - A Swiss Army Knife for Biologists
+[**BioSAK**](https://github.com/songweizhi/BioSAK) - A Swiss-Army-Knife for Biologists
+
+___
+
+[**MarkerMAG**](https://github.com/songweizhi/MarkerMAG) - Link MAGs with marker genes
 
 ___
