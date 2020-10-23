@@ -27,4 +27,4 @@ ___
 
 ___
 
-<span class="badge badge-primary">![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2019-08&color=orange)</span>
+<span class="badge badge-primary">![Last update](https://img.shields.io/static/v1.svg?label=updated&message=2020-10&color=orange)</span>
