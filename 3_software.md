@@ -9,15 +9,15 @@ ___
 
 ___
 
-[**MetaCHIP**](https://github.com/songweizhi/MetaCHIP) - Community-level HGT identification pipeline
+[**MetaCHIP**](https://github.com/songweizhi/MetaCHIP) - Community-level HGT identification pipeline [https://doi.org/10.1186/s40168-019-0649-y](https://doi.org/10.1186/s40168-019-0649-y)
 
 ___
 
-[**Binning_refiner**](https://github.com/songweizhi/Binning_refiner) - Improving genome bins through the combination of different binning programs
+[**Binning_refiner**](https://github.com/songweizhi/Binning_refiner) - Improving genome bins through the combination of different binning programs [https://doi.org/10.1093/bioinformatics/btx086](https://doi.org/10.1093/bioinformatics/btx086)
 
 ___
 
-[**HgtSIM**](https://github.com/songweizhi/HgtSIM) - A simulator for HGT in microbial communities
+[**HgtSIM**](https://github.com/songweizhi/HgtSIM) - A simulator for HGT in microbial communities [https://doi.org/10.7717/peerj.4015](https://doi.org/10.7717/peerj.4015)
 
 ___
 
