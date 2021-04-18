@@ -32,7 +32,7 @@ ___
 		<p><i class="fa fa-clock" aria-hidden="true" style="font-size:18px"></i> 2009 - 2012 </p>
 		<p><i class="fa fa-graduation-cap" aria-hidden="true" style="font-size:18px"></i> Master of Science </p>
 		<p><i class="fa fa-book" aria-hidden="true" style="font-size:18px"></i> Marine Biology </p>
-		<p><i class="fa fa-university" aria-hidden="true" style="font-size:18px"></i>The First Institute of Oceanography, Ministry of Natural Resources, China</p>
+		<p><i class="fa fa-university" aria-hidden="true" style="font-size:18px"></i> The First Institute of Oceanography, Ministry of Natural Resources, China</p>
 	</div>
 
 </div>
