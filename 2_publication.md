@@ -5,6 +5,20 @@ title: Publications
 
 ___
 
+**2021**
+
+<p style="font-size:18px;">
+<strong>Song WZ</strong>, Wemheuer B; Steinberg PD; Marzinelli EM; Thomas T (2021) Contribution of horizontal gene transfer to the functionality of microbial biofilm on a macroalgae. <strong>ISME Journal</strong> vol. 15, pp. 807-817
+<a href="http://dx.doi.org/10.1038/s41396-020-00815-8">http://dx.doi.org/10.1038/s41396-020-00815-8</a>
+</p>
+
+<p style="font-size:18px;">
+Robbins SJ, <strong>Song WZ</strong>, Engelberts JP; Glasl B; Slaby BM; Boyd J; Marangon E; Botté ES; Laffy P; Thomas T; Webster NS (2021) A genomic view of the microbiome of coral reef demosponges. <strong>ISME Journal</strong>.
+<a href="http://dx.doi.org/10.1038/s41396-020-00876-9">http://dx.doi.org/10.1038/s41396-020-00876-9</a>
+</p>
+
+___
+
 **2020**
 
 <p style="font-size:18px;">
