@@ -14,7 +14,7 @@ header:
   #  - label: label to be added!
   #    url: people#join-us
   caption: Cowra, NSW, Australia, image by Weizhi
-excerpt: Bioinformatics, Software development, Phylogenomics, Microbial ecology, Animal-microbe symbioses
+excerpt: Bioinformatics, Phylogenomics, Microbial ecology, Animal-microbe symbioses
 ---
 
 ## About me
