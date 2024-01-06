@@ -1,7 +1,21 @@
 ---
 title: Software
 main:
-  
+
+  - title: BioSAK
+    image_path: assets/images/software/BioSAK.jpg
+    url: https://github.com/songweizhi/BioSAK
+    btn_label: "Learn More"
+    btn_class: "btn--info"
+    excerpt: A Swiss-Army-Knife for Bioinformaticians
+
+  - title: TreeSAK
+    image_path: assets/images/software/TreeSAK.jpg
+    url: https://github.com/songweizhi/TreeSAK
+    btn_label: "Learn More"
+    btn_class: "btn--info"
+    excerpt: A Swiss-Army-Knife for manipulating phylogenetic trees
+
   - title: MarkerMAG
     image_path: assets/images/software/MarkerMAG.jpg
     url: https://github.com/songweizhi/MarkerMAG
@@ -29,20 +43,6 @@ main:
     btn_label: "Learn More"
     btn_class: "btn--info"
     excerpt: A simulator for horizontal gene transfer (HGT) in microbial communities
-
-  - title: BioSAK
-    image_path: assets/images/software/BioSAK.jpg
-    url: https://github.com/songweizhi/BioSAK
-    btn_label: "Learn More"
-    btn_class: "btn--info"
-    excerpt: A Swiss-Army-Knife for Bioinformaticians
-
-  - title: TreeSAK
-    image_path: assets/images/software/TreeSAK.jpg
-    url: https://github.com/songweizhi/TreeSAK
-    btn_label: "Learn More"
-    btn_class: "btn--info"
-    excerpt: A Swiss-Army-Knife for manipulating phylogenetic trees
 
 ---
 

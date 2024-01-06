@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research Activities
 ---
 
 ## Bioinformatics and Metagenomics
@@ -13,7 +13,3 @@ Complex multicellular organisms often host complex communities of microbial symb
 ## Horizontal gene transfer (HGT) and microbial evolution/adaptation
 
 HGT is considered an important driver of microbial evolution and niche adaptation. My research involves the identification of HGTs (Song et al., 2019, Microbiome) in microorganisms from the natural environments, as well as assessment of the role of HGT in the adaptation of microorganisms to different hosts, including marine sponges ([Robbins, **Song** et al., 2021](https://www.nature.com/articles/s41396-020-00876-9)), macroalgae and human. For example, we found that HGTs in the macroalgal biofilms were frequently involved in genes for nutrient transport and degradation, as well as stress responses, which are considered beneficial for bacteria living in this host-associated niche ([**Song** et al., 2021](https://www.nature.com/articles/s41396-020-00815-8)). 
-
-## Deep time evolution and molecular dating of the archaeal tree of life
-
-Archaea are thought to play a major role in the evolution of life and origin of Eukaryotes. Obtaining a timescale for archaeal evolution is crucial to understand early life evolution but is difficult owing to the scarcity of fossils. In recent years the diversity of archaea has been dramatically expanded using metagenomic approaches. HGT-based temporal constraints can be particularly helpful when the fossil record is sparse. In this project, we sought out to provide a timeframe for the archaeal tree of life by taking advantages of relative time constraints provided by HGT within the archaeal domain ([**Song** et al., 2023, in preparation]()).
