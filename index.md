@@ -19,7 +19,7 @@ excerpt: Bioinformatics, Phylogenomics, Microbial Ecology, Animal-Microbe Symbio
 
 ### About me
 
-I hold a **Bachelor degree** on Biological Engineering (Shandong University of Architecture and Engineering, Shandong, China, 2009), 
+I hold a **Bachelor degree** on Biological Engineering (Shandong University of Architecture and Engineering, China, 2009), 
 a **Master degree** on Marine Microbiology (The First Institute of Oceanography, Ministry of Natural Resources, China, 2012), 
 and a **PhD degree** on Microbiology and Immunology (University of New South Wales, Sydney, Australia, 2019). 
 
