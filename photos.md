@@ -35,8 +35,8 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Bridestowe_Lavender_Farm.jpg"><img src="assets/photos/Australia/Bridestowe_Lavender_Farm.jpg" style="height: 120px;"></a><div><p>Bridestowe Lavender Farm</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Mount_Wellington_1.jpg"><img src="assets/photos/Australia/Mount_Wellington_1.jpg" style="height: 120px;"></a><div><p>Mount Wellington</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Mount_Wellington_2.jpg"><img src="assets/photos/Australia/Mount_Wellington_2.jpg" style="height: 120px;"></a><div><p>Mount Wellington</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_1.jpg"><img src="assets/photos/Australia/Stanley_1.jpg" style="height: 120px;"></a><div><p>Stanley, Tasmania</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_2.jpg"><img src="assets/photos/Australia/Stanley_2.jpg" style="height: 120px;"></a><div><p>Stanley, Tasmania</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_1.jpg"><img src="assets/photos/Australia/Stanley_1.jpg" style="height: 120px;"></a><div><p>Stanley, TAS</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_2.jpg"><img src="assets/photos/Australia/Stanley_2.jpg" style="height: 120px;"></a><div><p>Stanley, TAS</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Russell_Falls.jpg"><img src="assets/photos/Australia/Russell_Falls.jpg" style="height: 120px;"></a><div><p>Russell Falls</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg"><img src="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay</p></div></div>
 </div>
@@ -46,7 +46,6 @@ title: Photos
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Frankfurt.jpg"><img src="assets/photos/Germany_Czech_2018/Frankfurt.jpg" style="height: 120px;"></a><div><p>Frankfurt</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Leipzig_1.jpg"><img src="assets/photos/Germany_Czech_2018/Leipzig_1.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Leipzig_2.jpg"><img src="assets/photos/Germany_Czech_2018/Leipzig_2.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/ISME2018_2.jpg"><img src="assets/photos/Germany_Czech_2018/ISME2018_2.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/ISME2018_3.jpg"><img src="assets/photos/Germany_Czech_2018/ISME2018_3.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Prague.jpg"><img src="assets/photos/Germany_Czech_2018/Prague.jpg" style="height: 120px;"></a><div><p>Prague</p></div></div>
