@@ -13,8 +13,9 @@ title: Papers
 - **Song W**; Zhang S; Majzoub ME; Egan S; Kjelleberg S; Thomas T, 2023, 'The impact of interspecific competition on the genomic evolution of Phaeobacter inhibens and Pseudoalteromonas tunicata during biofilm growth', Environmental Microbiology, 2023 Dec 7. (IF: **5.476**)
 
 ## Complete list:
-- **Song W**, Zhang S, Majzoub M, Egan S, Kjelleberg S, Thomas T, 2023, 'The impact of interspecific competition on the genomic evolution of Phaeobacter inhibens and Pseudoalteromonas tunicata during biofilm growth', (**submitted**)
-- Khan T, **Song W**, Nappi J, Marzinelli E, Egan S, Thomas T, 2023, 'Functional guilds and drivers of diversity in seaweed-associated bacteria', (**submitted**)
+- Khan T, **Song W**, Nappi J, Marzinelli E, Egan S, Thomas T, 2023, 'Functional guilds and drivers of diversity in seaweed-associated bacteria', FEMS Microbes, Dec 14:xtad023. (IF: NA)
+- Fu S, Zhang Y, Wang R, Qiu Z, **Song W**, Yang Q, Shen L, 2023, ‘A novel culture-enriched metagenomic sequencing strategy effectively guarantee the microbial safety of drinking water by uncovering the low abundance pathogens’, Journal of Environmental Management, 345, 118737. (IF: 8.91)
+- Chen L, Hong T, Wu Z, **Song W**, Chen S, Liu Y, Shen L, 2023, ‘Genomic analyses reveal a low temperature adapted clade in Halorubrum, a widespread haloarchaeon across global hypersaline environments’, BMC Genomics, 24, 508. (IF: 4.558)
 - Nguyen VH, Wemheuer B, **Song W**, Bennett H, Webster NS, Thomas T, 2023, 'Identification, classification, and functional characterization of novel sponge-associated acidimicrobiial species', Systematic and Applied Microbiology, 126426. (IF: 4.064)
 - Nguyen VH, Wemheuer B, **Song W**, Bennett H, Palladino G, Burgsdorf I, Thomas T, 2023, 'Functional characterization and taxonomic classification of novel gammaproteobacterial diversity in sponges', Systematic and Applied Microbiology, 46(2), 126401. (IF: 4.064)
 - Zhang S; **Song W**; Nothiasc L; Couvillion S; Webster N; Thomas T, 2022, 'Comparative metabolomic analysis reveals shared and unique chemical interactions in sponge holobionts', Microbiome, 10, 22. (IF: **16.837**)
