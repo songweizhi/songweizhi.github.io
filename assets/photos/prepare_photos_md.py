@@ -11,6 +11,7 @@ photos_md_handle.write('---\ntitle: Photos\n---\n\n\n')
 current_group = ''
 for each_line in open(photo_list_txt):
     each_line_split = each_line.strip().split('\t')
+    print(each_line_split)
     photo_group = each_line_split[0]
     photo_title = each_line_split[1]
     photo_loci  = each_line_split[2]

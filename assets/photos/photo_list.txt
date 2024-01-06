@@ -8,10 +8,20 @@ Taiwan (2017)	台湾环岛游	assets/photos/Taiwan_2017/Taiwan_1.jpg
 Taiwan (2017)	台北101	assets/photos/Taiwan_2017/Taipei.jpg
 Taiwan (2017)	花莲	assets/photos/Taiwan_2017/Taiwan_2.jpg
 Taiwan (2017)	九份	assets/photos/Taiwan_2017/Taiwan_3.jpg
-Australia (2015-2023)	Sydney Opera House	assets/photos/Australia/Opera_House.jpg
-Australia (2015-2023)	Coogee Beach, NSW	assets/photos/Australia/Coogee_Beach.jpg
-Australia (2015-2023)	Palm Beach, NSW	assets/photos/Australia/Palm_Beach.jpg
-Australia (2015-2023)	Cowra, NSW	assets/photos/Australia/Cowra.jpg
+Australia (2015-2023)	Sydney Opera House	Opera_House.jpg
+Australia (2015-2023)	Beaumaris Bay Fossil Site	Beaumaris_Bay_Fossil_Site.jpg
+Australia (2015-2023)	Blue Mountains, NSW	Blue_Mountains.jpg
+Australia (2015-2023)	Bridestowe Lavender Farm	Bridestowe_Lavender_Farm.jpg
+Australia (2015-2023)	Coogee Beach	Coogee_Beach.jpg
+Australia (2015-2023)	Cowra, NSW	Cowra_1.jpg
+Australia (2015-2023)	Cowra, NSW	Cowra_2.jpg
+Australia (2015-2023)	Jenolan Caves, NSW	Jenolan_Caves.jpg
+Australia (2015-2023)	Kangaroo Valley, NSW	Kangaroo_Valley.jpg
+Australia (2015-2023)	Mount Wellington, Tasmania	Mount_Wellington_1.jpg
+Australia (2015-2023)	Mount Wellington, Tasmania	Mount_Wellington_2.jpg
+Australia (2015-2023)	Palm Beach, NSW	Palm_Beach.jpg
+Australia (2015-2023)	Stanley, Tasmania	Stanley_1.JPG
+Australia (2015-2023)	Stanley, Tasmania	Stanley_2.JPG
 Germany and Czech (2018)	Frankfurt	assets/photos/Germany_Czech_2018/Frankfurt.jpg
 Germany and Czech (2018)	Leipzig	assets/photos/Germany_Czech_2018/Leipzig_1.jpg
 Germany and Czech (2018)	Leipzig	assets/photos/Germany_Czech_2018/Leipzig_2.jpg
