@@ -48,8 +48,8 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="Florence"><img     src="assets/photos/Italy_2018/Florence.jpg"     style="height: 120px;"></a><div><p>Florence</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Pisa"><img         src="assets/photos/Italy_2018/Pisa.jpg"         style="height: 120px;"></a><div><p>Pisa</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Venice"><img       src="assets/photos/Italy_2018/Venice.jpg"       style="height: 120px;"></a><div><p>Venice</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_1"><img    src="assets/photos/Italy_2018/Pompeii_1.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_2"><img    src="assets/photos/Italy_2018/Pompeii_2.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_3"><img    src="assets/photos/Italy_2018/Pompeii_3.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_4"><img    src="assets/photos/Italy_2018/Pompeii_4.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_1"><img    src="assets/photos/Italy_2018/Pompeii1.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_2"><img    src="assets/photos/Italy_2018/Pompeii2.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_3"><img    src="assets/photos/Italy_2018/Pompeii3.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_4"><img    src="assets/photos/Italy_2018/Pompeii4.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
 </div>
