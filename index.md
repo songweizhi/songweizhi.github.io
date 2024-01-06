@@ -13,7 +13,7 @@ header:
   #actions:
   #  - label: label to be added!
   #    url: people#join-us
-  caption: Meili Snow Mountains, Yunnan, China, W Song, 2023
+  caption: Meili Snow Mountains, Yunnan, China, 2023, W Song
 excerpt: Bioinformatics, Phylogenomics, Microbial Ecology, Animal-Microbe Symbioses
 ---
 
