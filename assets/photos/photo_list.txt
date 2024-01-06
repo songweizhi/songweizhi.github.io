@@ -8,20 +8,20 @@ Taiwan (2017)	台北101	assets/photos/Taiwan_2017/Taipei.jpg
 Taiwan (2017)	花莲	assets/photos/Taiwan_2017/Taiwan_2.jpg
 Taiwan (2017)	九份	assets/photos/Taiwan_2017/Taiwan_3.jpg
 Australia (2015-2023)	Opera House	assets/photos/Australia/Opera_House.jpg
-Australia (2015-2023)	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg
 Australia (2015-2023)	Coogee Beach	assets/photos/Australia/Coogee_Beach.jpg
+Australia (2015-2023)	Palm Beach, NSW	assets/photos/Australia/Palm_Beach.jpg
+Australia (2015-2023)	Kangaroo Valley	assets/photos/Australia/Kangaroo_Valley.jpg
 Australia (2015-2023)	Blue Mountains, NSW	assets/photos/Australia/Blue_Mountains.jpg
-Australia (2015-2023)	Bridestowe Lavender Farm	assets/photos/Australia/Bridestowe_Lavender_Farm.jpg
+Australia (2015-2023)	Bombo Headland, NSW	assets/photos/Australia/Bombo_Headland.jpg
 Australia (2015-2023)	Cowra, NSW	assets/photos/Australia/Cowra_1.jpg
 Australia (2015-2023)	Jenolan Caves	assets/photos/Australia/Jenolan_Caves.jpg
-Australia (2015-2023)	Kangaroo Valley	assets/photos/Australia/Kangaroo_Valley.jpg
+Australia (2015-2023)	Bridestowe Lavender Farm	assets/photos/Australia/Bridestowe_Lavender_Farm.jpg
 Australia (2015-2023)	Mount Wellington	assets/photos/Australia/Mount_Wellington_1.jpg
 Australia (2015-2023)	Mount Wellington	assets/photos/Australia/Mount_Wellington_2.jpg
-Australia (2015-2023)	Palm Beach, NSW	assets/photos/Australia/Palm_Beach.jpg
 Australia (2015-2023)	Stanley, Tasmania	assets/photos/Australia/Stanley_1.jpg
 Australia (2015-2023)	Stanley, Tasmania	assets/photos/Australia/Stanley_2.jpg
 Australia (2015-2023)	Russell Falls, Tasmania	assets/photos/Australia/Russell_Falls.jpg
-Australia (2015-2023)	Bombo Headland, NSW	assets/photos/Australia/Bombo_Headland.jpg
+Australia (2015-2023)	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg
 Germany and Czech (2018)	Frankfurt	assets/photos/Germany_Czech_2018/Frankfurt.jpg
 Germany and Czech (2018)	Leipzig	assets/photos/Germany_Czech_2018/Leipzig_1.jpg
 Germany and Czech (2018)	Leipzig	assets/photos/Germany_Czech_2018/Leipzig_2.jpg
