@@ -16,10 +16,10 @@ title: Photos
 
 ### Taiwan (2017)
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="Taiwan_1.jpg"><img src="assets/photos/Taiwan_1.jpg"    style="height: 120px;"></a><div><p>台湾</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Taipei.jpg"><img   src="assets/photos/Taipei.jpg"      style="height: 120px;"></a><div><p>台北101</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Taiwan_2.jpg"><img src="assets/photos/Taiwan_2.jpg"    style="height: 120px;"></a><div><p>花莲</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Taiwan_3.jpg"><img src="assets/photos/Taiwan_3.jpg"    style="height: 120px;"></a><div><p>九份</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Taiwan_1"><img     src="assets/photos/Taiwan_1.jpg"    style="height: 120px;"></a><div><p>台湾</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Taipei"><img       src="assets/photos/Taipei.jpg"      style="height: 120px;"></a><div><p>台北101</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Taiwan_2"><img     src="assets/photos/Taiwan_2.jpg"    style="height: 120px;"></a><div><p>花莲</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Taiwan_3"><img     src="assets/photos/Taiwan_3.jpg"    style="height: 120px;"></a><div><p>九份</p></div></div>
 </div>
 
 ### Australia (2015-2023)
@@ -42,14 +42,14 @@ title: Photos
 
 ### Italy (2018)
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="Rome"><img     src="assets/photos/Italy_2018/Rome.jpg"     style="height: 120px;"></a><div><p>Rome</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Milan_1"><img  src="assets/photos/Italy_2018/Milan_1.jpg"  style="height: 120px;"></a><div><p>Milan</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Milan_2"><img  src="assets/photos/Italy_2018/Milan_2.jpg"  style="height: 120px;"></a><div><p>Milan</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Florence"><img src="assets/photos/Italy_2018/Florence.jpg" style="height: 120px;"></a><div><p>Florence</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Pisa"><img     src="assets/photos/Italy_2018/Pisa.jpg"     style="height: 120px;"></a><div><p>Pisa</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Venice"><img   src="assets/photos/Italy_2018/Venice.jpg"   style="height: 120px;"></a><div><p>Venice</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_1"><img   src="assets/photos/Italy_2018/Pompeii_1.jpg"   style="height: 120px;"></a><div><p>Pompeii</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_2"><img   src="assets/photos/Italy_2018/Pompeii_2.jpg"   style="height: 120px;"></a><div><p>Pompeii</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_3"><img   src="assets/photos/Italy_2018/Pompeii_3.jpg"   style="height: 120px;"></a><div><p>Pompeii</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_4"><img   src="assets/photos/Italy_2018/Pompeii_4.jpg"   style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Rome"><img         src="assets/photos/Italy_2018/Rome.jpg"         style="height: 120px;"></a><div><p>Rome</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Milan_1"><img      src="assets/photos/Italy_2018/Milan_1.jpg"      style="height: 120px;"></a><div><p>Milan</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Milan_2"><img      src="assets/photos/Italy_2018/Milan_2.jpg"      style="height: 120px;"></a><div><p>Milan</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Florence"><img     src="assets/photos/Italy_2018/Florence.jpg"     style="height: 120px;"></a><div><p>Florence</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Pisa"><img         src="assets/photos/Italy_2018/Pisa.jpg"         style="height: 120px;"></a><div><p>Pisa</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Venice"><img       src="assets/photos/Italy_2018/Venice.jpg"       style="height: 120px;"></a><div><p>Venice</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_1"><img    src="assets/photos/Italy_2018/Pompeii_1.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_2"><img    src="assets/photos/Italy_2018/Pompeii_2.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_3"><img    src="assets/photos/Italy_2018/Pompeii_3.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Pompeii_4"><img    src="assets/photos/Italy_2018/Pompeii_4.jpg"    style="height: 120px;"></a><div><p>Pompeii</p></div></div>
 </div>
