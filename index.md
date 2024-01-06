@@ -9,12 +9,12 @@ classes:
 header:
   overlay_color: '#000'
   overlay_filter: 0.33
-  overlay_image: /assets/images/photos/cowra.jpg
+  overlay_image: /assets/images/photos/Meili_snow_mountains.jpg
   #actions:
   #  - label: label to be added!
   #    url: people#join-us
-  caption: Cowra, NSW, Australia, image by Weizhi
-excerpt: Bioinformatics, Phylogenomics, Microbial ecology, Animal-microbe symbioses
+  caption: Meili Snow Mountains, Yunnan, China, W Song, 2023
+excerpt: Bioinformatics, Phylogenomics, Microbial Ecology, Animal-Microbe Symbioses
 ---
 
 ## About me
