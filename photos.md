@@ -30,20 +30,20 @@ title: Photos
 
 ### Australia (2015-2023)
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="Opera_House.jpg"><img src="Opera_House.jpg" style="height: 120px;"></a><div><p>Sydney Opera House</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Beaumaris_Bay_Fossil_Site.jpg"><img src="Beaumaris_Bay_Fossil_Site.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay Fossil Site</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Blue_Mountains.jpg"><img src="Blue_Mountains.jpg" style="height: 120px;"></a><div><p>Blue Mountains, NSW</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Bridestowe_Lavender_Farm.jpg"><img src="Bridestowe_Lavender_Farm.jpg" style="height: 120px;"></a><div><p>Bridestowe Lavender Farm</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Coogee_Beach.jpg"><img src="Coogee_Beach.jpg" style="height: 120px;"></a><div><p>Coogee Beach</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Cowra_1.jpg"><img src="Cowra_1.jpg" style="height: 120px;"></a><div><p>Cowra, NSW</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Cowra_2.jpg"><img src="Cowra_2.jpg" style="height: 120px;"></a><div><p>Cowra, NSW</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Jenolan_Caves.jpg"><img src="Jenolan_Caves.jpg" style="height: 120px;"></a><div><p>Jenolan Caves, NSW</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Kangaroo_Valley.jpg"><img src="Kangaroo_Valley.jpg" style="height: 120px;"></a><div><p>Kangaroo Valley, NSW</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Mount_Wellington_1.jpg"><img src="Mount_Wellington_1.jpg" style="height: 120px;"></a><div><p>Mount Wellington, Tasmania</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Mount_Wellington_2.jpg"><img src="Mount_Wellington_2.jpg" style="height: 120px;"></a><div><p>Mount Wellington, Tasmania</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Palm_Beach.jpg"><img src="Palm_Beach.jpg" style="height: 120px;"></a><div><p>Palm Beach, NSW</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Stanley_1.JPG"><img src="Stanley_1.JPG" style="height: 120px;"></a><div><p>Stanley, Tasmania</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Stanley_2.JPG"><img src="Stanley_2.JPG" style="height: 120px;"></a><div><p>Stanley, Tasmania</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Opera_House.jpg"><img src="assets/photos/Australia/Opera_House.jpg" style="height: 120px;"></a><div><p>Sydney Opera House</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg"><img src="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay Fossil Site</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Blue_Mountains.jpg"><img src="assets/photos/Australia/Blue_Mountains.jpg" style="height: 120px;"></a><div><p>Blue Mountains, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Bridestowe_Lavender_Farm.jpg"><img src="assets/photos/Australia/Bridestowe_Lavender_Farm.jpg" style="height: 120px;"></a><div><p>Bridestowe Lavender Farm</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Coogee_Beach.jpg"><img src="assets/photos/Australia/Coogee_Beach.jpg" style="height: 120px;"></a><div><p>Coogee Beach</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Cowra_1.jpg"><img src="assets/photos/Australia/Cowra_1.jpg" style="height: 120px;"></a><div><p>Cowra, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Cowra_2.jpg"><img src="assets/photos/Australia/Cowra_2.jpg" style="height: 120px;"></a><div><p>Cowra, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Jenolan_Caves.jpg"><img src="assets/photos/Australia/Jenolan_Caves.jpg" style="height: 120px;"></a><div><p>Jenolan Caves, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Kangaroo_Valley.jpg"><img src="assets/photos/Australia/Kangaroo_Valley.jpg" style="height: 120px;"></a><div><p>Kangaroo Valley, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Mount_Wellington_1.jpg"><img src="assets/photos/Australia/Mount_Wellington_1.jpg" style="height: 120px;"></a><div><p>Mount Wellington, Tasmania</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Mount_Wellington_2.jpg"><img src="assets/photos/Australia/Mount_Wellington_2.jpg" style="height: 120px;"></a><div><p>Mount Wellington, Tasmania</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Palm_Beach.jpg"><img src="assets/photos/Australia/Palm_Beach.jpg" style="height: 120px;"></a><div><p>Palm Beach, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_1.JPG"><img src="assets/photos/Australia/Stanley_1.JPG" style="height: 120px;"></a><div><p>Stanley, Tasmania</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_2.JPG"><img src="assets/photos/Australia/Stanley_2.JPG" style="height: 120px;"></a><div><p>Stanley, Tasmania</p></div></div>
 </div>
 
 
