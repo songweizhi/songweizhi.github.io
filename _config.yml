@@ -1,0 +1,26 @@
+# Qiyun Lab website configuration
+remote_theme: mmistakes/minimal-mistakes@4.20.1
+minimal_mistakes_skin: default
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
+
+title: Dr Weizhi Song
+subtitle: Research Assistant Professor, HKUST
+description: to be added
+url: https://songweizhi.github.io/
+locale: en-US
+
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      title: ''
+      layout: single
+      classes:
+        - wide
+        - fullwidth

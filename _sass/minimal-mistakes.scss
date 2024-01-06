@@ -1,0 +1,152 @@
+/*!
+ * Minimal Mistakes Jekyll Theme 4.20.1 by Michael Rose
+ * Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+ * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
+*/
+
+/* Variables */
+@import "minimal-mistakes/variables";
+
+/* Mixins and functions */
+@import "minimal-mistakes/vendor/breakpoint/breakpoint";
+@include breakpoint-set("to ems", true);
+@import "minimal-mistakes/vendor/magnific-popup/magnific-popup"; // Magnific Popup
+@import "minimal-mistakes/vendor/susy/susy";
+@import "minimal-mistakes/mixins";
+
+/* Core CSS */
+@import "minimal-mistakes/reset";
+@import "minimal-mistakes/base";
+@import "minimal-mistakes/forms";
+@import "minimal-mistakes/tables";
+@import "minimal-mistakes/animations";
+
+/* Components */
+@import "minimal-mistakes/buttons";
+@import "minimal-mistakes/notices";
+@import "minimal-mistakes/masthead";
+@import "minimal-mistakes/navigation";
+@import "minimal-mistakes/footer";
+@import "minimal-mistakes/search";
+@import "minimal-mistakes/syntax";
+
+/* Utility classes */
+@import "minimal-mistakes/utilities";
+
+/* Layout specific */
+@import "minimal-mistakes/page";
+@import "minimal-mistakes/archive";
+@import "minimal-mistakes/sidebar";
+@import "minimal-mistakes/print";
+
+
+/**
+ * General styles.
+ * Make default font size smaller.
+ * @see {@link https://github.com/mmistakes/minimal-mistakes/issues/1219}
+ */
+html {
+  font-size: 12px; // originally 16px
+  @include breakpoint($medium) {
+      font-size: 14px; // originally 18px
+  }
+
+  @include breakpoint($large) {
+      font-size: 16px; // originally 20px
+  }
+
+  @include breakpoint($x-large) {
+      font-size: 18px; // originally 22px
+  }
+}
+
+h4 {
+  font-size: $type-size-5;
+  font-style: italic;
+}
+
+.page__content {
+  p, li, dl {
+      font-size: 0.95em;
+  }
+}
+
+
+/**
+ * Make image caption more visible.
+ */
+
+.page__hero-caption,
+.archive__item-caption {
+  opacity: 0.75;
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+  a {
+    text-decoration: inherit;
+  }
+}
+
+
+/**
+ * Make notice text larger.
+ */
+@mixin notice($notice-color) {
+  font-size: 1em !important;
+}
+
+
+/**
+ * Make feature row text larger.
+ */
+.feature__item {
+  .archive__item-excerpt {
+      font-size: 0.9em;
+  }
+  &--left, &--right {
+      .archive__item-excerpt {
+          font-size: 0.9em;
+      }
+  }
+}
+
+
+/**
+ * Footer styles.
+ * Make default font size smaller.
+ * @see {@link https://github.com/mmistakes/minimal-mistakes/issues/1219}
+ */
+.page__footer {
+  footer {
+    text-align: center;
+  }
+}
+
+
+/**
+ * Hide side bar by default.
+ * @see {@link https://github.com/mmistakes/minimal-mistakes/issues/1322#issuecomment-571208318}
+ */
+.fullwidth {
+    .page {
+      float: left;
+      width: 100%;
+
+      @include breakpoint($large) {
+        padding-left: 0;
+      }
+  
+      @include breakpoint($x-large) {
+        padding-left: 0;
+      }
+    }
+  
+    .page__related {
+      @include breakpoint($large) {
+        padding-left: 0;
+      }
+  
+      @include breakpoint($x-large) {
+        padding-left: 0;
+      }
+    }
+  }

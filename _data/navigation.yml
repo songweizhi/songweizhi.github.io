@@ -1,0 +1,11 @@
+main:
+  - title: Research
+    url: research
+  - title: Publications
+    url: publications
+  - title: Software
+    url: software
+  - title: Conference
+    url: conference
+  - title: Contact
+    url: contact
