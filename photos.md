@@ -29,16 +29,18 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Palm_Beach.jpg"><img src="assets/photos/Australia/Palm_Beach.jpg" style="height: 120px;"></a><div><p>Palm Beach, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Kangaroo_Valley.jpg"><img src="assets/photos/Australia/Kangaroo_Valley.jpg" style="height: 120px;"></a><div><p>Kangaroo Valley</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Blue_Mountains.jpg"><img src="assets/photos/Australia/Blue_Mountains.jpg" style="height: 120px;"></a><div><p>Blue Mountains</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Bombo_Headland.jpg"><img src="assets/photos/Australia/Bombo_Headland.jpg" style="height: 120px;"></a><div><p>Bombo Headland, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Sea_Cliff_Bridge.jpg"><img src="assets/photos/Australia/Sea_Cliff_Bridge.jpg" style="height: 120px;"></a><div><p>Sea Cliff Bridge</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Bombo_Headland.jpg"><img src="assets/photos/Australia/Bombo_Headland.jpg" style="height: 120px;"></a><div><p>Bombo Headland</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Cowra_1.jpg"><img src="assets/photos/Australia/Cowra_1.jpg" style="height: 120px;"></a><div><p>Cowra, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Jenolan_Caves.jpg"><img src="assets/photos/Australia/Jenolan_Caves.jpg" style="height: 120px;"></a><div><p>Jenolan Caves</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Bridestowe_Lavender_Farm.jpg"><img src="assets/photos/Australia/Bridestowe_Lavender_Farm.jpg" style="height: 120px;"></a><div><p>Bridestowe Lavender Farm</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Mount_Wellington_1.jpg"><img src="assets/photos/Australia/Mount_Wellington_1.jpg" style="height: 120px;"></a><div><p>Mount Wellington</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Mount_Wellington_2.jpg"><img src="assets/photos/Australia/Mount_Wellington_2.jpg" style="height: 120px;"></a><div><p>Mount Wellington</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_1.jpg"><img src="assets/photos/Australia/Stanley_1.jpg" style="height: 120px;"></a><div><p>Stanley, TAS</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_2.jpg"><img src="assets/photos/Australia/Stanley_2.jpg" style="height: 120px;"></a><div><p>Stanley, TAS</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Russell_Falls.jpg"><img src="assets/photos/Australia/Russell_Falls.jpg" style="height: 120px;"></a><div><p>Russell Falls</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg"><img src="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg"><img src="assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Adelaide.jpg"><img src="assets/photos/Australia/Adelaide.jpg" style="height: 120px;"></a><div><p>Adelaide, SA</p></div></div>
 </div>
 
 

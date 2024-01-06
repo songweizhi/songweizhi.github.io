@@ -12,16 +12,18 @@ Australia (2015-2023)	Coogee Beach	assets/photos/Australia/Coogee_Beach.jpg
 Australia (2015-2023)	Palm Beach, NSW	assets/photos/Australia/Palm_Beach.jpg
 Australia (2015-2023)	Kangaroo Valley	assets/photos/Australia/Kangaroo_Valley.jpg
 Australia (2015-2023)	Blue Mountains	assets/photos/Australia/Blue_Mountains.jpg
+Australia (2015-2023)	Sea Cliff Bridge	assets/photos/Australia/Sea_Cliff_Bridge.jpg
 Australia (2015-2023)	Bombo Headland	assets/photos/Australia/Bombo_Headland.jpg
 Australia (2015-2023)	Cowra, NSW	assets/photos/Australia/Cowra_1.jpg
 Australia (2015-2023)	Jenolan Caves	assets/photos/Australia/Jenolan_Caves.jpg
 Australia (2015-2023)	Bridestowe Lavender Farm	assets/photos/Australia/Bridestowe_Lavender_Farm.jpg
 Australia (2015-2023)	Mount Wellington	assets/photos/Australia/Mount_Wellington_1.jpg
-Australia (2015-2023)	Mount Wellington	assets/photos/Australia/Mount_Wellington_2.jpg
 Australia (2015-2023)	Stanley, TAS	assets/photos/Australia/Stanley_1.jpg
 Australia (2015-2023)	Stanley, TAS	assets/photos/Australia/Stanley_2.jpg
 Australia (2015-2023)	Russell Falls	assets/photos/Australia/Russell_Falls.jpg
 Australia (2015-2023)	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg
+Australia (2015-2023)	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg
+Australia (2015-2023)	Adelaide, SA	assets/photos/Australia/Adelaide.jpg
 Germany and Czech (2018)	Frankfurt	assets/photos/Germany_Czech_2018/Frankfurt.jpg
 Germany and Czech (2018)	Leipzig	assets/photos/Germany_Czech_2018/Leipzig_1.jpg
 Germany and Czech (2018)	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_2.jpg
