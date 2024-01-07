@@ -29,14 +29,7 @@ Later the same year, I joined The Hong Kong University of Science and Technology
 
 ### Links
 
-<i class="fa-solid fa-building-columns"></i> [HKUST Profile](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=weizhi-song-ocessongwz)
-
-<i class='ai ai-google-scholar ai-lg'></i> [Google Scholar](http://scholar.google.com/citations?user=4BMYEv8AAAAJ)
-
-<i class='fab fa-researchgate fa-lg'></i> [ResearchGate](https://www.researchgate.net/profile/Weizhi-Song)
-
-<i class='fab fa-github fa-lg'></i> [Github](https://github.com/songweizhi)
-
-<i class='fab fa-building-columns fa-lg'></i>
-
-<i class='ai fa-building-columns ai-lg'></i>
++ [HKUST Profile](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=weizhi-song-ocessongwz)
++ [Google Scholar](http://scholar.google.com/citations?user=4BMYEv8AAAAJ)
++ [ResearchGate](https://www.researchgate.net/profile/Weizhi-Song)
++ [Github](https://github.com/songweizhi)
