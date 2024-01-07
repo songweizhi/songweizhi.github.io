@@ -8,11 +8,6 @@ title: Papers
 + to be added
 
 
-## Workshops
-
-+ to be added
-
-
 ## Tutorials
 
 + [Tree visualization](https://github.com/songweizhi/BioSAK/tree/master/BioSAK_tutorial/Demo_tree_visualization_with_iTol) (with iTOL)
