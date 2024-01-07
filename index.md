@@ -36,3 +36,7 @@ Later the same year, I joined The Hong Kong University of Science and Technology
 <i class='fab fa-researchgate fa-lg'></i> [ResearchGate](https://www.researchgate.net/profile/Weizhi-Song)
 
 <i class='fab fa-github fa-lg'></i> [Github](https://github.com/songweizhi)
+
+<i class='fab fa-building-columns fa-lg'></i>
+
+<i class='ai fa-building-columns ai-lg'></i>
