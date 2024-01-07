@@ -42,7 +42,6 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Russell_Falls.jpg"><img src="assets/photos/Australia/Russell_Falls.jpg" style="height: 120px;"></a><div><p>Russell Falls</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg"><img src="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg"><img src="assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Adelaide.jpg"><img src="assets/photos/Australia/Adelaide.jpg" style="height: 120px;"></a><div><p>Adelaide, SA</p></div></div>
 </div>
 
 
