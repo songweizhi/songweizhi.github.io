@@ -12,10 +12,8 @@ Australia (2015-2023)	main	Sea Cliff Bridge	assets/photos/Australia/Sea_Cliff_Br
 Australia (2015-2023)	main	Bombo Headland	assets/photos/Australia/Bombo_Headland.jpg
 Australia (2015-2023)	main	Cowra, NSW	assets/photos/Australia/Cowra_1.jpg
 Australia (2015-2023)	main	Jenolan Caves	assets/photos/Australia/Jenolan_Caves.jpg
-Australia (2015-2023)	main	Bridestowe Lavender Farm	assets/photos/Australia/Bridestowe_Lavender_Farm.jpg
 Australia (2015-2023)	main	Mount Wellington	assets/photos/Australia/Mount_Wellington_1.jpg
 Australia (2015-2023)	main	Stanley, TAS	assets/photos/Australia/Stanley_1.jpg
-Australia (2015-2023)	main	Stanley, TAS	assets/photos/Australia/Stanley_2.jpg
 Australia (2015-2023)	main	Russell Falls	assets/photos/Australia/Russell_Falls.jpg
 Australia (2015-2023)	road_trip_2023_1	Road Trip 2023	assets/photos/Australia/road_trip_2023_1.jpg
 Australia (2015-2023)	road_trip_2023_1	Cobar	assets/photos/Australia/road_trip_2023_1_Cobar.jpg
@@ -25,6 +23,8 @@ Australia (2015-2023)	road_trip_2023_1	Adelaide	assets/photos/Australia/road_tri
 Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg
 Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg
 Australia (2015-2023)	road_trip_2023_2	Road Trip 2023	assets/photos/Australia/road_trip_2023_2.jpg
+Australia (2015-2023)	road_trip_2023_2	Stanley, TAS	assets/photos/Australia/Stanley_2.jpg
+Australia (2015-2023)	road_trip_2023_2	Bridestowe Lavender Farm	assets/photos/Australia/Bridestowe_Lavender_Farm.jpg
 Italy (2018)	main	Rome	assets/photos/Italy_2018/Rome.jpg
 Italy (2018)	main	Milan	assets/photos/Italy_2018/Milan.jpg
 Italy (2018)	main	Pisa	assets/photos/Italy_2018/Pisa.jpg
