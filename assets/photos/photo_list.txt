@@ -1,5 +1,4 @@
 Yunnan (2023)	main	梅里雪山	assets/photos/Yunnan_2023/Meili_snow_mountains.jpg
-Yunnan (2023)	main	梅里雪山	assets/photos/Yunnan_2023/Meili_snow_mountains.jpg
 Yunnan (2023)	main	普拉错国家公园	assets/photos/Yunnan_2023/Pudacuo_Natioal_Park_1.jpg
 Yunnan (2023)	main	普拉错国家公园	assets/photos/Yunnan_2023/Pudacuo_Natioal_Park_2.jpg
 Yunnan (2023)	main	洱海	assets/photos/Yunnan_2023/Erhai_Shan.jpg
@@ -18,22 +17,14 @@ Australia (2015-2023)	main	Mount Wellington	assets/photos/Australia/Mount_Wellin
 Australia (2015-2023)	main	Stanley, TAS	assets/photos/Australia/Stanley_1.jpg
 Australia (2015-2023)	main	Stanley, TAS	assets/photos/Australia/Stanley_2.jpg
 Australia (2015-2023)	main	Russell Falls	assets/photos/Australia/Russell_Falls.jpg
-Australia (2015-2023)	main	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg
-Australia (2015-2023)	main	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg
-Australia (2015-2023)	main	Adelaide, SA	assets/photos/Australia/Adelaide.jpg
-Australia (2015-2023)	main	Road Trip 2023	assets/photos/Australia/road_trip_2023_1.jpg
 Australia (2015-2023)	road_trip_2023_1	Road Trip 2023	assets/photos/Australia/road_trip_2023_1.jpg
 Australia (2015-2023)	road_trip_2023_1	Cobar	assets/photos/Australia/road_trip_2023_1_Cobar.jpg
 Australia (2015-2023)	road_trip_2023_1	Kingston	assets/photos/Australia/road_trip_2023_1_Kingston.jpg
 Australia (2015-2023)	road_trip_2023_1	Parnaroo	assets/photos/Australia/road_trip_2023_1_Parnaroo.jpg
 Australia (2015-2023)	road_trip_2023_1	Adelaide	assets/photos/Australia/road_trip_2023_1_Adelaide.jpg
-Australia (2015-2023)	main	Road Trip 2023	assets/photos/Australia/road_trip_2023_2.jpg
+Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg
+Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg
 Australia (2015-2023)	road_trip_2023_2	Road Trip 2023	assets/photos/Australia/road_trip_2023_2.jpg
-Germany and Czech (2018)	main	Frankfurt	assets/photos/Germany_Czech_2018/Frankfurt.jpg
-Germany and Czech (2018)	main	Leipzig	assets/photos/Germany_Czech_2018/Leipzig_1.jpg
-Germany and Czech (2018)	main	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_2.jpg
-Germany and Czech (2018)	main	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_3.jpg
-Germany and Czech (2018)	main	Prague	assets/photos/Germany_Czech_2018/Prague.jpg
 Italy (2018)	main	Rome	assets/photos/Italy_2018/Rome.jpg
 Italy (2018)	main	Milan	assets/photos/Italy_2018/Milan.jpg
 Italy (2018)	main	Pisa	assets/photos/Italy_2018/Pisa.jpg
@@ -42,6 +33,11 @@ Italy (2018)	main	Venice	assets/photos/Italy_2018/Venice.jpg
 Italy (2018)	main	Venice	assets/photos/Italy_2018/Venice_2.jpg
 Italy (2018)	main	Pompeii	assets/photos/Italy_2018/Pompeii_1.jpg
 Italy (2018)	main	Pompeii	assets/photos/Italy_2018/Pompeii_2.jpg
+Germany and Czech (2018)	main	Frankfurt	assets/photos/Germany_Czech_2018/Frankfurt.jpg
+Germany and Czech (2018)	main	Leipzig	assets/photos/Germany_Czech_2018/Leipzig_1.jpg
+Germany and Czech (2018)	main	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_2.jpg
+Germany and Czech (2018)	main	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_3.jpg
+Germany and Czech (2018)	main	Prague	assets/photos/Germany_Czech_2018/Prague.jpg
 Taiwan (2017)	main	台湾	assets/photos/Taiwan_2017/Taiwan_1.jpg
 Taiwan (2017)	main	台北101	assets/photos/Taiwan_2017/Taipei.jpg
 Taiwan (2017)	main	花莲	assets/photos/Taiwan_2017/Taiwan_2.jpg

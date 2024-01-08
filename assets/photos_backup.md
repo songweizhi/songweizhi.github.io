@@ -3,7 +3,7 @@ title: Photos
 ---
 
 
-### Yunnan (2023)
+### Yunnan (2024)
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2023/Meili_snow_mountains.jpg"><img src="assets/photos/Yunnan_2023/Meili_snow_mountains.jpg" style="height: 120px;"></a><div><p>梅里雪山</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2023/Pudacuo_Natioal_Park_1.jpg"><img src="assets/photos/Yunnan_2023/Pudacuo_Natioal_Park_1.jpg" style="height: 120px;"></a><div><p>普拉错国家公园</p></div></div>
@@ -29,8 +29,20 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_1.jpg"><img src="assets/photos/Australia/Stanley_1.jpg" style="height: 120px;"></a><div><p>Stanley, TAS</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_2.jpg"><img src="assets/photos/Australia/Stanley_2.jpg" style="height: 120px;"></a><div><p>Stanley, TAS</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Russell_Falls.jpg"><img src="assets/photos/Australia/Russell_Falls.jpg" style="height: 120px;"></a><div><p>Russell Falls</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg"><img src="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg"><img src="assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_1"><img src="assets/photos/Australia/road_trip_2023_1.jpg" style="height: 120px;"></a><div><p>Road Trip 2023</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_2"><img src="assets/photos/Australia/road_trip_2023_2.jpg" style="height: 120px;"></a><div><p>Road Trip 2023</p></div></div>
+</div>
+
+
+### Germany and Czech (2018)
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Frankfurt.jpg"><img src="assets/photos/Germany_Czech_2018/Frankfurt.jpg" style="height: 120px;"></a><div><p>Frankfurt</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Leipzig_1.jpg"><img src="assets/photos/Germany_Czech_2018/Leipzig_1.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/ISME2018_2.jpg"><img src="assets/photos/Germany_Czech_2018/ISME2018_2.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/ISME2018_3.jpg"><img src="assets/photos/Germany_Czech_2018/ISME2018_3.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Prague.jpg"><img src="assets/photos/Germany_Czech_2018/Prague.jpg" style="height: 120px;"></a><div><p>Prague</p></div></div>
 </div>
 
 
@@ -47,16 +59,6 @@ title: Photos
 </div>
 
 
-### Germany and Czech (2018)
-<div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Frankfurt.jpg"><img src="assets/photos/Germany_Czech_2018/Frankfurt.jpg" style="height: 120px;"></a><div><p>Frankfurt</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Leipzig_1.jpg"><img src="assets/photos/Germany_Czech_2018/Leipzig_1.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/ISME2018_2.jpg"><img src="assets/photos/Germany_Czech_2018/ISME2018_2.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/ISME2018_3.jpg"><img src="assets/photos/Germany_Czech_2018/ISME2018_3.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Prague.jpg"><img src="assets/photos/Germany_Czech_2018/Prague.jpg" style="height: 120px;"></a><div><p>Prague</p></div></div>
-</div>
-
-
 ### Taiwan (2017)
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_1.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_1.jpg" style="height: 120px;"></a><div><p>台湾</p></div></div>
@@ -64,5 +66,3 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_2.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_2.jpg" style="height: 120px;"></a><div><p>花莲</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_3.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_3.jpg" style="height: 120px;"></a><div><p>九份</p></div></div>
 </div>
-
-
