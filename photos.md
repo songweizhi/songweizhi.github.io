@@ -31,8 +31,8 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Russell_Falls.jpg"><img src="assets/photos/Australia/Russell_Falls.jpg" style="height: 120px;"></a><div><p>Russell Falls</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg"><img src="assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg"><img src="assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg" style="height: 120px;"></a><div><p>Beaumaris Bay</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_1"><img src="assets/photos/Australia/road_trip_2023_1.png" style="height: 120px;"></a><div><p>Road Trip 2023</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_2"><img src="assets/photos/Australia/road_trip_2023_2.png" style="height: 120px;"></a><div><p>Road Trip 2023</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_1"><img src="assets/photos/Australia/road_trip_2023_1.jpg" style="height: 120px;"></a><div><p>Road Trip 2023</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_2"><img src="assets/photos/Australia/road_trip_2023_2.jpg" style="height: 120px;"></a><div><p>Road Trip 2023</p></div></div>
 </div>
 
 
