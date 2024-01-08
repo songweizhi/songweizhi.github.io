@@ -19,8 +19,14 @@ Australia (2015-2023)	road_trip_2023_1	Cobar	assets/photos/Australia/Cobar.jpg
 Australia (2015-2023)	road_trip_2023_1	Kingston	assets/photos/Australia/Kingston.jpg
 Australia (2015-2023)	road_trip_2023_1	Parnaroo	assets/photos/Australia/Parnaroo.jpg
 Australia (2015-2023)	road_trip_2023_1	Adelaide	assets/photos/Australia/Adelaide.jpg
+Australia (2015-2023)	road_trip_2023_1	Nyngan	assets/photos/Australia/Nyngan.jpg
+Australia (2015-2023)	road_trip_2023_1	Noona	assets/photos/Australia/Noona.jpg
+Australia (2015-2023)	road_trip_2023_1	Wilcannia	assets/photos/Australia/Wilcannia.jpg
 Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg
 Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg
+Australia (2015-2023)	road_trip_2023_1	Belalie East	assets/photos/Australia/Belalie_East.jpg
+Australia (2015-2023)	road_trip_2023_1	Broken Hill	assets/photos/Australia/Broken_Hill.jpg
+Australia (2015-2023)	road_trip_2023_1	Manna Hill	assets/photos/Australia/Manna_Hill.jpg
 Australia (2015-2023)	road_trip_2023_2	Road Trip 2023	assets/photos/Australia/road_trip_2023_2.jpg
 Australia (2015-2023)	road_trip_2023_2	Stanley, TAS	assets/photos/Australia/Stanley_2.jpg
 Australia (2015-2023)	road_trip_2023_2	Bridestowe Lavender Farm	assets/photos/Australia/Bridestowe_Lavender_Farm.jpg
