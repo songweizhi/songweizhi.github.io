@@ -13,15 +13,6 @@ title: Photos
 </div>
 
 
-### Taiwan (2017)
-<div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_1.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_1.jpg" style="height: 120px;"></a><div><p>台湾</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taipei.jpg"><img src="assets/photos/Taiwan_2017/Taipei.jpg" style="height: 120px;"></a><div><p>台北101</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_2.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_2.jpg" style="height: 120px;"></a><div><p>花莲</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_3.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_3.jpg" style="height: 120px;"></a><div><p>九份</p></div></div>
-</div>
-
-
 ### Australia (2015-2023)
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="https://songweizhi.github.io/road_trip_2023_1"><img src="assets/photos/Australia/road_trip_2023_1.png" style="height: 120px;"></a><div><p>Road Trip 2023</p></div></div>
@@ -65,4 +56,13 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Venice_2.jpg"><img src="assets/photos/Italy_2018/Venice_2.jpg" style="height: 120px;"></a><div><p>Venice</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Pompeii_1.jpg"><img src="assets/photos/Italy_2018/Pompeii_1.jpg" style="height: 120px;"></a><div><p>Pompeii</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Pompeii_2.jpg"><img src="assets/photos/Italy_2018/Pompeii_2.jpg" style="height: 120px;"></a><div><p>Pompeii</p></div></div>
+</div>
+
+
+### Taiwan (2017)
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_1.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_1.jpg" style="height: 120px;"></a><div><p>台湾</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taipei.jpg"><img src="assets/photos/Taiwan_2017/Taipei.jpg" style="height: 120px;"></a><div><p>台北101</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_2.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_2.jpg" style="height: 120px;"></a><div><p>花莲</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_3.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_3.jpg" style="height: 120px;"></a><div><p>九份</p></div></div>
 </div>

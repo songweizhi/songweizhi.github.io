@@ -3,10 +3,6 @@ Yunnan (2023)	普拉错国家公园	assets/photos/Yunnan_2023/Pudacuo_Natioal_Pa
 Yunnan (2023)	普拉错国家公园	assets/photos/Yunnan_2023/Pudacuo_Natioal_Park_2.jpg
 Yunnan (2023)	洱海	assets/photos/Yunnan_2023/Erhai_Shan.jpg
 Yunnan (2023)	洱海	assets/photos/Yunnan_2023/Erhai_Weizhi.jpg
-Taiwan (2017)	台湾	assets/photos/Taiwan_2017/Taiwan_1.jpg
-Taiwan (2017)	台北101	assets/photos/Taiwan_2017/Taipei.jpg
-Taiwan (2017)	花莲	assets/photos/Taiwan_2017/Taiwan_2.jpg
-Taiwan (2017)	九份	assets/photos/Taiwan_2017/Taiwan_3.jpg
 Australia (2015-2023)	Opera House	assets/photos/Australia/Opera_House.jpg
 Australia (2015-2023)	Coogee Beach	assets/photos/Australia/Coogee_Beach.jpg
 Australia (2015-2023)	Palm Beach, NSW	assets/photos/Australia/Palm_Beach.jpg
@@ -37,3 +33,7 @@ Italy (2018)	Venice	assets/photos/Italy_2018/Venice.jpg
 Italy (2018)	Venice	assets/photos/Italy_2018/Venice_2.jpg
 Italy (2018)	Pompeii	assets/photos/Italy_2018/Pompeii_1.jpg
 Italy (2018)	Pompeii	assets/photos/Italy_2018/Pompeii_2.jpg
+Taiwan (2017)	台湾	assets/photos/Taiwan_2017/Taiwan_1.jpg
+Taiwan (2017)	台北101	assets/photos/Taiwan_2017/Taipei.jpg
+Taiwan (2017)	花莲	assets/photos/Taiwan_2017/Taiwan_2.jpg
+Taiwan (2017)	九份	assets/photos/Taiwan_2017/Taiwan_3.jpg
