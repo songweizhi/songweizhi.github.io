@@ -25,9 +25,11 @@ Australia (2015-2023)	road_trip_2023_1	Noona	assets/photos/Australia/Noona.jpg
 Australia (2015-2023)	road_trip_2023_1	Wilcannia	assets/photos/Australia/Wilcannia.jpg
 Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg
 Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg
+Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay	assets/photos/Australia/Beaumaris_Bay_Fossil_Site_3.jpg
 Australia (2015-2023)	road_trip_2023_1	Belalie East	assets/photos/Australia/Belalie_East.jpg
 Australia (2015-2023)	road_trip_2023_1	Broken Hill	assets/photos/Australia/Broken_Hill.jpg
 Australia (2015-2023)	road_trip_2023_1	Manna Hill	assets/photos/Australia/Manna_Hill.jpg
+Australia (2015-2023)	road_trip_2023_1	Meningie	assets/photos/Australia/Meningie.jpg
 Australia (2015-2023)	road_trip_2023_1	Millicent	assets/photos/Australia/Millicent.mov
 Australia (2015-2023)	road_trip_2023_2	Road Trip 2023	assets/photos/Australia/road_trip_2023_2.jpg
 Australia (2015-2023)	road_trip_2023_2	Stanley, TAS	assets/photos/Australia/Stanley_2.jpg
@@ -36,6 +38,8 @@ Australia (2015-2023)	road_trip_2023_2	Mount Wellington	assets/photos/Australia/
 Australia (2015-2023)	road_trip_2023_2	Mount Wellington	assets/photos/Australia/Mount_Wellington_2.jpg
 Australia (2015-2023)	road_trip_2023_2	Cradle Mountain	assets/photos/Australia/Cradle_Mountain.jpg
 Australia (2015-2023)	road_trip_2023_2	Penguin	assets/photos/Australia/Penguin.jpg
+Australia (2015-2023)	road_trip_2023_2	Fossil Bluff Conservation Area	assets/photos/Australia/Fossil_Bluff_Conservation_Area_1.jpg
+Australia (2015-2023)	road_trip_2023_2	Fossil Bluff Conservation Area	assets/photos/Australia/Fossil_Bluff_Conservation_Area_2.jpg
 Italy (2018)	main	Rome	assets/photos/Italy_2018/Rome.jpg
 Italy (2018)	main	Milan	assets/photos/Italy_2018/Milan.jpg
 Italy (2018)	main	Pisa	assets/photos/Italy_2018/Pisa.jpg

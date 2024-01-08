@@ -14,9 +14,11 @@ title: Road Trip 2023
 	<div class="inline-block" style="display:inline-block;"><a href="Wilcannia.jpg"><img src="Wilcannia.jpg" style="height: 180px;"></a><div><p>Wilcannia</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Beaumaris_Bay_Fossil_Site.jpg"><img src="Beaumaris_Bay_Fossil_Site.jpg" style="height: 180px;"></a><div><p>Beaumaris Bay</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Beaumaris_Bay_Fossil_Site_2.jpg"><img src="Beaumaris_Bay_Fossil_Site_2.jpg" style="height: 180px;"></a><div><p>Beaumaris Bay</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Beaumaris_Bay_Fossil_Site_3.jpg"><img src="Beaumaris_Bay_Fossil_Site_3.jpg" style="height: 180px;"></a><div><p>Beaumaris Bay</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Belalie_East.jpg"><img src="Belalie_East.jpg" style="height: 180px;"></a><div><p>Belalie East</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Broken_Hill.jpg"><img src="Broken_Hill.jpg" style="height: 180px;"></a><div><p>Broken Hill</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Manna_Hill.jpg"><img src="Manna_Hill.jpg" style="height: 180px;"></a><div><p>Manna Hill</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Meningie.jpg"><img src="Meningie.jpg" style="height: 180px;"></a><div><p>Meningie</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Millicent.mov"><img src="Millicent.mov" style="height: 180px;"></a><div><p>Millicent</p></div></div>
 </div>
 

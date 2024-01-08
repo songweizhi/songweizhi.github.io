@@ -11,6 +11,8 @@ title: Road Trip 2023
 	<div class="inline-block" style="display:inline-block;"><a href="Mount_Wellington_2.jpg"><img src="Mount_Wellington_2.jpg" style="height: 180px;"></a><div><p>Mount Wellington</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Cradle_Mountain.jpg"><img src="Cradle_Mountain.jpg" style="height: 180px;"></a><div><p>Cradle Mountain</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Penguin.jpg"><img src="Penguin.jpg" style="height: 180px;"></a><div><p>Penguin</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Fossil_Bluff_Conservation_Area_1.jpg"><img src="Fossil_Bluff_Conservation_Area_1.jpg" style="height: 180px;"></a><div><p>Fossil Bluff Conservation Area</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Fossil_Bluff_Conservation_Area_2.jpg"><img src="Fossil_Bluff_Conservation_Area_2.jpg" style="height: 180px;"></a><div><p>Fossil Bluff Conservation Area</p></div></div>
 </div>
 
 
