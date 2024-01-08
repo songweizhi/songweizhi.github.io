@@ -10,7 +10,7 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_2.jpg"><img src="assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_2.jpg" style="height: 120px;"></a><div><p>普拉错国家公园</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Erhai_Shan.jpg"><img src="assets/photos/Yunnan_2024/Erhai_Shan.jpg" style="height: 120px;"></a><div><p>洱海</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Erhai_Weizhi.jpg"><img src="assets/photos/Yunnan_2024/Erhai_Weizhi.jpg" style="height: 120px;"></a><div><p>洱海</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2023/Yunnan_2024.jpg"><img src="assets/photos/Yunnan_2023/Yunnan_2024.jpg" style="height: 120px;"></a><div><p>Yunnan 2024</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Yunnan_2024.jpg"><img src="assets/photos/Yunnan_2024/Yunnan_2024.jpg" style="height: 120px;"></a><div><p>Yunnan 2024</p></div></div>
 </div>
 
 
