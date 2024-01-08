@@ -6,8 +6,15 @@ title: Photos
 ### Yunnan (2024)
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Meili_snow_mountains.jpg"><img src="assets/photos/Yunnan_2024/Meili_snow_mountains.jpg" style="height: 120px;"></a><div><p>梅里雪山</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Meili_snow_mountains_2.jpg"><img src="assets/photos/Yunnan_2024/Meili_snow_mountains_2.jpg" style="height: 120px;"></a><div><p>梅里雪山</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Meili_snow_mountains_3.jpg"><img src="assets/photos/Yunnan_2024/Meili_snow_mountains_3.jpg" style="height: 120px;"></a><div><p>梅里雪山</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Meili_snow_mountains_4.jpg"><img src="assets/photos/Yunnan_2024/Meili_snow_mountains_4.jpg" style="height: 120px;"></a><div><p>梅里雪山</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Yulong_snow_mountain.jpg"><img src="assets/photos/Yunnan_2024/Yulong_snow_mountain.jpg" style="height: 120px;"></a><div><p>玉龙雪山</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Yulong_snow_mountain_2.jpg"><img src="assets/photos/Yunnan_2024/Yulong_snow_mountain_2.jpg" style="height: 120px;"></a><div><p>玉龙雪山</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Yulong_snow_mountain_3.jpg"><img src="assets/photos/Yunnan_2024/Yulong_snow_mountain_3.jpg" style="height: 120px;"></a><div><p>玉龙雪山</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_1.jpg"><img src="assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_1.jpg" style="height: 120px;"></a><div><p>普拉错国家公园</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_2.jpg"><img src="assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_2.jpg" style="height: 120px;"></a><div><p>普拉错国家公园</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Wenhai_Lake.jpg"><img src="assets/photos/Yunnan_2024/Wenhai_Lake.jpg" style="height: 120px;"></a><div><p>文海湖</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Erhai_Shan.jpg"><img src="assets/photos/Yunnan_2024/Erhai_Shan.jpg" style="height: 120px;"></a><div><p>洱海</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Erhai_Weizhi.jpg"><img src="assets/photos/Yunnan_2024/Erhai_Weizhi.jpg" style="height: 120px;"></a><div><p>洱海</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Yunnan_2024.jpg"><img src="assets/photos/Yunnan_2024/Yunnan_2024.jpg" style="height: 120px;"></a><div><p>Yunnan 2024</p></div></div>

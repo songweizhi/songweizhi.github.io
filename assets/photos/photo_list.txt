@@ -1,6 +1,13 @@
 Yunnan (2024)	main	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains.jpg
+Yunnan (2024)	main	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains_2.jpg
+Yunnan (2024)	main	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains_3.jpg
+Yunnan (2024)	main	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains_4.jpg
+Yunnan (2024)	main	玉龙雪山	assets/photos/Yunnan_2024/Yulong_snow_mountain.jpg
+Yunnan (2024)	main	玉龙雪山	assets/photos/Yunnan_2024/Yulong_snow_mountain_2.jpg
+Yunnan (2024)	main	玉龙雪山	assets/photos/Yunnan_2024/Yulong_snow_mountain_3.jpg
 Yunnan (2024)	main	普拉错国家公园	assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_1.jpg
 Yunnan (2024)	main	普拉错国家公园	assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_2.jpg
+Yunnan (2024)	main	文海湖	assets/photos/Yunnan_2024/Wenhai_Lake.jpg
 Yunnan (2024)	main	洱海	assets/photos/Yunnan_2024/Erhai_Shan.jpg
 Yunnan (2024)	main	洱海	assets/photos/Yunnan_2024/Erhai_Weizhi.jpg
 Yunnan (2024)	main	Yunnan 2024	assets/photos/Yunnan_2024/Yunnan_2024.jpg
