@@ -6,7 +6,6 @@ def sep_path_basename_ext(file_in):
     f_path, file_name = os.path.split(file_in)
     if f_path == '':
         f_path = '.'
-
     f_base, f_ext = os.path.splitext(file_name)
 
     return f_path, f_base, f_ext
@@ -19,6 +18,7 @@ photos_md_main = '../../photos.md'
 
 ########################################################################################################################
 
+# read in photo_list_txt
 main_page_group_order_list = []
 page_to_photo_dict = dict()
 added_to_main_page_set = set()
@@ -49,15 +49,14 @@ for each_line in open(photo_list_txt):
         else:
             page_to_photo_dict[photo_page].append(each_line_split)
 
-
+# write out md files
 for each_page in page_to_photo_dict:
     if each_page == 'main':
         main_page_photo_dict = page_to_photo_dict[each_page]
         photos_md_main_handle = open(photos_md_main, 'w')
         photos_md_main_handle.write('---\ntitle: Photos\n---\n\n\n')
         for each_group in main_page_photo_dict:
-            photos_md_main_handle.write('### %s\n' % each_group)
-            photos_md_main_handle.write('<div id="banner">\n')
+            photos_md_main_handle.write('### %s\n<div id="banner">\n' % each_group)
             group_photo_list = main_page_photo_dict[each_group]
             for each_photo in group_photo_list:
                 photo_page  = each_photo[1]
@@ -74,11 +73,10 @@ for each_page in page_to_photo_dict:
         current_page_photo_list = page_to_photo_dict[each_page]
         cover_photo = current_page_photo_list[0]
         current_page_title = cover_photo[2]
-        f_path, f_base, f_ext = sep_path_basename_ext(cover_photo[3])
+        f_path, f_base, _ = sep_path_basename_ext(cover_photo[3])
         current_page_md = '%s/%s.md' % (f_path.replace('assets/photos/', ''), f_base)
         current_page_md_handle = open(current_page_md, 'w')
-        current_page_md_handle.write('---\ntitle: %s\n---\n\n\n' % current_page_title)
-        current_page_md_handle.write('<div id="banner">\n')
+        current_page_md_handle.write('---\ntitle: %s\n---\n\n\n<div id="banner">\n' % current_page_title)
         for each_photo in current_page_photo_list:
             photo_page = each_photo[1]
             photo_title = each_photo[2]
