@@ -3,6 +3,12 @@ title: Photos
 ---
 
 
+### Hong Kong
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/IMG_1990.jpg"><img src="assets/photos/Hong_Kong/IMG_1990.jpg" style="height: 120px;"></a><div><p>梅里雪山</p></div></div>
+</div>
+
+
 ### Yunnan (2024)
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Meili_snow_mountains.jpg"><img src="assets/photos/Yunnan_2024/Meili_snow_mountains.jpg" style="height: 120px;"></a><div><p>梅里雪山</p></div></div>
@@ -18,6 +24,16 @@ title: Photos
 </div>
 
 
+### Guangzhou (2023)
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5026.jpg"><img src="assets/photos/Guangzhou_2023/IMG_5026.jpg" style="height: 120px;"></a><div><p>石门国家森林公园</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5027.jpg"><img src="assets/photos/Guangzhou_2023/IMG_5027.jpg" style="height: 120px;"></a><div><p>石门公园</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5028.jpg"><img src="assets/photos/Guangzhou_2023/IMG_5028.jpg" style="height: 120px;"></a><div><p>石门公园</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5029.jpg"><img src="assets/photos/Guangzhou_2023/IMG_5029.jpg" style="height: 120px;"></a><div><p>石门公园</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5031.jpg"><img src="assets/photos/Guangzhou_2023/IMG_5031.jpg" style="height: 120px;"></a><div><p>石门公园</p></div></div>
+</div>
+
+
 ### Australia (2015-2023)
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Opera_House.jpg"><img src="assets/photos/Australia/Opera_House.jpg" style="height: 120px;"></a><div><p>Opera House</p></div></div>
@@ -29,10 +45,8 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Bombo_Headland.jpg"><img src="assets/photos/Australia/Bombo_Headland.jpg" style="height: 120px;"></a><div><p>Bombo Headland</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Cowra_1.jpg"><img src="assets/photos/Australia/Cowra_1.jpg" style="height: 120px;"></a><div><p>Cowra, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Jenolan_Caves.jpg"><img src="assets/photos/Australia/Jenolan_Caves.jpg" style="height: 120px;"></a><div><p>Jenolan Caves</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Stanley_1.jpg"><img src="assets/photos/Australia/Stanley_1.jpg" style="height: 120px;"></a><div><p>Stanley, TAS</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Russell_Falls.jpg"><img src="assets/photos/Australia/Russell_Falls.jpg" style="height: 120px;"></a><div><p>Russell Falls</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_1"><img src="assets/photos/Australia/road_trip_2023_1.jpg" style="height: 120px;"></a><div><p>Road Trip 2023</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_2"><img src="assets/photos/Australia/road_trip_2023_2.jpg" style="height: 120px;"></a><div><p>Road Trip 2023</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_2"><img src="assets/photos/Australia/road_trip_2023_2.jpg" style="height: 120px;"></a><div><p>Tasmania, 2023</p></div></div>
 </div>
 
 
