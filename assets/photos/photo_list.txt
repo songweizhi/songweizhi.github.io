@@ -42,9 +42,11 @@ Australia (2015-2023)	road_trip_2023_1	Noona, NSW	assets/photos/Australia/Noona.
 Australia (2015-2023)	road_trip_2023_1	Wilcannia, NSW	assets/photos/Australia/Wilcannia.jpg
 Australia (2015-2023)	road_trip_2023_1	Broken Hill, NSW	assets/photos/Australia/Broken_Hill.jpg
 Australia (2015-2023)	road_trip_2023_1	Little Topar, NSW	assets/photos/Australia/Little_Topar.jpg
+Australia (2015-2023)	road_trip_2023_1	Cockburn, NSW	assets/photos/Australia/Cockburn.jpg
 Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay, VIC	assets/photos/Australia/Beaumaris_Bay_Fossil_Site.jpg
 Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay, VIC	assets/photos/Australia/Beaumaris_Bay_Fossil_Site_2.jpg
 Australia (2015-2023)	road_trip_2023_1	Beaumaris Bay, VIC	assets/photos/Australia/Beaumaris_Bay_Fossil_Site_3.jpg
+Australia (2015-2023)	road_trip_2023_1	Mingary, SA	assets/photos/Australia/Mingary.jpg
 Australia (2015-2023)	road_trip_2023_1	Belalie East, SA	assets/photos/Australia/Belalie_East.jpg
 Australia (2015-2023)	road_trip_2023_1	Kingston SE, SA	assets/photos/Australia/Kingston.jpg
 Australia (2015-2023)	road_trip_2023_1	Parnaroo, SA	assets/photos/Australia/Parnaroo.jpg
