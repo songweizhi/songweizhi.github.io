@@ -1,4 +1,4 @@
-Hong Kong	main	梅里雪山	assets/photos/Hong_Kong/IMG_1990.jpg
+Hong Kong	main	Clear Water Bay	assets/photos/Hong_Kong/Clear_Water_Bay.jpg
 Yunnan (2024)	main	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains.jpg
 Yunnan (2024)	main	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains_3.jpg
 Yunnan (2024)	main	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains_4.jpg
@@ -23,7 +23,7 @@ Australia (2015-2023)	main	Sea Cliff Bridge	assets/photos/Australia/Sea_Cliff_Br
 Australia (2015-2023)	main	Bombo Headland	assets/photos/Australia/Bombo_Headland.jpg
 Australia (2015-2023)	main	Cowra, NSW	assets/photos/Australia/Cowra_1.jpg
 Australia (2015-2023)	main	Jenolan Caves	assets/photos/Australia/Jenolan_Caves.jpg
-Australia (2015-2023)	road_trip_2023_1	Road Trip 2023	assets/photos/Australia/road_trip_2023_1.jpg
+Australia (2015-2023)	road_trip_2023_1	South Eastern Australia	assets/photos/Australia/road_trip_2023_1.jpg
 Australia (2015-2023)	road_trip_2023_1	Cobar, NSW	assets/photos/Australia/Cobar.jpg
 Australia (2015-2023)	road_trip_2023_1	Nyngan, NSW	assets/photos/Australia/Nyngan.jpg
 Australia (2015-2023)	road_trip_2023_1	Noona, NSW	assets/photos/Australia/Noona.jpg
@@ -40,7 +40,7 @@ Australia (2015-2023)	road_trip_2023_1	Manna Hill, SA	assets/photos/Australia/Ma
 Australia (2015-2023)	road_trip_2023_1	Meningie, SA	assets/photos/Australia/Meningie.jpg
 Australia (2015-2023)	road_trip_2023_1	Adelaide, SA	assets/photos/Australia/Adelaide.jpg
 Australia (2015-2023)	road_trip_2023_1	Millicent, SA	assets/photos/Australia/Millicent.mov
-Australia (2015-2023)	road_trip_2023_2	Tasmania, 2023	assets/photos/Australia/road_trip_2023_2.jpg
+Australia (2015-2023)	road_trip_2023_2	Tasmania	assets/photos/Australia/road_trip_2023_2.jpg
 Australia (2015-2023)	road_trip_2023_2	Stanley, TAS	assets/photos/Australia/Stanley_1.jpg
 Australia (2015-2023)	road_trip_2023_2	Stanley, TAS	assets/photos/Australia/Stanley_2.jpg
 Australia (2015-2023)	road_trip_2023_2	Russell Falls, TAS	assets/photos/Australia/Russell_Falls.jpg

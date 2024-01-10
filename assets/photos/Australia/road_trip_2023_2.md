@@ -1,10 +1,10 @@
 ---
-title: Tasmania, 2023
+title: Tasmania
 ---
 
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="road_trip_2023_2.jpg"><img src="road_trip_2023_2.jpg" style="height: 180px;"></a><div><p>Tasmania, 2023</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="road_trip_2023_2.jpg"><img src="road_trip_2023_2.jpg" style="height: 180px;"></a><div><p>Tasmania</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Stanley_1.jpg"><img src="Stanley_1.jpg" style="height: 180px;"></a><div><p>Stanley, TAS</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Stanley_2.jpg"><img src="Stanley_2.jpg" style="height: 180px;"></a><div><p>Stanley, TAS</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Russell_Falls.jpg"><img src="Russell_Falls.jpg" style="height: 180px;"></a><div><p>Russell Falls, TAS</p></div></div>
