@@ -24,7 +24,6 @@ Australia (2015-2023)	main	Bombo Headland	assets/photos/Australia/Bombo_Headland
 Australia (2015-2023)	main	Jenolan Caves	assets/photos/Australia/Jenolan_Caves.jpg
 Australia (2015-2023)	Canola Fields	Canola Fields	assets/photos/Australia/Cowra_1.jpg
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_2.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_3.jpg
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_4.jpg
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_5.jpg
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_6.jpg
