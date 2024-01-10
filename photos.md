@@ -45,7 +45,7 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Bombo_Headland.jpg"><img src="assets/photos/Australia/Bombo_Headland.jpg" style="height: 120px;"></a><div><p>Bombo Headland</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Cowra_1.jpg"><img src="assets/photos/Australia/Cowra_1.jpg" style="height: 120px;"></a><div><p>Cowra, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Jenolan_Caves.jpg"><img src="assets/photos/Australia/Jenolan_Caves.jpg" style="height: 120px;"></a><div><p>Jenolan Caves</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_1"><img src="assets/photos/Australia/road_trip_2023_1.jpg" style="height: 120px;"></a><div><p>South Eastern Australia</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_1"><img src="assets/photos/Australia/road_trip_2023_1.jpg" style="height: 120px;"></a><div><p>Southeast Australia</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_2"><img src="assets/photos/Australia/road_trip_2023_2.jpg" style="height: 120px;"></a><div><p>Tasmania</p></div></div>
 </div>
 

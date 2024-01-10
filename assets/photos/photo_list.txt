@@ -23,7 +23,7 @@ Australia (2015-2023)	main	Sea Cliff Bridge	assets/photos/Australia/Sea_Cliff_Br
 Australia (2015-2023)	main	Bombo Headland	assets/photos/Australia/Bombo_Headland.jpg
 Australia (2015-2023)	main	Cowra, NSW	assets/photos/Australia/Cowra_1.jpg
 Australia (2015-2023)	main	Jenolan Caves	assets/photos/Australia/Jenolan_Caves.jpg
-Australia (2015-2023)	road_trip_2023_1	South Eastern Australia	assets/photos/Australia/road_trip_2023_1.jpg
+Australia (2015-2023)	road_trip_2023_1	Southeast Australia	assets/photos/Australia/road_trip_2023_1.jpg
 Australia (2015-2023)	road_trip_2023_1	Cobar, NSW	assets/photos/Australia/Cobar.jpg
 Australia (2015-2023)	road_trip_2023_1	Nyngan, NSW	assets/photos/Australia/Nyngan.jpg
 Australia (2015-2023)	road_trip_2023_1	Noona, NSW	assets/photos/Australia/Noona.jpg
