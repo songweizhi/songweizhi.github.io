@@ -56,7 +56,10 @@ for each_page in page_to_photo_dict:
         photos_md_main_handle = open(photos_md_main, 'w')
         photos_md_main_handle.write('---\ntitle: Photos\n---\n\n\n')
         for each_group in main_page_photo_dict:
-            photos_md_main_handle.write('### %s\n<div id="banner">\n' % each_group)
+            photos_md_main_handle.write('### %s\n' % each_group)
+            if each_group == 'Taiwan (2017)':
+                photos_md_main_handle.write('\nBest wishes to Taiwan. Also, I wish for every individual in the Greater China Area a peaceful and dignified life (January 13, 2024).\n\n')
+            photos_md_main_handle.write('<div id="banner">\n')
             group_photo_list = main_page_photo_dict[each_group]
             for each_photo in group_photo_list:
                 photo_page  = each_photo[1]
@@ -85,3 +88,9 @@ for each_page in page_to_photo_dict:
             current_page_md_handle.write('\t<div class="inline-block" style="display:inline-block;"><a href="%s"><img src="%s" style="height: 180px;"></a><div><p>%s</p></div></div>\n' % (photo_file_no_path, photo_file_no_path, photo_title))
         current_page_md_handle.write('</div>\n\n\n')
         current_page_md_handle.close()
+
+
+'''
+
+
+'''
