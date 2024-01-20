@@ -1,5 +1,5 @@
 ---
-title: Papers
+title: Publications
 ---
 
 ## Representative publications:
