@@ -2,9 +2,6 @@
 title: Papers
 ---
 
-<i class='ai ai-google-scholar ai-lg'></i> [Google Scholar](https://scholar.google.com.au/citations?user=4BMYEv8AAAAJ&hl=en)
-
-
 ## Representative publications:
 - **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
 - **Song W**; Wemheuer B; Steinberg PD; Marzinelli EM; Thomas T, 2021, 'Contribution of horizontal gene transfer to the functionality of microbial biofilm on a macroalgae', ISME Journal, vol. 15, pp. 807 – 817. (IF: **13.214**)
