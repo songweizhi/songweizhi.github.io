@@ -15,13 +15,21 @@ Guangzhou (2023)	main	石门公园	assets/photos/Guangzhou_2023/IMG_5028.jpg
 Guangzhou (2023)	main	石门公园	assets/photos/Guangzhou_2023/IMG_5029.jpg
 Guangzhou (2023)	main	石门公园	assets/photos/Guangzhou_2023/IMG_5031.jpg
 Australia (2015-2023)	main	Opera House	assets/photos/Australia/Opera_House.jpg
-Australia (2015-2023)	main	Coogee Beach	assets/photos/Australia/Coogee_Beach.jpg
+Australia (2015-2023)	main	Coogee Beach, NSW	assets/photos/Australia/Coogee_Beach.jpg
 Australia (2015-2023)	main	Palm Beach, NSW	assets/photos/Australia/Palm_Beach.jpg
-Australia (2015-2023)	main	Kangaroo Valley	assets/photos/Australia/Kangaroo_Valley.jpg
-Australia (2015-2023)	main	Blue Mountains	assets/photos/Australia/Blue_Mountains.jpg
-Australia (2015-2023)	main	Sea Cliff Bridge	assets/photos/Australia/Sea_Cliff_Bridge.jpg
-Australia (2015-2023)	main	Bombo Headland	assets/photos/Australia/Bombo_Headland.jpg
-Australia (2015-2023)	main	Jenolan Caves	assets/photos/Australia/Jenolan_Caves.jpg
+Australia (2015-2023)	main	UNSW, NSW	assets/photos/Australia/UNSW.jpg
+Australia (2015-2023)	main	Wollongong, NSW	assets/photos/Australia/Wollongong.jpg
+Australia (2015-2023)	main	Blue Mountains, NSW	assets/photos/Australia/Blue_Mountains.jpg
+Australia (2015-2023)	main	Sea Cliff Bridge, NSW	assets/photos/Australia/Sea_Cliff_Bridge.jpg
+Australia (2015-2023)	main	Bombo Headland, NSW	assets/photos/Australia/Bombo_Headland.jpg
+Australia (2015-2023)	main	Jenolan Caves, NSW	assets/photos/Australia/Jenolan_Caves.jpg
+Australia (2015-2023)	Wombat	Wombat	assets/photos/Australia/Wombat_1.jpg
+Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_2.jpg
+Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_3.jpg
+Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_4.jpg
+Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_5.jpg
+Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_6.jpg
+Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_7.jpg
 Australia (2015-2023)	Canola Fields	Cowra (Canola Fields)	assets/photos/Australia/Cowra_1.jpg
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_2.jpg
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_3.jpg
