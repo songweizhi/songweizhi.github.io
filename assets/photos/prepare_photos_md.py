@@ -58,7 +58,7 @@ for each_page in page_to_photo_dict:
         for each_group in main_page_photo_dict:
             photos_md_main_handle.write('### %s\n' % each_group)
             if each_group == 'Taiwan (2017)':
-                photos_md_main_handle.write('\nBest wishes to Taiwan. Also, I wish for every individual in the Greater China Area a peaceful and dignified life (on January 13, 2024).\n\n')
+                photos_md_main_handle.write('\nBest wishes to Taiwan. I also wish for every individual in the Greater China Area a peaceful and dignified life (on January 13, 2024).\n\n')
             photos_md_main_handle.write('<div id="banner">\n')
             group_photo_list = main_page_photo_dict[each_group]
             for each_photo in group_photo_list:
@@ -89,8 +89,3 @@ for each_page in page_to_photo_dict:
         current_page_md_handle.write('</div>\n\n\n')
         current_page_md_handle.close()
 
-
-'''
-
-
-'''
