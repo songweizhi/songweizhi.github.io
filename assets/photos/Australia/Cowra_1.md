@@ -1,10 +1,10 @@
 ---
-title: Cowra (Canola Fields)
+title: Canola Fields
 ---
 
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="Cowra_1.jpg"><img src="Cowra_1.jpg" style="height: 180px;"></a><div><p>Cowra (Canola Fields)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Cowra_1.jpg"><img src="Cowra_1.jpg" style="height: 180px;"></a><div><p>Canola Fields</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Cowra_2.jpg"><img src="Cowra_2.jpg" style="height: 180px;"></a><div><p>Cowra, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Cowra_3.jpg"><img src="Cowra_3.jpg" style="height: 180px;"></a><div><p>Cowra, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Cowra_4.jpg"><img src="Cowra_4.jpg" style="height: 180px;"></a><div><p>Cowra, NSW</p></div></div>
