@@ -9,28 +9,10 @@ title: Photos
 </div>
 
 
-### Yunnan (2024)
+### Mainland China
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Meili_snow_mountains.jpg"><img src="assets/photos/Yunnan_2024/Meili_snow_mountains.jpg" style="height: 120px;"></a><div><p>梅里雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Meili_snow_mountains_3.jpg"><img src="assets/photos/Yunnan_2024/Meili_snow_mountains_3.jpg" style="height: 120px;"></a><div><p>梅里雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Meili_snow_mountains_4.jpg"><img src="assets/photos/Yunnan_2024/Meili_snow_mountains_4.jpg" style="height: 120px;"></a><div><p>梅里雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Yulong_snow_mountain_2.jpg"><img src="assets/photos/Yunnan_2024/Yulong_snow_mountain_2.jpg" style="height: 120px;"></a><div><p>玉龙雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Yulong_snow_mountain.jpg"><img src="assets/photos/Yunnan_2024/Yulong_snow_mountain.jpg" style="height: 120px;"></a><div><p>玉龙雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Yulong_snow_mountain_3.jpg"><img src="assets/photos/Yunnan_2024/Yulong_snow_mountain_3.jpg" style="height: 120px;"></a><div><p>玉龙雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_1.jpg"><img src="assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_1.jpg" style="height: 120px;"></a><div><p>普拉错国家公园</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Erhai_Shan.jpg"><img src="assets/photos/Yunnan_2024/Erhai_Shan.jpg" style="height: 120px;"></a><div><p>洱海</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Erhai_Weizhi.jpg"><img src="assets/photos/Yunnan_2024/Erhai_Weizhi.jpg" style="height: 120px;"></a><div><p>洱海</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Yunnan_2024.jpg"><img src="assets/photos/Yunnan_2024/Yunnan_2024.jpg" style="height: 120px;"></a><div><p>Yunnan 2024</p></div></div>
-</div>
-
-
-### Guangzhou (2023)
-<div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5026.jpg"><img src="assets/photos/Guangzhou_2023/IMG_5026.jpg" style="height: 120px;"></a><div><p>石门国家森林公园</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5027.jpg"><img src="assets/photos/Guangzhou_2023/IMG_5027.jpg" style="height: 120px;"></a><div><p>石门公园</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5028.jpg"><img src="assets/photos/Guangzhou_2023/IMG_5028.jpg" style="height: 120px;"></a><div><p>石门公园</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5029.jpg"><img src="assets/photos/Guangzhou_2023/IMG_5029.jpg" style="height: 120px;"></a><div><p>石门公园</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5031.jpg"><img src="assets/photos/Guangzhou_2023/IMG_5031.jpg" style="height: 120px;"></a><div><p>石门公园</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Meili_snow_mountains"><img src="assets/photos/Yunnan_2024/Meili_snow_mountains.jpg" style="height: 120px;"></a><div><p>Yunnan (2024)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5026"><img src="assets/photos/Guangzhou_2023/IMG_5026.jpg" style="height: 120px;"></a><div><p>Guangzhou (2023)</p></div></div>
 </div>
 
 
@@ -39,7 +21,6 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Opera_House.jpg"><img src="assets/photos/Australia/Opera_House.jpg" style="height: 120px;"></a><div><p>Opera House</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Coogee_Beach.jpg"><img src="assets/photos/Australia/Coogee_Beach.jpg" style="height: 120px;"></a><div><p>Coogee Beach, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Palm_Beach.jpg"><img src="assets/photos/Australia/Palm_Beach.jpg" style="height: 120px;"></a><div><p>Palm Beach, NSW</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/UNSW.jpg"><img src="assets/photos/Australia/UNSW.jpg" style="height: 120px;"></a><div><p>UNSW, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Wollongong.jpg"><img src="assets/photos/Australia/Wollongong.jpg" style="height: 120px;"></a><div><p>Wollongong, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Blue_Mountains.jpg"><img src="assets/photos/Australia/Blue_Mountains.jpg" style="height: 120px;"></a><div><p>Blue Mountains, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Sea_Cliff_Bridge.jpg"><img src="assets/photos/Australia/Sea_Cliff_Bridge.jpg" style="height: 120px;"></a><div><p>Sea Cliff Bridge, NSW</p></div></div>
