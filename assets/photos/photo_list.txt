@@ -1,5 +1,6 @@
 Hong Kong	main	Clear Water Bay	assets/photos/Hong_Kong/Clear_Water_Bay.jpg
-Mainland China	Yunnan	Yunnan (2024)	assets/photos/Yunnan_2024/Meili_snow_mountains.jpg
+Mainland China	Yunnan	Yunnan (2024)	assets/photos/Yunnan_2024/Yunnan_2024.jpg
+Mainland China	Yunnan	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains.jpg
 Mainland China	Yunnan	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains_3.jpg
 Mainland China	Yunnan	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains_4.jpg
 Mainland China	Yunnan	玉龙雪山	assets/photos/Yunnan_2024/Yulong_snow_mountain_2.jpg
@@ -8,7 +9,6 @@ Mainland China	Yunnan	玉龙雪山	assets/photos/Yunnan_2024/Yulong_snow_mountai
 Mainland China	Yunnan	普拉错国家公园	assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_1.jpg
 Mainland China	Yunnan	洱海	assets/photos/Yunnan_2024/Erhai_Shan.jpg
 Mainland China	Yunnan	洱海	assets/photos/Yunnan_2024/Erhai_Weizhi.jpg
-Mainland China	Yunnan	Yunnan 2024	assets/photos/Yunnan_2024/Yunnan_2024.jpg
 Mainland China	Guangzhou (2023)	Guangzhou (2023)	assets/photos/Guangzhou_2023/IMG_5026.jpg
 Mainland China	Guangzhou (2023)	石门公园	assets/photos/Guangzhou_2023/IMG_5027.jpg
 Mainland China	Guangzhou (2023)	石门公园	assets/photos/Guangzhou_2023/IMG_5028.jpg
