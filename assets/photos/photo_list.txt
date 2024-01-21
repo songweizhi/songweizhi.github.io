@@ -24,7 +24,6 @@ Australia (2015-2023)	main	Sea Cliff Bridge, NSW	assets/photos/Australia/Sea_Cli
 Australia (2015-2023)	main	Bombo Headland, NSW	assets/photos/Australia/Bombo_Headland.jpg
 Australia (2015-2023)	main	Jenolan Caves, NSW	assets/photos/Australia/Jenolan_Caves.jpg
 Australia (2015-2023)	Wombat	Wombat	assets/photos/Australia/Wombat_1.jpg
-Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_2.jpg
 Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_4.jpg
 Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_6.jpg
 Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_7.jpg
@@ -37,7 +36,6 @@ Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_6.j
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_7.jpg
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_11.jpg
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_8.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_9.jpg
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_10.jpg
 Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_12.jpg
 Australia (2015-2023)	Canola Fields	Young, NSW	assets/photos/Australia/Young.jpg

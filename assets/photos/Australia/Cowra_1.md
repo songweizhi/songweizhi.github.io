@@ -13,7 +13,6 @@ title: Cowra (Canola Fields)
 	<div class="inline-block" style="display:inline-block;"><a href="Cowra_7.jpg"><img src="Cowra_7.jpg" style="height: 180px;"></a><div><p>Cowra, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Cowra_11.jpg"><img src="Cowra_11.jpg" style="height: 180px;"></a><div><p>Cowra, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Cowra_8.jpg"><img src="Cowra_8.jpg" style="height: 180px;"></a><div><p>Cowra, NSW</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Cowra_9.jpg"><img src="Cowra_9.jpg" style="height: 180px;"></a><div><p>Cowra, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Cowra_10.jpg"><img src="Cowra_10.jpg" style="height: 180px;"></a><div><p>Cowra, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Cowra_12.jpg"><img src="Cowra_12.jpg" style="height: 180px;"></a><div><p>Cowra, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Young.jpg"><img src="Young.jpg" style="height: 180px;"></a><div><p>Young, NSW</p></div></div>
