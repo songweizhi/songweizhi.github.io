@@ -25,9 +25,9 @@ title: Photos
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Sea_Cliff_Bridge.jpg"><img src="assets/photos/Australia/Sea_Cliff_Bridge.jpg" style="height: 120px;"></a><div><p>Sea Cliff Bridge, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Bombo_Headland.jpg"><img src="assets/photos/Australia/Bombo_Headland.jpg" style="height: 120px;"></a><div><p>Bombo Headland, NSW</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Jenolan_Caves.jpg"><img src="assets/photos/Australia/Jenolan_Caves.jpg" style="height: 120px;"></a><div><p>Jenolan Caves, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Cowra_1"><img src="assets/photos/Australia/Cowra_1.jpg" style="height: 120px;"></a><div><p>Canola Fields</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Mount_Kosciuszko_1"><img src="assets/photos/Australia/Mount_Kosciuszko_1.jpg" style="height: 120px;"></a><div><p>Mount Kosciuszko</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Wombat"><img src="assets/photos/Australia/Wombat.jpg" style="height: 120px;"></a><div><p>Wombat</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Cowra_1"><img src="assets/photos/Australia/Cowra_1.jpg" style="height: 120px;"></a><div><p>Canola Fields</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_1"><img src="assets/photos/Australia/road_trip_2023_1.jpg" style="height: 120px;"></a><div><p>Southeast Australia</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/road_trip_2023_2"><img src="assets/photos/Australia/road_trip_2023_2.jpg" style="height: 120px;"></a><div><p>Tasmania</p></div></div>
 </div>

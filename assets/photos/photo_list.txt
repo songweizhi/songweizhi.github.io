@@ -21,6 +21,18 @@ Australia (2015-2023)	main	Blue Mountains, NSW	assets/photos/Australia/Blue_Moun
 Australia (2015-2023)	main	Sea Cliff Bridge, NSW	assets/photos/Australia/Sea_Cliff_Bridge.jpg
 Australia (2015-2023)	main	Bombo Headland, NSW	assets/photos/Australia/Bombo_Headland.jpg
 Australia (2015-2023)	main	Jenolan Caves, NSW	assets/photos/Australia/Jenolan_Caves.jpg
+Australia (2015-2023)	Canola Fields	Canola Fields	assets/photos/Australia/Cowra_1.jpg
+Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_2.jpg
+Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_3.jpg
+Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_4.jpg
+Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_5.jpg
+Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_6.jpg
+Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_7.jpg
+Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_11.jpg
+Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_8.jpg
+Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_10.jpg
+Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_12.jpg
+Australia (2015-2023)	Canola Fields	Young, NSW	assets/photos/Australia/Young.jpg
 Australia (2015-2023)	Mount Kosciuszko	Mount Kosciuszko	assets/photos/Australia/Mount_Kosciuszko_1.jpg
 Australia (2015-2023)	Mount Kosciuszko	Mount Kosciuszko	assets/photos/Australia/Mount_Kosciuszko_2.jpg
 Australia (2015-2023)	Mount Kosciuszko	Mount Kosciuszko	assets/photos/Australia/Mount_Kosciuszko_3.jpg
@@ -39,18 +51,6 @@ Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat
 Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_4.jpg
 Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_6.jpg
 Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_7.jpg
-Australia (2015-2023)	Canola Fields	Canola Fields	assets/photos/Australia/Cowra_1.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_2.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_3.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_4.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_5.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_6.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_7.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_11.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_8.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_10.jpg
-Australia (2015-2023)	Canola Fields	Cowra, NSW	assets/photos/Australia/Cowra_12.jpg
-Australia (2015-2023)	Canola Fields	Young, NSW	assets/photos/Australia/Young.jpg
 Australia (2015-2023)	road_trip_2023_1	Southeast Australia	assets/photos/Australia/road_trip_2023_1.jpg
 Australia (2015-2023)	road_trip_2023_1	Cobar, NSW	assets/photos/Australia/Cobar.jpg
 Australia (2015-2023)	road_trip_2023_1	Nyngan, NSW	assets/photos/Australia/Nyngan.jpg
