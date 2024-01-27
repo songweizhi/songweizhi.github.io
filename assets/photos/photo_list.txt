@@ -34,7 +34,8 @@ Australia (2015-2023)	Mount Kosciuszko	Mount Kosciuszko	assets/photos/Australia/
 Australia (2015-2023)	Mount Kosciuszko	Mount Kosciuszko	assets/photos/Australia/Mount_Kosciuszko_11.jpg
 Australia (2015-2023)	Mount Kosciuszko	Mount Kosciuszko	assets/photos/Australia/Mount_Kosciuszko_12.jpg
 Australia (2015-2023)	Mount Kosciuszko	Mount Kosciuszko	assets/photos/Australia/Mount_Kosciuszko_13.jpg
-Australia (2015-2023)	Wombat	Wombat	assets/photos/Australia/Wombat_1.jpg
+Australia (2015-2023)	Wombat	Wombat	assets/photos/Australia/Wombat.jpg
+Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_1.jpg
 Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_4.jpg
 Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_6.jpg
 Australia (2015-2023)	Wombat	Kangaroo Valley, NSW	assets/photos/Australia/Wombat_7.jpg
