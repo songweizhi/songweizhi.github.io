@@ -33,26 +33,11 @@ title: Photos
 </div>
 
 
-### Italy (2018)
+### Italy, Germany and Czech (2018)
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Rome.jpg"><img src="assets/photos/Italy_2018/Rome.jpg" style="height: 120px;"></a><div><p>Rome</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Milan.jpg"><img src="assets/photos/Italy_2018/Milan.jpg" style="height: 120px;"></a><div><p>Milan</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Pisa.jpg"><img src="assets/photos/Italy_2018/Pisa.jpg" style="height: 120px;"></a><div><p>Pisa</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Florence.jpg"><img src="assets/photos/Italy_2018/Florence.jpg" style="height: 120px;"></a><div><p>Florence</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Venice.jpg"><img src="assets/photos/Italy_2018/Venice.jpg" style="height: 120px;"></a><div><p>Venice</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Venice_2.jpg"><img src="assets/photos/Italy_2018/Venice_2.jpg" style="height: 120px;"></a><div><p>Venice</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Pompeii_1.jpg"><img src="assets/photos/Italy_2018/Pompeii_1.jpg" style="height: 120px;"></a><div><p>Pompeii</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Pompeii_2.jpg"><img src="assets/photos/Italy_2018/Pompeii_2.jpg" style="height: 120px;"></a><div><p>Pompeii</p></div></div>
-</div>
-
-
-### Germany and Czech (2018)
-<div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Frankfurt.jpg"><img src="assets/photos/Germany_Czech_2018/Frankfurt.jpg" style="height: 120px;"></a><div><p>Frankfurt</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Leipzig_1.jpg"><img src="assets/photos/Germany_Czech_2018/Leipzig_1.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/ISME2018_2.jpg"><img src="assets/photos/Germany_Czech_2018/ISME2018_2.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/ISME2018_3.jpg"><img src="assets/photos/Germany_Czech_2018/ISME2018_3.jpg" style="height: 120px;"></a><div><p>Leipzig</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Prague.jpg"><img src="assets/photos/Germany_Czech_2018/Prague.jpg" style="height: 120px;"></a><div><p>Prague</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Rome"><img src="assets/photos/Italy_2018/Rome.jpg" style="height: 120px;"></a><div><p>Italy</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Frankfurt"><img src="assets/photos/Germany_Czech_2018/Frankfurt.jpg" style="height: 120px;"></a><div><p>Germany</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Prague"><img src="assets/photos/Germany_Czech_2018/Prague.jpg" style="height: 120px;"></a><div><p>Czech</p></div></div>
 </div>
 
 

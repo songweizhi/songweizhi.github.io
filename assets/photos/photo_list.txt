@@ -85,19 +85,19 @@ Australia (2015-2023)	road_trip_2023_2	Penguin, TAS	assets/photos/Australia/Peng
 Australia (2015-2023)	road_trip_2023_2	Fossil Bluff Conservation Area, TAS	assets/photos/Australia/Fossil_Bluff_Conservation_Area_1.jpg
 Australia (2015-2023)	road_trip_2023_2	Fossil Bluff Conservation Area, TAS	assets/photos/Australia/Fossil_Bluff_Conservation_Area_2.jpg
 Australia (2015-2023)	road_trip_2023_2	Eaglehawk Neck, TAS	assets/photos/Australia/Eaglehawk_Neck.jpg
-Italy (2018)	main	Rome	assets/photos/Italy_2018/Rome.jpg
-Italy (2018)	main	Milan	assets/photos/Italy_2018/Milan.jpg
-Italy (2018)	main	Pisa	assets/photos/Italy_2018/Pisa.jpg
-Italy (2018)	main	Florence	assets/photos/Italy_2018/Florence.jpg
-Italy (2018)	main	Venice	assets/photos/Italy_2018/Venice.jpg
-Italy (2018)	main	Venice	assets/photos/Italy_2018/Venice_2.jpg
-Italy (2018)	main	Pompeii	assets/photos/Italy_2018/Pompeii_1.jpg
-Italy (2018)	main	Pompeii	assets/photos/Italy_2018/Pompeii_2.jpg
-Germany and Czech (2018)	main	Frankfurt	assets/photos/Germany_Czech_2018/Frankfurt.jpg
-Germany and Czech (2018)	main	Leipzig	assets/photos/Germany_Czech_2018/Leipzig_1.jpg
-Germany and Czech (2018)	main	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_2.jpg
-Germany and Czech (2018)	main	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_3.jpg
-Germany and Czech (2018)	main	Prague	assets/photos/Germany_Czech_2018/Prague.jpg
+Italy, Germany and Czech (2018)	Italy	Italy	assets/photos/Italy_2018/Rome.jpg
+Italy, Germany and Czech (2018)	Italy	Milan	assets/photos/Italy_2018/Milan.jpg
+Italy, Germany and Czech (2018)	Italy	Pisa	assets/photos/Italy_2018/Pisa.jpg
+Italy, Germany and Czech (2018)	Italy	Florence	assets/photos/Italy_2018/Florence.jpg
+Italy, Germany and Czech (2018)	Italy	Venice	assets/photos/Italy_2018/Venice.jpg
+Italy, Germany and Czech (2018)	Italy	Venice	assets/photos/Italy_2018/Venice_2.jpg
+Italy, Germany and Czech (2018)	Italy	Pompeii	assets/photos/Italy_2018/Pompeii_1.jpg
+Italy, Germany and Czech (2018)	Italy	Pompeii	assets/photos/Italy_2018/Pompeii_2.jpg
+Italy, Germany and Czech (2018)	Germany	Germany	assets/photos/Germany_Czech_2018/Frankfurt.jpg
+Italy, Germany and Czech (2018)	Germany	Leipzig	assets/photos/Germany_Czech_2018/Leipzig_1.jpg
+Italy, Germany and Czech (2018)	Germany	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_2.jpg
+Italy, Germany and Czech (2018)	Germany	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_3.jpg
+Italy, Germany and Czech (2018)	Czech	Czech	assets/photos/Germany_Czech_2018/Prague.jpg
 Taiwan (2017)	main	台湾	assets/photos/Taiwan_2017/Taiwan_1.jpg
 Taiwan (2017)	main	台北101	assets/photos/Taiwan_2017/Taipei.jpg
 Taiwan (2017)	main	花莲	assets/photos/Taiwan_2017/Taiwan_2.jpg
