@@ -27,7 +27,7 @@ After my graduation, I continued my research as a Postdoctoral Fellow at The Uni
 In early 2023, I relocated to The Chinese University of Hong Kong (**CUHK**) to expand my knowledge on Phylogenomics. 
 Later the same year, I joined The Hong Kong University of Science and Technology (**HKUST**) as a Research Assistant Professor to continue my research on Bioinformatics and animal-microbe symbioses.
 
-Interested in Phylogenomics or Animal-Microbe Symbioses? Shoot me an email to explore possibilities!
+Interested in bioinformatics, phylogenomics or animal-microbe symbioses? Shoot me an email to explore possibilities!
 
 ### Links
 
