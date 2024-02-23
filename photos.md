@@ -43,7 +43,7 @@ title: Photos
 
 ### Taiwan (2017)
 
-Best wishes to Taiwan. I also wish for every individual in the Greater China Area a peaceful and dignified life (on January 13, 2024).
+Best wishes to Taiwan. I also wish for every individual in the Greater China Area a peaceful and dignified life (January 13, 2024).
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_1.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_1.jpg" style="height: 120px;"></a><div><p>台湾</p></div></div>
