@@ -23,15 +23,15 @@ I hold a **Bachelor degree** on Biological Engineering (Shandong University of A
 a **Master degree** on Marine Microbiology (The First Institute of Oceanography, Ministry of Natural Resources, China, 2012), 
 and a **PhD degree** on Microbiology and Immunology (University of New South Wales, Sydney, Australia, 2019). 
 
-After my graduation, I continued my research as a Postdoctoral Fellow at The University of New South Wales (**UNSW**) (2019-2022) and received a Seed Grant for Early Career Researchers from the university.
+After my graduation, I continued my research as a Postdoctoral Fellow at The University of New South Wales (**UNSW**, 2019-2022) and received a Seed Grant for Early Career Researchers from the university.
 In early 2023, I relocated to The Chinese University of Hong Kong (**CUHK**) to expand my knowledge on Phylogenomics. 
 Later the same year, I joined The Hong Kong University of Science and Technology (**HKUST**) as a Research Assistant Professor to continue my research on Bioinformatics and animal-microbe symbioses.
 
 Interested in bioinformatics, phylogenomics or animal-microbe symbioses? Shoot me an email to explore possibilities!
 
+
 ### Links
 
 + [HKUST Profile](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=weizhi-song-ocessongwz)
 + [Google Scholar](http://scholar.google.com/citations?user=4BMYEv8AAAAJ)
-+ [ResearchGate](https://www.researchgate.net/profile/Weizhi-Song)
 + [Github](https://github.com/songweizhi)
