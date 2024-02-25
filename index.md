@@ -9,11 +9,11 @@ classes:
 header:
   overlay_color: '#000'
   overlay_filter: 0.33
-  overlay_image: /assets/photos/Meili_snow_mountains.jpg
+  overlay_image: /assets/photos/Homepage_photo_1.jpg
   #actions:
   #  - label: label to be added!
   #    url: people#join-us
-  caption: Meili Snow Mountains, Yunnan, China, 2023, W Song
+  caption: Clear Water Bay, Hong Kong, 2024, W Song
 excerpt: Bioinformatics, Phylogenomics, Microbial Ecology, Animal-Microbe Symbioses
 ---
 
