@@ -5,9 +5,9 @@ title: Photos
 
 ### Hong Kong
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/View_from_HKUST.jpg"><img src="assets/photos/Hong_Kong/View_from_HKUST.jpg" style="height: 120px;"></a><div><p>Clear Water Bay (View from HKUST)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/View_from_HKUST.jpg"><img src="assets/photos/Hong_Kong/View_from_HKUST.jpg" style="height: 120px;"></a><div><p>清水灣 Clear Water Bay</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/Clear_Water_Bay.jpg"><img src="assets/photos/Hong_Kong/Clear_Water_Bay.jpg" style="height: 120px;"></a><div><p>清水灣 Clear Water Bay</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/Hong_Kong_1.jpg"><img src="assets/photos/Hong_Kong/Hong_Kong_1.jpg" style="height: 120px;"></a><div><p>大浪亭, 大浪灣 Big Wave Bay</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/Hong_Kong_1.jpg"><img src="assets/photos/Hong_Kong/Hong_Kong_1.jpg" style="height: 120px;"></a><div><p>大浪灣 Big Wave Bay</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/Hong_Kong_2.jpg"><img src="assets/photos/Hong_Kong/Hong_Kong_2.jpg" style="height: 120px;"></a><div><p>石澳 Shek O</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/Hong_Kong_3.jpg"><img src="assets/photos/Hong_Kong/Hong_Kong_3.jpg" style="height: 120px;"></a><div><p>馬鞍山 Ma On Shan</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/Hong_Kong_4.jpg"><img src="assets/photos/Hong_Kong/Hong_Kong_4.jpg" style="height: 120px;"></a><div><p>馬鞍珊 Ma On Shan</p></div></div>
