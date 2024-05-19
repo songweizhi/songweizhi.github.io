@@ -3,7 +3,7 @@ title: Photos
 ---
 
 
-### Hong Kong
+### Hong Kong (2023-)
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/View_from_HKUST.jpg"><img src="assets/photos/Hong_Kong/View_from_HKUST.jpg" style="height: 120px;"></a><div><p>清水灣 Clear Water Bay</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Hong_Kong/Clear_Water_Bay.jpg"><img src="assets/photos/Hong_Kong/Clear_Water_Bay.jpg" style="height: 120px;"></a><div><p>清水灣 Clear Water Bay</p></div></div>

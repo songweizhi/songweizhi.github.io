@@ -1,10 +1,10 @@
-Hong Kong	main	清水灣 Clear Water Bay	assets/photos/Hong_Kong/View_from_HKUST.jpg
-Hong Kong	main	清水灣 Clear Water Bay	assets/photos/Hong_Kong/Clear_Water_Bay.jpg
-Hong Kong	main	大浪灣 Big Wave Bay	assets/photos/Hong_Kong/Hong_Kong_1.jpg
-Hong Kong	main	石澳 Shek O	assets/photos/Hong_Kong/Hong_Kong_2.jpg
-Hong Kong	main	馬鞍山 Ma On Shan	assets/photos/Hong_Kong/Hong_Kong_3.jpg
-Hong Kong	main	馬鞍珊 Ma On Shan	assets/photos/Hong_Kong/Hong_Kong_4.jpg
-Hong Kong	main	綠蛋島 Green Egg Island	assets/photos/Hong_Kong/Hong_Kong_5.jpg
+Hong Kong (2023-)	main	清水灣 Clear Water Bay	assets/photos/Hong_Kong/View_from_HKUST.jpg
+Hong Kong (2023-)	main	清水灣 Clear Water Bay	assets/photos/Hong_Kong/Clear_Water_Bay.jpg
+Hong Kong (2023-)	main	大浪灣 Big Wave Bay	assets/photos/Hong_Kong/Hong_Kong_1.jpg
+Hong Kong (2023-)	main	石澳 Shek O	assets/photos/Hong_Kong/Hong_Kong_2.jpg
+Hong Kong (2023-)	main	馬鞍山 Ma On Shan	assets/photos/Hong_Kong/Hong_Kong_3.jpg
+Hong Kong (2023-)	main	馬鞍珊 Ma On Shan	assets/photos/Hong_Kong/Hong_Kong_4.jpg
+Hong Kong (2023-)	main	綠蛋島 Green Egg Island	assets/photos/Hong_Kong/Hong_Kong_5.jpg
 Mainland China	Yunnan	Yunnan (2024)	assets/photos/Yunnan_2024/Yunnan_2024.jpg
 Mainland China	Yunnan	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains.jpg
 Mainland China	Yunnan	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains_3.jpg
