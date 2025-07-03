@@ -1,8 +1,8 @@
 ---
-title: Research Funding and Awards
+title:  
 ---
 
-## Fundings
+## Funds
 
 #### The origin and evolution of archaeal symbiosis in sponges
 
@@ -20,8 +20,9 @@ title: Research Funding and Awards
 
 ## Awards
 
+- Tuition Fee Scholarship, UNSW, 2015-2019, 147,000 AUD
+- Overseas Student Scholarship, China Scholarship Council, 2015-2019, 61,000 AUD
 - PhD Top-Up Scholarship, UNSW, 2018, 2,500 AUD
 - PhD Top-Up Scholarship, UNSW, 2017, 5,000 AUD
 - Conference travel funding, UNSW, 2018, 2,600 AUD
 - Conference travel funding, UNSW, 2017, 800 AUD
-- Tuition Fee Scholarship + Overseas student scholarship, UNSW+CSC, 2015-2019, 208,000 AUD
