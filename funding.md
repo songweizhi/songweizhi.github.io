@@ -5,7 +5,7 @@ title: Funds/Awards
 
 ## Funds
 
-+ **The origin and evolution of archaeal symbiosis in sponges**
+**The origin and evolution of archaeal symbiosis in sponges**
 
 - Scheme: Hong Kong Research Grants Council (RGC) - General Research Fund [(GRF)](https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/)
 - Role: Principal Investigator
@@ -13,7 +13,7 @@ title: Funds/Awards
 - Link: [more details](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925)
 
 
-+ Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy
+**Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
 
 - Scheme: Science ECAN Seed Grant scheme, The University of New South Wales (UNSW)
 - Role: Principal Investigator
