@@ -8,6 +8,8 @@ title: Publications
 - **Song W**, Zhang S, Thomas T, 2022, 'MarkerMAG: linking metagenome-assembled genomes (MAGs) with 16S rRNA marker genes using paired-end short reads', Bioinformatics, btac398. (IF: **6.931**)
 - **Song W**; Thomas T, 2017, 'Binning-refiner: Improving genome bins through the combination of different binning programs', Bioinformatics, vol. 33, pp. 1873 – 1875. (IF: **6.931**)
 - **Song W**; Zhang S; Majzoub ME; Egan S; Kjelleberg S; Thomas T, 2023, 'The impact of interspecific competition on the genomic evolution of Phaeobacter inhibens and Pseudoalteromonas tunicata during biofilm growth', Environmental Microbiology, 2023 Dec 7. (IF: **5.476**)
+- Zhang S; **Song W**; Marinos G; Waschina S; Zimmermann J; Kaleta C; Thomas, T, 2024, Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont. Nature Communications, 15(1), 10858. (IF: **14.7**)
+- Wang W; **Song W**; Majzoub M; Feng X; Xu B; Tao J; ... ; Fan L, 2024, Decoupling of strain-and intrastrain-level interactions of microbiomes in a sponge holobiont. Nature Communications, 15(1), 8205. (IF: **14.7**)
 
 ## Complete list:
 - Khan T, **Song W**, Nappi J, Marzinelli E, Egan S, Thomas T, 2023, 'Functional guilds and drivers of diversity in seaweed-associated bacteria', FEMS Microbes, Dec 14:xtad023. (IF: NA)

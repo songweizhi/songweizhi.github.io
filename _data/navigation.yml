@@ -1,6 +1,8 @@
 main:
   - title: Research
     url: research
+  - title: Funding
+    url: funding
   - title: Publications
     url: publications
   - title: Software
