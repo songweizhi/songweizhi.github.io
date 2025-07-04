@@ -35,13 +35,13 @@ title: Funds/Awards
 - **Conference Travel Funding**
    - UNSW
    - 2017, 800 AUD
-   - 2018, 2,600 AUD
+   - 2018, 2600 AUD
 
 
 - **PhD Top-Up Scholarship**
    - UNSW
-   - 2017, 5,000 AUD
-   - 2018, 2,500 AUD
+   - 2017, 5000 AUD
+   - 2018, 2500 AUD
 
 
 
