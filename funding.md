@@ -13,7 +13,7 @@ title: Funds/Awards
 
 
 2. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
-   - Science ECAN Seed Grant scheme, The University of New South Wales (UNSW)
+   - UNSW Science ECAN Seed Grant scheme
    - Principal Investigator
    - 2022 
 
