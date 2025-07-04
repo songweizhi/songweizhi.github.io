@@ -5,19 +5,17 @@ title: Funds/Awards
 
 ## Funds
 
-**The origin and evolution of archaeal symbiosis in sponges**
+1. **The origin and evolution of archaeal symbiosis in sponges**
+   - Hong Kong Research Grants Council (RGC) - General Research Fund (GRF)
+   - Principal Investigator
+   - 2026 - 
+   - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925)
 
-- Hong Kong Research Grants Council (RGC) - General Research Fund (GRF)
-- Principal Investigator
-- 2026 - 
-- [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925)
 
-
-**Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
-
-- Science ECAN Seed Grant scheme, The University of New South Wales (UNSW)
-- Principal Investigator
-- 2022 
+2. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
+   - Science ECAN Seed Grant scheme, The University of New South Wales (UNSW)
+   - Principal Investigator
+   - 2022 
 
 
 ## Awards
