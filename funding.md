@@ -17,6 +17,7 @@ title: Funds/Awards
    - 2026 - 
    - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925)
 
+
 ## Awards
 
 - **Tuition Fee Scholarship**
@@ -33,14 +34,14 @@ title: Funds/Awards
 
 - **Conference Travel Funding**
    - UNSW
-   - 2017, 800 AUD
-   - 2018, 2600 AUD
+   - 2017; 800 AUD
+   - 2018; 2600 AUD
 
 
 - **PhD Top-Up Scholarship**
    - UNSW
-   - 2017, 5000 AUD
-   - 2018, 2500 AUD
+   - 2017; 5000 AUD
+   - 2018; 2500 AUD
 
 
 
