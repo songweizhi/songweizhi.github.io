@@ -1,12 +1,12 @@
 main:
   - title: Research
     url: research
-  - title: Funding
-    url: funding
-  - title: Publications
-    url: publications
   - title: Software
     url: software
+  - title: Publications
+    url: publications
+  - title: Funds
+    url: funds
   - title: Teaching
     url: teaching
   - title: Photos
