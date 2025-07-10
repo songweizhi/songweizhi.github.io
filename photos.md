@@ -11,9 +11,9 @@ title: Photos
 
 ### Mainland China
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Xinjiang_2025/Xinjiang_2025"><img src="assets/photos/Xinjiang_2025/Xinjiang_2025.jpg" style="height: 120px;"></a><div><p>Xinjiang (2025)</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Yunnan_2024/Yunnan_2024"><img src="assets/photos/Yunnan_2024/Yunnan_2024.jpg" style="height: 120px;"></a><div><p>Yunnan (2024)</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Guangzhou_2023/IMG_5026"><img src="assets/photos/Guangzhou_2023/IMG_5026.jpg" style="height: 120px;"></a><div><p>Guangzhou (2023)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2025_Shaoguan/Shaoguan"><img src="assets/photos/2025_Shaoguan/Shaoguan.jpg" style="height: 120px;"></a><div><p>Shaoguan (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2024_Yunnan/Yunnan_2024"><img src="assets/photos/2024_Yunnan/Yunnan_2024.jpg" style="height: 120px;"></a><div><p>Yunnan (2024)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2023_Guangzhou/IMG_5026"><img src="assets/photos/2023_Guangzhou/IMG_5026.jpg" style="height: 120px;"></a><div><p>Guangzhou (2023)</p></div></div>
 </div>
 
 
@@ -36,9 +36,9 @@ title: Photos
 
 ### Italy, Germany and Czech (2018)
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Italy_2018/Rome"><img src="assets/photos/Italy_2018/Rome.jpg" style="height: 120px;"></a><div><p>Italy</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Frankfurt"><img src="assets/photos/Germany_Czech_2018/Frankfurt.jpg" style="height: 120px;"></a><div><p>Germany</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Germany_Czech_2018/Prague"><img src="assets/photos/Germany_Czech_2018/Prague.jpg" style="height: 120px;"></a><div><p>Czech</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2018_Italy/Rome"><img src="assets/photos/2018_Italy/Rome.jpg" style="height: 120px;"></a><div><p>Italy</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2018_Germany_Czech/Frankfurt"><img src="assets/photos/2018_Germany_Czech/Frankfurt.jpg" style="height: 120px;"></a><div><p>Germany</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2018_Germany_Czech/Prague"><img src="assets/photos/2018_Germany_Czech/Prague.jpg" style="height: 120px;"></a><div><p>Czech</p></div></div>
 </div>
 
 
@@ -47,10 +47,10 @@ title: Photos
 Best wishes to Taiwan. I also wish for every individual in the Greater China Area a peaceful and dignified life (January 13th, 2024).
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_1.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_1.jpg" style="height: 120px;"></a><div><p>台湾</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taipei.jpg"><img src="assets/photos/Taiwan_2017/Taipei.jpg" style="height: 120px;"></a><div><p>台北101</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_2.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_2.jpg" style="height: 120px;"></a><div><p>花莲</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Taiwan_2017/Taiwan_3.jpg"><img src="assets/photos/Taiwan_2017/Taiwan_3.jpg" style="height: 120px;"></a><div><p>九份</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2017_Taiwan/Taiwan_1.jpg"><img src="assets/photos/2017_Taiwan/Taiwan_1.jpg" style="height: 120px;"></a><div><p>台湾</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2017_Taiwan/Taipei.jpg"><img src="assets/photos/2017_Taiwan/Taipei.jpg" style="height: 120px;"></a><div><p>台北101</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2017_Taiwan/Taiwan_2.jpg"><img src="assets/photos/2017_Taiwan/Taiwan_2.jpg" style="height: 120px;"></a><div><p>花莲</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2017_Taiwan/Taiwan_3.jpg"><img src="assets/photos/2017_Taiwan/Taiwan_3.jpg" style="height: 120px;"></a><div><p>九份</p></div></div>
 </div>
 
 
