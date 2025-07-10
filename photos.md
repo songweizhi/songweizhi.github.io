@@ -12,6 +12,7 @@ title: Photos
 ### Mainland China
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2025_Shaoguan/Shaoguan"><img src="assets/photos/2025_Shaoguan/Shaoguan.jpg" style="height: 120px;"></a><div><p>Shaoguan (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2025_Xinjiang/Xinjiang_2025"><img src="assets/photos/2025_Xinjiang/Xinjiang_2025.jpg" style="height: 120px;"></a><div><p>Xinjiang (2025)</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2024_Yunnan/Yunnan_2024"><img src="assets/photos/2024_Yunnan/Yunnan_2024.jpg" style="height: 120px;"></a><div><p>Yunnan (2024)</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2023_Guangzhou/IMG_5026"><img src="assets/photos/2023_Guangzhou/IMG_5026.jpg" style="height: 120px;"></a><div><p>Guangzhou (2023)</p></div></div>
 </div>
