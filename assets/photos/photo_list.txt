@@ -6,17 +6,17 @@ Hong Kong (2023-)	Hong Kong	馬鞍山 Ma On Shan	assets/photos/Hong_Kong/Hong_Ko
 Hong Kong (2023-)	Hong Kong	馬鞍珊 Ma On Shan	assets/photos/Hong_Kong/Hong_Kong_4.jpg
 Hong Kong (2023-)	Hong Kong	綠蛋島 Green Egg Island	assets/photos/Hong_Kong/Hong_Kong_5.jpg
 Mainland China	Shaoguan	Shaoguan (2025)	assets/photos/2025_Shaoguan/Shaoguan.jpg
-Mainland China	Shaoguan	韶关 (2025)	assets/photos/2025_Shaoguan/韶关.jpg
-Mainland China	Shaoguan	广东大峡谷 (2025)	assets/photos/2025_Shaoguan/广东大峡谷1.jpg
-Mainland China	Shaoguan	广东大峡谷 (2025)	assets/photos/2025_Shaoguan/广东大峡谷2.jpg
-Mainland China	Shaoguan	广东大峡谷 (2025)	assets/photos/2025_Shaoguan/广东大峡谷3.jpg
+Mainland China	Shaoguan	韶关	assets/photos/2025_Shaoguan/韶关.jpg
+Mainland China	Shaoguan	广东大峡谷	assets/photos/2025_Shaoguan/广东大峡谷1.jpg
+Mainland China	Shaoguan	广东大峡谷	assets/photos/2025_Shaoguan/广东大峡谷2.jpg
+Mainland China	Shaoguan	广东大峡谷	assets/photos/2025_Shaoguan/广东大峡谷3.jpg
 Mainland China	Xinjiang	Xinjiang (2025)	assets/photos/2025_Xinjiang/Xinjiang_2025.jpg
-Mainland China	Xinjiang	八卦城 特克斯 (2025)	assets/photos/2025_Xinjiang/八卦城_特克斯.jpg
-Mainland China	Xinjiang	天山天池 (2025)	assets/photos/2025_Xinjiang/天池.jpg
-Mainland China	Xinjiang	Road View (2025)	assets/photos/2025_Xinjiang/Road_View.jpg
-Mainland China	Xinjiang	New Skill Unlocked (2025)	assets/photos/2025_Xinjiang/new_skill_unlocked.jpg
-Mainland China	Xinjiang	板凳 1 (2025)	assets/photos/2025_Xinjiang/板凳1.jpg
-Mainland China	Xinjiang	板凳 2 (2025)	assets/photos/2025_Xinjiang/板凳2.jpg
+Mainland China	Xinjiang	八卦城 特克斯	assets/photos/2025_Xinjiang/八卦城_特克斯.jpg
+Mainland China	Xinjiang	天山天池	assets/photos/2025_Xinjiang/天池.jpg
+Mainland China	Xinjiang	Road View	assets/photos/2025_Xinjiang/Road_View.jpg
+Mainland China	Xinjiang	New Skill Unlocked	assets/photos/2025_Xinjiang/new_skill_unlocked.jpg
+Mainland China	Xinjiang	板凳 1	assets/photos/2025_Xinjiang/板凳1.jpg
+Mainland China	Xinjiang	板凳 2	assets/photos/2025_Xinjiang/板凳2.jpg
 Mainland China	Yunnan	Yunnan (2024)	assets/photos/2024_Yunnan/Yunnan_2024.jpg
 Mainland China	Yunnan	梅里雪山	assets/photos/2024_Yunnan/Meili_snow_mountains.jpg
 Mainland China	Yunnan	梅里雪山	assets/photos/2024_Yunnan/Meili_snow_mountains_3.jpg
