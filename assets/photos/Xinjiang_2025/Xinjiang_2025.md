@@ -4,16 +4,13 @@ title: Xinjiang (2025)
 
 
 <div id="banner">
-	<div class="inline-block" style="display:inline-block;"><a href="Yunnan_2024.jpg"><img src="Yunnan_2024.jpg" style="height: 180px;"></a><div><p>Yunnan (2024)</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Meili_snow_mountains.jpg"><img src="Meili_snow_mountains.jpg" style="height: 180px;"></a><div><p>梅里雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Meili_snow_mountains_3.jpg"><img src="Meili_snow_mountains_3.jpg" style="height: 180px;"></a><div><p>梅里雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Meili_snow_mountains_4.jpg"><img src="Meili_snow_mountains_4.jpg" style="height: 180px;"></a><div><p>梅里雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Yulong_snow_mountain_2.jpg"><img src="Yulong_snow_mountain_2.jpg" style="height: 180px;"></a><div><p>玉龙雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Yulong_snow_mountain.jpg"><img src="Yulong_snow_mountain.jpg" style="height: 180px;"></a><div><p>玉龙雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Yulong_snow_mountain_3.jpg"><img src="Yulong_snow_mountain_3.jpg" style="height: 180px;"></a><div><p>玉龙雪山</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Pudacuo_Natioal_Park_1.jpg"><img src="Pudacuo_Natioal_Park_1.jpg" style="height: 180px;"></a><div><p>普拉错国家公园</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Erhai_Shan.jpg"><img src="Erhai_Shan.jpg" style="height: 180px;"></a><div><p>洱海</p></div></div>
-	<div class="inline-block" style="display:inline-block;"><a href="Erhai_Weizhi.jpg"><img src="Erhai_Weizhi.jpg" style="height: 180px;"></a><div><p>洱海</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Xinjiang_2025.jpg"><img src="Xinjiang_2025.jpg" style="height: 180px;"></a><div><p>Xinjiang (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="天池.jpg"><img src="天池.jpg" style="height: 180px;"></a><div><p>天山天池 (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="八卦城_特克斯.jpg"><img src="八卦城_特克斯.jpg" style="height: 180px;"></a><div><p>八卦城 特克斯 (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="Road_View.jpg"><img src="Road_View.jpg" style="height: 180px;"></a><div><p>Road View (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="new_skill_unlocked.jpg"><img src="new_skill_unlocked.jpg" style="height: 180px;"></a><div><p>New Skill Unlocked (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="板凳1.jpg"><img src="板凳1.jpg" style="height: 180px;"></a><div><p>板凳 1 (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="板凳2.jpg"><img src="板凳2.jpg" style="height: 180px;"></a><div><p>板凳 2 (2025)</p></div></div>
 </div>
 
 
