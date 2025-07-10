@@ -5,28 +5,29 @@ Hong Kong (2023-)	Hong Kong	石澳 Shek O	assets/photos/Hong_Kong/Hong_Kong_2.jp
 Hong Kong (2023-)	Hong Kong	馬鞍山 Ma On Shan	assets/photos/Hong_Kong/Hong_Kong_3.jpg
 Hong Kong (2023-)	Hong Kong	馬鞍珊 Ma On Shan	assets/photos/Hong_Kong/Hong_Kong_4.jpg
 Hong Kong (2023-)	Hong Kong	綠蛋島 Green Egg Island	assets/photos/Hong_Kong/Hong_Kong_5.jpg
-Mainland China	Xinjiang	Xinjiang (2025)	assets/photos/Xinjiang_2025/Xinjiang_2025.jpg
-Mainland China	Xinjiang	天山天池 (2025)	assets/photos/Xinjiang_2025/天池.jpg
-Mainland China	Xinjiang	八卦城 特克斯 (2025)	assets/photos/Xinjiang_2025/八卦城_特克斯.jpg
-Mainland China	Xinjiang	Road View (2025)	assets/photos/Xinjiang_2025/Road_View.jpg
-Mainland China	Xinjiang	New Skill Unlocked (2025)	assets/photos/Xinjiang_2025/new_skill_unlocked.jpg
-Mainland China	Xinjiang	板凳 1 (2025)	assets/photos/Xinjiang_2025/板凳1.jpg
-Mainland China	Xinjiang	板凳 2 (2025)	assets/photos/Xinjiang_2025/板凳2.jpg
-Mainland China	Yunnan	Yunnan (2024)	assets/photos/Yunnan_2024/Yunnan_2024.jpg
-Mainland China	Yunnan	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains.jpg
-Mainland China	Yunnan	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains_3.jpg
-Mainland China	Yunnan	梅里雪山	assets/photos/Yunnan_2024/Meili_snow_mountains_4.jpg
-Mainland China	Yunnan	玉龙雪山	assets/photos/Yunnan_2024/Yulong_snow_mountain_2.jpg
-Mainland China	Yunnan	玉龙雪山	assets/photos/Yunnan_2024/Yulong_snow_mountain.jpg
-Mainland China	Yunnan	玉龙雪山	assets/photos/Yunnan_2024/Yulong_snow_mountain_3.jpg
-Mainland China	Yunnan	普拉错国家公园	assets/photos/Yunnan_2024/Pudacuo_Natioal_Park_1.jpg
-Mainland China	Yunnan	洱海	assets/photos/Yunnan_2024/Erhai_Shan.jpg
-Mainland China	Yunnan	洱海	assets/photos/Yunnan_2024/Erhai_Weizhi.jpg
-Mainland China	Guangzhou (2023)	Guangzhou (2023)	assets/photos/Guangzhou_2023/IMG_5026.jpg
-Mainland China	Guangzhou (2023)	石门公园	assets/photos/Guangzhou_2023/IMG_5027.jpg
-Mainland China	Guangzhou (2023)	石门公园	assets/photos/Guangzhou_2023/IMG_5028.jpg
-Mainland China	Guangzhou (2023)	石门公园	assets/photos/Guangzhou_2023/IMG_5029.jpg
-Mainland China	Guangzhou (2023)	石门公园	assets/photos/Guangzhou_2023/IMG_5031.jpg
+Mainland China	Xinjiang	Shaoguan (2025)	assets/photos/2025_Shaoguan/Shaoguan.jpg
+Mainland China	Xinjiang	Xinjiang (2025)	assets/photos/2025_Xinjiang/Xinjiang_2025.jpg
+Mainland China	Xinjiang	八卦城 特克斯 (2025)	assets/photos/2025_Xinjiang/八卦城_特克斯.jpg
+Mainland China	Xinjiang	天山天池 (2025)	assets/photos/2025_Xinjiang/天池.jpg
+Mainland China	Xinjiang	Road View (2025)	assets/photos/2025_Xinjiang/Road_View.jpg
+Mainland China	Xinjiang	New Skill Unlocked (2025)	assets/photos/2025_Xinjiang/new_skill_unlocked.jpg
+Mainland China	Xinjiang	板凳 1 (2025)	assets/photos/2025_Xinjiang/板凳1.jpg
+Mainland China	Xinjiang	板凳 2 (2025)	assets/photos/2025_Xinjiang/板凳2.jpg
+Mainland China	Yunnan	Yunnan (2024)	assets/photos/2024_Yunnan/Yunnan_2024.jpg
+Mainland China	Yunnan	梅里雪山	assets/photos/2024_Yunnan/Meili_snow_mountains.jpg
+Mainland China	Yunnan	梅里雪山	assets/photos/2024_Yunnan/Meili_snow_mountains_3.jpg
+Mainland China	Yunnan	梅里雪山	assets/photos/2024_Yunnan/Meili_snow_mountains_4.jpg
+Mainland China	Yunnan	玉龙雪山	assets/photos/2024_Yunnan/Yulong_snow_mountain_2.jpg
+Mainland China	Yunnan	玉龙雪山	assets/photos/2024_Yunnan/Yulong_snow_mountain.jpg
+Mainland China	Yunnan	玉龙雪山	assets/photos/2024_Yunnan/Yulong_snow_mountain_3.jpg
+Mainland China	Yunnan	普拉错国家公园	assets/photos/2024_Yunnan/Pudacuo_Natioal_Park_1.jpg
+Mainland China	Yunnan	洱海	assets/photos/2024_Yunnan/Erhai_Shan.jpg
+Mainland China	Yunnan	洱海	assets/photos/2024_Yunnan/Erhai_Weizhi.jpg
+Mainland China	Guangzhou (2023)	Guangzhou (2023)	assets/photos/2023_Guangzhou/IMG_5026.jpg
+Mainland China	Guangzhou (2023)	石门公园	assets/photos/2023_Guangzhou/IMG_5027.jpg
+Mainland China	Guangzhou (2023)	石门公园	assets/photos/2023_Guangzhou/IMG_5028.jpg
+Mainland China	Guangzhou (2023)	石门公园	assets/photos/2023_Guangzhou/IMG_5029.jpg
+Mainland China	Guangzhou (2023)	石门公园	assets/photos/2023_Guangzhou/IMG_5031.jpg
 Australia (2015-2023)	main	Opera House	assets/photos/Australia/Opera_House.jpg
 Australia (2015-2023)	main	Coogee Beach, NSW	assets/photos/Australia/Coogee_Beach.jpg
 Australia (2015-2023)	main	Palm Beach, NSW	assets/photos/Australia/Palm_Beach.jpg
@@ -98,20 +99,20 @@ Australia (2015-2023)	road_trip_2023_2	Penguin, TAS	assets/photos/Australia/Peng
 Australia (2015-2023)	road_trip_2023_2	Fossil Bluff Conservation Area, TAS	assets/photos/Australia/Fossil_Bluff_Conservation_Area_1.jpg
 Australia (2015-2023)	road_trip_2023_2	Fossil Bluff Conservation Area, TAS	assets/photos/Australia/Fossil_Bluff_Conservation_Area_2.jpg
 Australia (2015-2023)	road_trip_2023_2	Eaglehawk Neck, TAS	assets/photos/Australia/Eaglehawk_Neck.jpg
-Italy, Germany and Czech (2018)	Italy	Italy	assets/photos/Italy_2018/Rome.jpg
-Italy, Germany and Czech (2018)	Italy	Milan	assets/photos/Italy_2018/Milan.jpg
-Italy, Germany and Czech (2018)	Italy	Pisa	assets/photos/Italy_2018/Pisa.jpg
-Italy, Germany and Czech (2018)	Italy	Florence	assets/photos/Italy_2018/Florence.jpg
-Italy, Germany and Czech (2018)	Italy	Venice	assets/photos/Italy_2018/Venice.jpg
-Italy, Germany and Czech (2018)	Italy	Venice	assets/photos/Italy_2018/Venice_2.jpg
-Italy, Germany and Czech (2018)	Italy	Pompeii	assets/photos/Italy_2018/Pompeii_1.jpg
-Italy, Germany and Czech (2018)	Italy	Pompeii	assets/photos/Italy_2018/Pompeii_2.jpg
-Italy, Germany and Czech (2018)	Germany	Germany	assets/photos/Germany_Czech_2018/Frankfurt.jpg
-Italy, Germany and Czech (2018)	Germany	Leipzig	assets/photos/Germany_Czech_2018/Leipzig_1.jpg
-Italy, Germany and Czech (2018)	Germany	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_2.jpg
-Italy, Germany and Czech (2018)	Germany	Leipzig	assets/photos/Germany_Czech_2018/ISME2018_3.jpg
-Italy, Germany and Czech (2018)	Czech	Czech	assets/photos/Germany_Czech_2018/Prague.jpg
-Taiwan (2017)	main	台湾	assets/photos/Taiwan_2017/Taiwan_1.jpg
-Taiwan (2017)	main	台北101	assets/photos/Taiwan_2017/Taipei.jpg
-Taiwan (2017)	main	花莲	assets/photos/Taiwan_2017/Taiwan_2.jpg
-Taiwan (2017)	main	九份	assets/photos/Taiwan_2017/Taiwan_3.jpg
+Italy, Germany and Czech (2018)	Italy	Italy	assets/photos/2018_Italy/Rome.jpg
+Italy, Germany and Czech (2018)	Italy	Milan	assets/photos/2018_Italy/Milan.jpg
+Italy, Germany and Czech (2018)	Italy	Pisa	assets/photos/2018_Italy/Pisa.jpg
+Italy, Germany and Czech (2018)	Italy	Florence	assets/photos/2018_Italy/Florence.jpg
+Italy, Germany and Czech (2018)	Italy	Venice	assets/photos/2018_Italy/Venice.jpg
+Italy, Germany and Czech (2018)	Italy	Venice	assets/photos/2018_Italy/Venice_2.jpg
+Italy, Germany and Czech (2018)	Italy	Pompeii	assets/photos/2018_Italy/Pompeii_1.jpg
+Italy, Germany and Czech (2018)	Italy	Pompeii	assets/photos/2018_Italy/Pompeii_2.jpg
+Italy, Germany and Czech (2018)	Germany	Germany	assets/photos/2018_Germany_Czech/Frankfurt.jpg
+Italy, Germany and Czech (2018)	Germany	Leipzig	assets/photos/2018_Germany_Czech/Leipzig_1.jpg
+Italy, Germany and Czech (2018)	Germany	Leipzig	assets/photos/2018_Germany_Czech/ISME2018_2.jpg
+Italy, Germany and Czech (2018)	Germany	Leipzig	assets/photos/2018_Germany_Czech/ISME2018_3.jpg
+Italy, Germany and Czech (2018)	Czech	Czech	assets/photos/2018_Germany_Czech/Prague.jpg
+Taiwan (2017)	main	台湾	assets/photos/2017_Taiwan/Taiwan_1.jpg
+Taiwan (2017)	main	台北101	assets/photos/2017_Taiwan/Taipei.jpg
+Taiwan (2017)	main	花莲	assets/photos/2017_Taiwan/Taiwan_2.jpg
+Taiwan (2017)	main	九份	assets/photos/2017_Taiwan/Taiwan_3.jpg
