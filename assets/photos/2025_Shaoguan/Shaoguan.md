@@ -5,6 +5,10 @@ title: Shaoguan (2025)
 
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="Shaoguan.jpg"><img src="Shaoguan.jpg" style="height: 180px;"></a><div><p>Shaoguan (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="韶关.jpg"><img src="韶关.jpg" style="height: 180px;"></a><div><p>韶关 (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="广东大峡谷1.jpg"><img src="广东大峡谷1.jpg" style="height: 180px;"></a><div><p>广东大峡谷 (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="广东大峡谷2.jpg"><img src="广东大峡谷2.jpg" style="height: 180px;"></a><div><p>广东大峡谷 (2025)</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="广东大峡谷3.jpg"><img src="广东大峡谷3.jpg" style="height: 180px;"></a><div><p>广东大峡谷 (2025)</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="Xinjiang_2025.jpg"><img src="Xinjiang_2025.jpg" style="height: 180px;"></a><div><p>Xinjiang (2025)</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="八卦城_特克斯.jpg"><img src="八卦城_特克斯.jpg" style="height: 180px;"></a><div><p>八卦城 特克斯 (2025)</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="天池.jpg"><img src="天池.jpg" style="height: 180px;"></a><div><p>天山天池 (2025)</p></div></div>
