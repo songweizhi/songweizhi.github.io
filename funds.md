@@ -1,7 +1,3 @@
----
-title: Funds/Awards
----
-
 
 ## Funds
 
@@ -12,7 +8,7 @@ title: Funds/Awards
 
 
 2. **The origin and evolution of archaeal symbiosis in sponges**
-   - Hong Kong Research Grants Council (RGC) - General Research Fund (GRF)
+   - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
    - Principal Investigator
    - 2026 - 
    - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925)
