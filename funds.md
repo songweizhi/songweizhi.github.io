@@ -23,25 +23,25 @@ title: Funds/Awards
 - **Tuition Fee Scholarship**
    - UNSW
    - 2015 - 2019
-   - 147,000 AUD
+   - AUD 147,000
 
 
 - **Overseas Student Scholarship**
    - China Scholarship Council
    - 2015 - 2019
-   - 61,000 AUD
+   - AUD 61,000
 
 
 - **Conference Travel Funding**
    - UNSW
-   - 2017; 800 AUD
-   - 2018; 2600 AUD
+   - 2017, AUD 800
+   - 2018, AUD 2,600
 
 
 - **PhD Top-Up Scholarship**
    - UNSW
-   - 2017; 5000 AUD
-   - 2018; 2500 AUD
+   - 2017, AUD 5,000
+   - 2018, AUD 2,500
 
 
 
