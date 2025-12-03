@@ -1,17 +1,17 @@
 Funds
 ---
 
-1. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
-   - UNSW Science ECAN Seed Grant scheme
-   - Principal Investigator
-   - 2022 
-
-
-2. **The origin and evolution of archaeal symbiosis in sponges**
+1. **The origin and evolution of archaeal symbiosis in sponges**
    - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
    - Principal Investigator
    - 2026 - 
    - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925)
+
+
+1. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
+   - UNSW Science ECAN Seed Grant scheme
+   - Principal Investigator
+   - 2022 
 
 
 Awards

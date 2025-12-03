@@ -56,3 +56,7 @@ Best wishes to Taiwan. I also wish for every individual in the Greater China Are
 
 
 <i class="flag-icons fi-ua"></i>
+
+<span class="flag-icons fi-ua"></span>
+
+<i class="flag-icons fi-ua flag-icon-squared"></i>
