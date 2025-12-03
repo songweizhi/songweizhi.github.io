@@ -1,18 +1,6 @@
 Funds
 ---
 
-1. **Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals**
-   - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
-   - Principal Investigator
-   - **Under review**
-
-
-1. **Development of a Specimen Library and Database for Hong Kong Sponges and Their Associated Microbial Symbionts**
-   - Research and Development Projects - Environment and Conservation Fund (ECF)
-   - Principal Investigator
-   - **Under review**
-
-
 1. **The origin and evolution of archaeal symbiosis in sponges**
    - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
    - Principal Investigator
@@ -24,6 +12,21 @@ Funds
    - UNSW Science ECAN Seed Grant scheme
    - Principal Investigator
    - 2022 
+
+
+Funds under review
+---
+
+1. **Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals**
+   - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
+   - Principal Investigator
+   - **Under review**
+
+
+1. **Development of a Specimen Library and Database for Hong Kong Sponges and Their Associated Microbial Symbionts**
+   - Research and Development Projects - Environment and Conservation Fund (ECF)
+   - Principal Investigator
+   - **Under review**
 
 
 Awards
