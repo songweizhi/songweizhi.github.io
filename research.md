@@ -3,7 +3,7 @@ title: Research Activities
 ---
 
 
-## The origin and evolution of symbiosis between archaea and (possibly) the most primitive animals
+## The origin and evolution of symbiosis between archaea and (possibly) the most primitive animals ((a GRF funded project))
 Marine sponges (phylum Porifera) have existed for more than 500 million years, making them one of the most primitive extant animals. 
 Many sponges host dense and diverse microorganisms and form stable and highly specific relationships with them. 
 Sponges’ unique phylogenetic position makes them ideal models for the study of animal-microbe symbiosis that could reveal a wide variety of symbiotic strategies and the core features of all extant symbiosis. Marine sponges are frequently reported to be associated with ammonia-oxidizing archaea and archaeal communities in deep-sea sponges have been found to be orders of magnitude higher than in shallow-water sponges. 
@@ -53,17 +53,31 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 
 **Figure 5** Domain level community structure of the microbiomes across coral, seawater and sediment samples. ASVs with a relative read abundance of <0.1% were excluded.
 
+- **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P. 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', microbiology spectrum, 2025 December (10.1128/spectrum.02093-25) ([pdf](assets/pdf/Spectrum02093-25.pdf))
+
 
 ## Bioinformatics and Metagenomics
 
 High-throughput sequencing provides a powerful way to study the ‘unexplored’ and uncultured diversity of microbial communities. My research involves the development of new computational algorithms and pipelines 1) for the processing of sequencing data from new sequencing strategy, including PacBio long read sequencing ([**Song** et al., 2019](https://doi.org/10.1016/j.margen.2019.05.002)) and the recently released Nanopore’s adaptive sampling technology; 2) to improve the quality of metagenome-assembled genomes ([**Song** and Thomas, 2017](https://doi.org/10.1093/bioinformatics/btx086); 3) to link MAGs with their often-missing 16S rRNA gene sequences that are commonly used in phylogenetic analysis and environmental surveys ([**Song** et al., 2022](https://doi.org/10.1093/bioinformatics/btac398)).
+
+- **Song W**, Zhang S, Thomas T, 2022, 'MarkerMAG: linking metagenome-assembled genomes (MAGs) with 16S rRNA marker genes using paired-end short reads', Bioinformatics, btac398. (IF: **6.931**)
+- **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
+- **Song W**; Thomas T, 2017, 'Binning-refiner: Improving genome bins through the combination of different binning programs', Bioinformatics, vol. 33, pp. 1873 – 1875. (IF: **6.931**)
+- **Song W**; Steensen K; Thomas T, 2017, 'HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities', PeerJ, vol. 2017. (IF: 3.061)
 
 
 ## Evolution and metabolic interaction of bacteria-sponge symbiosis 
 
 Complex multicellular organisms often host complex communities of microbial symbionts, which are essential for their health and function. Marine sponges are the oldest extant metazoan that sister to all other animals, making them unique models for the study of animal-microbe interactions that could be core features of all extant forms of symbioses. Importantly, many sponges harbour dense and diverse microorganisms that often form stable and specific associations ([Zhang, **Song** et al., 2019](https://doi.org/10.1128/msystems.00288-19)), making them emerging models in the study of metazoan-microbe symbiosis that could reveal a wide spectrum of symbiotic strategies ([Zhang, **Song** et al., 2022](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01220-9)). In addition, knowledge of sponge symbiosis will help to better understand the symbiosis of all animals that have critical ecosystem roles in all marine benthic habitats, including coral, mussels and the deep-sea tubeworms.
 
+- Zhang S; **Song W**; Marinos G; Waschina S; Zimmermann J; Kaleta C; Thomas, T, 2024, Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont. Nature Communications, 15(1), 10858. (IF: **14.7**)
+- Wang W; **Song W**; Majzoub M; Feng X; Xu B; Tao J; ... ; Fan L, 2024, Decoupling of strain-and intrastrain-level interactions of microbiomes in a sponge holobiont. Nature Communications, 15(1), 8205. (IF: **14.7**)
+
 
 ## Horizontal gene transfer (HGT) and microbial evolution/adaptation
 
 HGT is considered an important driver of microbial evolution and niche adaptation. My research involves the identification of HGTs (Song et al., 2019, Microbiome) in microorganisms from the natural environments, as well as assessment of the role of HGT in the adaptation of microorganisms to different hosts, including marine sponges ([Robbins, **Song** et al., 2021](https://www.nature.com/articles/s41396-020-00876-9)), macroalgae and human. For example, we found that HGTs in the macroalgal biofilms were frequently involved in genes for nutrient transport and degradation, as well as stress responses, which are considered beneficial for bacteria living in this host-associated niche ([**Song** et al., 2021](https://www.nature.com/articles/s41396-020-00815-8)). 
+
+- **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
+- **Song W**; Wemheuer B; Steinberg PD; Marzinelli EM; Thomas T, 2021, 'Contribution of horizontal gene transfer to the functionality of microbial biofilm on a macroalgae', ISME Journal, vol. 15, pp. 807 – 817. (IF: **13.214**)
+- Robbins SJ; **Song W**; Engelberts JP; Glasl B; Slaby BM; Boyd J; Marangon E; Botté ES; Laffy P; Thomas T; Webster NS, 2021, 'A genomic view of the microbiome of coral reef demosponges', ISME Journal, vol. 15, pp. 1641 – 1654. (IF: **13.214**)
