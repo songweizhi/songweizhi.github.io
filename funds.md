@@ -19,7 +19,7 @@ Funds under review
    - Principal Investigator
 
 1. **Development of a Specimen Library and Database for Hong Kong Sponges and Their Associated Microbial Symbionts**
-   - Research and Development Projects - Environment and Conservation Fund (ECF)
+   - Research and Development Project - Environment and Conservation Fund (ECF)
    - Principal Investigator
 
 
