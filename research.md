@@ -19,6 +19,7 @@ Our research will offer comprehensive insights into the origin and evolution of 
 
 ![logo](assets/images/research/deepsea_sponges.jpg)
 
+
 - Related work
 1. Zhang S; **Song W**; Wemheuer B; Reveillaud J; Webster N; Thomas T, 2019, 'Comparative genomics reveals ecological and evolutionary insights into sponge associated Thaumarchaeota', mSystems, vol. 4. (IF: 7.324)
 1. Zhang S; **Song W**; Marinos G; Waschina S; Zimmermann J; Kaleta C; Thomas, T, 2024, Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont. Nature Communications, 15(1), 10858. (IF: **14.7**)
@@ -57,6 +58,7 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 
 **Figure 4** Domain level community structure of the microbiomes across coral, seawater and sediment samples (A). NMDS plot showing the similarity of microbial communities among coral families (A) and genera (B). 
 
+
 - Related work
 1. **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P. 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', microbiology spectrum, 2025 December (10.1128/spectrum.02093-25) ([pdf](assets/pdf/Spectrum02093-25.pdf))
 
@@ -64,6 +66,7 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 ## Bioinformatics and Metagenomics
 
 High-throughput sequencing provides a powerful way to study the ‘unexplored’ and uncultured diversity of microbial communities. My research involves the development of new computational algorithms and pipelines 1) for the processing of sequencing data from new sequencing strategy, including PacBio long read sequencing ([**Song** et al., 2019](https://doi.org/10.1016/j.margen.2019.05.002)) and the recently released Nanopore’s adaptive sampling technology; 2) to improve the quality of metagenome-assembled genomes ([**Song** and Thomas, 2017](https://doi.org/10.1093/bioinformatics/btx086); 3) to link MAGs with their often-missing 16S rRNA gene sequences that are commonly used in phylogenetic analysis and environmental surveys ([**Song** et al., 2022](https://doi.org/10.1093/bioinformatics/btac398)).
+
 
 - Related work
 1. **Song W**, Zhang S, Thomas T, 2022, 'MarkerMAG: linking metagenome-assembled genomes (MAGs) with 16S rRNA marker genes using paired-end short reads', Bioinformatics, btac398. (IF: **6.931**)
@@ -75,6 +78,7 @@ High-throughput sequencing provides a powerful way to study the ‘unexplored’
 ## Horizontal gene transfer (HGT) and microbial evolution/adaptation
 
 HGT is considered an important driver of microbial evolution and niche adaptation. My research involves the identification of HGTs (Song et al., 2019, Microbiome) in microorganisms from the natural environments, as well as assessment of the role of HGT in the adaptation of microorganisms to different hosts, including marine sponges ([Robbins, **Song** et al., 2021](https://www.nature.com/articles/s41396-020-00876-9)), macroalgae and human. For example, we found that HGTs in the macroalgal biofilms were frequently involved in genes for nutrient transport and degradation, as well as stress responses, which are considered beneficial for bacteria living in this host-associated niche ([**Song** et al., 2021](https://www.nature.com/articles/s41396-020-00815-8)). 
+
 
 - Related work
 1. **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
