@@ -22,4 +22,3 @@ title: Teaching
 + [Tree visualization with iTOL](https://github.com/songweizhi/BioSAK/tree/master/BioSAK_tutorial/Demo_tree_visualization_with_iTol)
 + [Functional annotation](https://github.com/songweizhi/BioSAK/tree/master/BioSAK_tutorial/Demo_functional_annotation)
 + [Tax4Fun2](https://github.com/songweizhi/Tax4Fun2_short_tutorial)
-+ 
