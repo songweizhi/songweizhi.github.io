@@ -5,7 +5,7 @@ title: Teaching
 
 ## Supervision
 + Tom Kwok Lun HUI (PhD student, co-supervised with Prof. Charmaine YUNG)
-+ Jiayu Yang (Master student, co-supervised with Prof. Peiyuan Qian)
++ Jiayu Yang (Master student, co-supervised with Prof. Peiyuan QIAN)
 
 
 ## Tutorials
