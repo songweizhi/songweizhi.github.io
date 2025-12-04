@@ -66,7 +66,7 @@ on the right are Hong Kong sponges (some may need further confirmation) we obser
 (**all sponge photos presented here are not yet published. If you wish to use any of the photos, please contact ocessongwz@ust.hk for approval**)
 
 
-DIRECTION FOUR: Bioinformatics and Software Development
+DIRECTION FOUR: [Bioinformatics and Software Development](https://songweizhi.github.io/software)
 ---
 
 High-throughput sequencing provides a powerful way to study the ‘unexplored’ and uncultured diversity of microbial communities. My research involves the development of new computational algorithms and pipelines 1) for the processing of sequencing data from new sequencing strategy, including PacBio long read sequencing ([**Song** et al., 2019](https://doi.org/10.1016/j.margen.2019.05.002)) and the recently released Nanopore’s adaptive sampling technology; 2) to improve the quality of metagenome-assembled genomes ([**Song** and Thomas, 2017](https://doi.org/10.1093/bioinformatics/btx086)); 3) to link MAGs with their often-missing 16S rRNA gene sequences that are commonly used in phylogenetic analysis and environmental surveys ([**Song** et al., 2022](https://doi.org/10.1093/bioinformatics/btac398)).
