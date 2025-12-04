@@ -32,7 +32,7 @@ Here is a single-page website to illustrate the diversity, distribution of some 
 
 **Figure 2** On the left is the distribution of the 463 reported Porifera observations on iNaturalist across Hong Kong waters (accessed on December 3rd, 2025). 
 on the right are Hong Kong sponges (some may need further confirmation) we observed during several dives near Basalt Island (A, B and C), Bluff Island (D and E), Breakers Reef (F, G and H), Hoi Ha Wan (I and J), Ninepin Island (K), Tai Long Wan (L) and Wong Ngai Chau (M and N).
-(**All photos/samples presented on this website have not yet been published. If you wish to use any of the photos presented here, please contact ocessongwz@ust.hk for approval**)
+(**all sponge photos presented here are not yet published. If you wish to use any of the photos, please contact ocessongwz@ust.hk for approval**)
 
 
 ## Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a GRF proposal, under review)
