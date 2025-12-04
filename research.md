@@ -3,7 +3,7 @@ title: Research Activities
 ---
 
 
-## The origin and evolution of symbiosis between archaea and (possibly) the most primitive animals (a GRF funded project)
+## The origin and evolution of symbiosis between archaea and one of the most primitive animals (a GRF funded project)
 Marine sponges (phylum Porifera) have existed for more than 500 million years, making them one of the most primitive extant animals. 
 Many sponges host dense and diverse microorganisms and form stable and highly specific relationships with them ([Zhang, **Song** et al., 2024](https://doi.org/10.1038/s41467-024-55222-w) and [Wang, **Song** et al., 2024](https://doi.org/10.1038/s41467-024-52464-6)). 
 Sponges’ unique phylogenetic position makes them ideal models for the study of animal-microbe symbiosis that could reveal a wide variety of symbiotic strategies and the core features of all extant symbiosis. 
