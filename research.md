@@ -3,7 +3,7 @@ title: Research Activities
 ---
 
 
-DIRECTION ONE: The origin and evolution of symbiosis between archaea and one of the most primitive animals ([a GRF funded project](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925))
+DIRECTION ONE: The origin and evolution of symbiosis between archaea and one of the most primitive animals ([a RGC funded GRF project](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925))
 ---
 
 Marine sponges (phylum Porifera) have existed for more than 500 million years, making them one of the most primitive extant animals. 
