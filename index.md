@@ -19,7 +19,7 @@ excerpt: Bioinformatics, Phylogenomics, Microbial Ecology, Animal-Microbe Symbio
 
 ### About me
 
-My name is Weizhi SONG (pronounced as “whizz~”), I hold a Master degree on Marine Microbiology and a PhD degree on Microbiology and Immunology (University of New South Wales (**UNSW**), Sydney, Australia). 
+My name is Weizhi SONG (pronounced as “whizz~”), I hold a Master degree on Marine Microbiology and a PhD degree on Microbiology and Immunology (University of New South Wales (**UNSW**), Australia). 
 After my graduation, I continued my research as a Postdoctoral Fellow at **UNSW** (2019-2023) and received a Seed Grant for Early Career Researchers from the university.
 Later in 2023, I joined The Hong Kong University of Science and Technology (**HKUST**) as a Research Assistant Professor to continue my research on Bioinformatics and animal-microbe symbioses.
 
