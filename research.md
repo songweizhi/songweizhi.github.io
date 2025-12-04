@@ -23,7 +23,7 @@ Our research will offer comprehensive insights into the origin and evolution of 
 
 **Figure 1** Representative sponge samples collected from Seamounts in the Northwestern Paciﬁc Ocean. A) Euplectellidae sponge; B) Nullarbora sponge; C) Bolosominae sponge; D) Glass sponge; E) Farrea sponge; F) Hyalonema sponge; G) Regadrella sponge; H) Giant stalked Caulophacus sponge; I) Sponge in sub-globular shape; J) Glass sponge; K) Sponge with coral; L) Farrea sponge; M) Sponge with ophiuroids living in its cavity; N) Glass sponges in symbiosis with other animals; O) Sponge with a number of sea stars living on it; P) Asbestopluma cf. flabellum sponge; Q) A flower basket sponge; and R) Euplectellidae sponge.
 
-Related work
+**Related work**
 - Zhang S; **Song W**; Marinos G; Waschina S; Zimmermann J; Kaleta C; Thomas, T, 2024, Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont. Nature Communications, 15(1), 10858. (IF: **14.7**)
 - Wang W; **Song W**; Majzoub M; Feng X; Xu B; Tao J; ... ; Fan L, 2024, Decoupling of strain-and intrastrain-level interactions of microbiomes in a sponge holobiont. Nature Communications, 15(1), 8205. (IF: **14.7**)
 - Zhang S; **Song W**; Wemheuer B; Reveillaud J; Webster N; Thomas T, 2019, 'Comparative genomics reveals ecological and evolutionary insights into sponge associated Thaumarchaeota', mSystems, vol. 4. (IF: **7.324**)
@@ -62,7 +62,7 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 
 **Figure 4** Domain level community structure of the microbiomes across coral, seawater and sediment samples (A). NMDS plot showing the similarity of microbial communities among coral families (A) and genera (B). 
 
-Related work
+**Related work**
 - **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum, ([10.1128/spectrum.02093-25](assets/pdf/Spectrum02093-25.pdf))
 
 
@@ -71,7 +71,7 @@ DIRECTION FOUR: Bioinformatics and Software Development
 
 High-throughput sequencing provides a powerful way to study the ‘unexplored’ and uncultured diversity of microbial communities. My research involves the development of new computational algorithms and pipelines 1) for the processing of sequencing data from new sequencing strategy, including PacBio long read sequencing ([**Song** et al., 2019](https://doi.org/10.1016/j.margen.2019.05.002)) and the recently released Nanopore’s adaptive sampling technology; 2) to improve the quality of metagenome-assembled genomes ([**Song** and Thomas, 2017](https://doi.org/10.1093/bioinformatics/btx086); 3) to link MAGs with their often-missing 16S rRNA gene sequences that are commonly used in phylogenetic analysis and environmental surveys ([**Song** et al., 2022](https://doi.org/10.1093/bioinformatics/btac398)).
 
-Related work
+**Related work**
 - **Song W**, Zhang S, Thomas T, 2022, 'MarkerMAG: linking metagenome-assembled genomes (MAGs) with 16S rRNA marker genes using paired-end short reads', Bioinformatics, btac398. (IF: **6.931**)
 - **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
 - **Song W**; Thomas T, 2017, 'Binning-refiner: Improving genome bins through the combination of different binning programs', Bioinformatics, vol. 33, pp. 1873 – 1875. (IF: **6.931**)
@@ -83,7 +83,7 @@ DIRECTION FIVE: Horizontal Gene Transfer (HGT) and Microbial Adaptation
 
 HGT is considered an important driver of microbial evolution and niche adaptation. My research involves the identification of HGTs ([**Song** et al., 2017](https://doi.org/10.7717/peerj.4015) and [**Song** et al., 2019](https://doi.org/10.1186/s40168-019-0649-y)) in microorganisms from the natural environments, as well as assessment of the role of HGT in the adaptation of microorganisms to different hosts, including marine sponges ([Robbins, **Song** et al., 2021](https://www.nature.com/articles/s41396-020-00876-9)), macroalgae and human. For example, we found that HGTs in the macroalgal biofilms were frequently involved in genes for nutrient transport and degradation, as well as stress responses, which are considered beneficial for bacteria living in this host-associated niche ([**Song** et al., 2021](https://www.nature.com/articles/s41396-020-00815-8)). 
 
-Related work
+**Related work**
 - **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
 - **Song W**; Wemheuer B; Steinberg PD; Marzinelli EM; Thomas T, 2021, 'Contribution of horizontal gene transfer to the functionality of microbial biofilm on a macroalgae', ISME Journal, vol. 15, pp. 807 – 817. (IF: **13.214**)
 - Robbins SJ; **Song W**; Engelberts JP; Glasl B; Slaby BM; Boyd J; Marangon E; Botté ES; Laffy P; Thomas T; Webster NS, 2021, 'A genomic view of the microbiome of coral reef demosponges', ISME Journal, vol. 15, pp. 1641 – 1654. (IF: **13.214**)
