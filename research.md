@@ -36,7 +36,7 @@ Marine sponges (phylum Porifera) are reported to be distributed widely in Hong K
 
 In this project, we aim to carry out comprehensive biodiversity surveys in Hong Kong waters, building a specimen library and developing a publicly accessible database that integrates geological and environmental metadata, morphological descriptions, digital 3D models, molecule-based taxonomic classifications, and information about the associated symbiotic microorganisms. The database to be generated, combined with the specimen library, will serve as a valuable resource to support scientific research, advance marine conservation, enhance public engagement, and promote public education and awareness of the biodiversity and ecological significance of Hong Kong sponges.
 
-Here is a single-page website to illustrate the diversity, distribution of some sponges we observed across Hong Kong waters: https://hkspongedb.github.io
+Here is a single-page website to illustrate the diversity, distribution of some sponges we observed across Hong Kong waters: [https://hkspongedb.github.io](https://hkspongedb.github.io)
 
 ![logo](assets/images/research/Hong_Kong_Sponge.jpg)
 
