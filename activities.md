@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Activities
 ---
 
 ## Journal Editor
