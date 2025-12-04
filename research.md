@@ -29,7 +29,7 @@ Our research will offer comprehensive insights into the origin and evolution of 
 - Zhang S; **Song W**; Wemheuer B; Reveillaud J; Webster N; Thomas T, 2019, 'Comparative genomics reveals ecological and evolutionary insights into sponge associated Thaumarchaeota', mSystems, vol. 4. (IF: **7.324**)
 
 
-DIRECTION TWO: Development of a Specimen Library and Database for Hong Kong Sponges and Their Associated Microbial Symbionts (an ECF proposal, under review)
+DIRECTION TWO: Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts (an ECF proposal, under review)
 ---
 
 Marine sponges (phylum Porifera) are reported to be distributed widely in Hong Kong waters and to exhibit high morphological diversity, highlighting their ecological importance. However, Hong Kong sponges remain poorly documented, leading to the reduced visibility of Hong Kong species in international databases, their absence from large international research initiatives, a lack of baseline data for environmental and ecosystem monitoring, and insufficient public awareness of sponge diversity and their ecological importance.
