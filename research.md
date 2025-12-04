@@ -3,7 +3,9 @@ title: Research Activities
 ---
 
 
-## The origin and evolution of symbiosis between archaea and one of the most primitive animals (a GRF funded project)
+Direction One: The origin and evolution of symbiosis between archaea and one of the most primitive animals (a GRF funded project)
+---
+
 Marine sponges (phylum Porifera) have existed for more than 500 million years, making them one of the most primitive extant animals. 
 Many sponges host dense and diverse microorganisms and form stable and highly specific relationships with them ([Zhang, **Song** et al., 2024](https://doi.org/10.1038/s41467-024-55222-w) and [Wang, **Song** et al., 2024](https://doi.org/10.1038/s41467-024-52464-6)). 
 Sponges’ unique phylogenetic position makes them ideal models for the study of animal-microbe symbiosis that could reveal a wide variety of symbiotic strategies and the core features of all extant symbiosis. 
@@ -27,7 +29,9 @@ Our research will offer comprehensive insights into the origin and evolution of 
 - Zhang S; **Song W**; Wemheuer B; Reveillaud J; Webster N; Thomas T, 2019, 'Comparative genomics reveals ecological and evolutionary insights into sponge associated Thaumarchaeota', mSystems, vol. 4. (IF: **7.324**)
 
 
-## Development of a Specimen Library and Database for Hong Kong Sponges and Their Associated Microbial Symbionts (an ECF proposal, under review)
+Direction Two: Development of a Specimen Library and Database for Hong Kong Sponges and Their Associated Microbial Symbionts (an ECF proposal, under review)
+---
+
 Marine sponges (phylum Porifera) are reported to be distributed widely in Hong Kong waters and to exhibit high morphological diversity, highlighting their ecological importance. However, Hong Kong sponges remain poorly documented, leading to the reduced visibility of Hong Kong species in international databases, their absence from large international research initiatives, a lack of baseline data for environmental and ecosystem monitoring, and insufficient public awareness of sponge diversity and their ecological importance.
 
 In this project, we aim to carry out comprehensive biodiversity surveys in Hong Kong waters, building a specimen library and developing a publicly accessible database that integrates geological and environmental metadata, morphological descriptions, digital 3D models, molecule-based taxonomic classifications, and information about the associated symbiotic microorganisms. The database to be generated, combined with the specimen library, will serve as a valuable resource to support scientific research, advance marine conservation, enhance public engagement, and promote public education and awareness of the biodiversity and ecological significance of Hong Kong sponges.
@@ -41,7 +45,9 @@ on the right are Hong Kong sponges (some may need further confirmation) we obser
 (**all sponge photos presented here are not yet published. If you wish to use any of the photos, please contact ocessongwz@ust.hk for approval**)
 
 
-## Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a GRF proposal, under review)
+Direction Three: Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a GRF proposal, under review)
+---
+
 Black corals and octocorals, which exhibit distinct structural properties and may have different nutritional preferences, are abundant in the western Pacific Ocean. Corals often host diverse microbial symbionts that contribute to host growth, resilience and health. While shallow-water corals often rely on their associated photosynthetic zooxanthellae or prosthecochloris for nutrients, the absence of light in deep sea suggests that microbial symbionts play an especially critical role in the survival of deep-sea corals. Previous studies of deep-sea coral microbiomes have mainly focused on a few octocorals, whereas only two black coral species have been examined to date, leaving a significant knowledge gap regarding the overall diversity, abundance and functions of deep-sea coral-associated microbiomes.
 
 To fill this knowledge gap, we collected 50 deep-sea coral specimens (18 of which were black corals) from the western Pacific Ocean at depths ranging from 805 to 5,572 meters. These samples represent ten coral families, three of which have no previously reported microbiomes, including one black coral and two octocoral families. Our preliminary observations based on amplicon sequencing of the 16S rRNA gene revealed distinct microbial associations across coral taxa. Specifically, an overwhelming dominance of ammonia-oxidizing archaea (AOA) was observed exclusively in black corals from the family Schizopathidae, a phenomenon not reported previously. Furthermore, most of the deep-sea corals were dominated by single microbial species with relative read abundance above 50%. By contrast, only a very limited number of microbial taxa have been reported to dominate shallow-water corals. Overall, our findings suggest strong host-mediated selection for specific microbial symbionts, and thus functions, in the deep-sea corals.
@@ -60,7 +66,8 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 - **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum, ([10.1128/spectrum.02093-25](assets/pdf/Spectrum02093-25.pdf))
 
 
-## Bioinformatics and Software Development
+Direction Four: Bioinformatics and Software Development
+---
 
 High-throughput sequencing provides a powerful way to study the ‘unexplored’ and uncultured diversity of microbial communities. My research involves the development of new computational algorithms and pipelines 1) for the processing of sequencing data from new sequencing strategy, including PacBio long read sequencing ([**Song** et al., 2019](https://doi.org/10.1016/j.margen.2019.05.002)) and the recently released Nanopore’s adaptive sampling technology; 2) to improve the quality of metagenome-assembled genomes ([**Song** and Thomas, 2017](https://doi.org/10.1093/bioinformatics/btx086); 3) to link MAGs with their often-missing 16S rRNA gene sequences that are commonly used in phylogenetic analysis and environmental surveys ([**Song** et al., 2022](https://doi.org/10.1093/bioinformatics/btac398)).
 
@@ -71,7 +78,8 @@ High-throughput sequencing provides a powerful way to study the ‘unexplored’
 - **Song W**; Steensen K; Thomas T, 2017, 'HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities', PeerJ, vol. 2017. (IF: 3.061)
 
 
-## Horizontal gene transfer (HGT) and microbial evolution/adaptation
+Direction Five: Horizontal gene transfer (HGT) and microbial evolution/adaptation
+---
 
 HGT is considered an important driver of microbial evolution and niche adaptation. My research involves the identification of HGTs (Song et al., 2019, Microbiome) in microorganisms from the natural environments, as well as assessment of the role of HGT in the adaptation of microorganisms to different hosts, including marine sponges ([Robbins, **Song** et al., 2021](https://www.nature.com/articles/s41396-020-00876-9)), macroalgae and human. For example, we found that HGTs in the macroalgal biofilms were frequently involved in genes for nutrient transport and degradation, as well as stress responses, which are considered beneficial for bacteria living in this host-associated niche ([**Song** et al., 2021](https://www.nature.com/articles/s41396-020-00815-8)). 
 
