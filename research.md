@@ -53,7 +53,7 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 **Figure 3** Domain level community structure of the microbiomes across coral, seawater and sediment samples (A). NMDS plot showing the similarity of microbial communities among coral families (B) and genera (C). 
 
 **Related work**
-- **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum, ([10.1128/spectrum.02093-25](assets/pdf/Spectrum02093-25.pdf))
+- **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum, ([https://doi.org/10.1128/spectrum.02093-25](https://doi.org/10.1128/spectrum.02093-25))
 
 
 DIRECTION THREE: Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts (an ECF proposal, under review)

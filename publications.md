@@ -3,6 +3,7 @@ title: Publications
 ---
 
 ## Representative publications:
+- **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum. (IF: **3.8**)([https://doi.org/10.1128/spectrum.02093-25](https://doi.org/10.1128/spectrum.02093-25)) 
 - **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
 - **Song W**; Wemheuer B; Steinberg PD; Marzinelli EM; Thomas T, 2021, 'Contribution of horizontal gene transfer to the functionality of microbial biofilm on a macroalgae', ISME Journal, vol. 15, pp. 807 – 817. (IF: **13.214**)
 - **Song W**, Zhang S, Thomas T, 2022, 'MarkerMAG: linking metagenome-assembled genomes (MAGs) with 16S rRNA marker genes using paired-end short reads', Bioinformatics, btac398. (IF: **6.931**)
@@ -12,7 +13,6 @@ title: Publications
 - Wang W; **Song W**; Majzoub M; Feng X; Xu B; Tao J; ... ; Fan L, 2024, Decoupling of strain-and intrastrain-level interactions of microbiomes in a sponge holobiont. Nature Communications, 15(1), 8205. (IF: **14.7**)
 
 ## Complete list:
-- **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum, ([10.1128/spectrum.02093-25](assets/pdf/Spectrum02093-25.pdf))
 - Li J, Del Olmo G, Zhang S, Philip C, Saha M, **Song W**, Egan S, Wood G, 2025, 'Host-Microbiome Ecology in a Seaweed Holobiont: Current Understanding, Technological Advancements, and Manipulation Approaches', Technological Advancements, and Manipulation Approaches.
 - Khan T, **Song W**, Nappi J, Marzinelli E, Egan S, Thomas T, 2023, 'Functional guilds and drivers of diversity in seaweed-associated bacteria', FEMS Microbes, Dec 14:xtad023.
 - Fu S, Zhang Y, Wang R, Qiu Z, **Song W**, Yang Q, Shen L, 2023, ‘A novel culture-enriched metagenomic sequencing strategy effectively guarantee the microbial safety of drinking water by uncovering the low abundance pathogens’, Journal of Environmental Management, 345, 118737. (IF: 8.91)
