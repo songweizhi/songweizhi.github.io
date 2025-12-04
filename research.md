@@ -29,23 +29,7 @@ Our research will offer comprehensive insights into the origin and evolution of 
 - Zhang S; **Song W**; Wemheuer B; Reveillaud J; Webster N; Thomas T, 2019, 'Comparative genomics reveals ecological and evolutionary insights into sponge associated Thaumarchaeota', mSystems, vol. 4. (IF: **7.324**)
 
 
-DIRECTION TWO: Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts (an ECF proposal, under review)
----
-
-Marine sponges (phylum Porifera) are reported to be distributed widely in Hong Kong waters and to exhibit high morphological diversity, highlighting their ecological importance. However, Hong Kong sponges remain poorly documented, leading to the reduced visibility of Hong Kong species in international databases, their absence from large international research initiatives, a lack of baseline data for environmental and ecosystem monitoring, and insufficient public awareness of sponge diversity and their ecological importance.
-
-In this project, we aim to carry out comprehensive biodiversity surveys in Hong Kong waters, building a specimen library and developing a publicly accessible database that integrates geological and environmental metadata, morphological descriptions, digital 3D models, molecule-based taxonomic classifications, and information about the associated symbiotic microorganisms. The database to be generated, combined with the specimen library, will serve as a valuable resource to support scientific research, advance marine conservation, enhance public engagement, and promote public education and awareness of the biodiversity and ecological significance of Hong Kong sponges.
-
-Here is a single-page website to illustrate the diversity, distribution of some sponges we observed across Hong Kong waters: [https://hkspongedb.github.io](https://hkspongedb.github.io)
-
-![logo](assets/images/research/Hong_Kong_Sponge.jpg)
-
-**Figure 2** On the left is the distribution of the 463 reported Porifera observations on iNaturalist across Hong Kong waters (accessed on December 3rd, 2025). 
-on the right are Hong Kong sponges (some may need further confirmation) we observed during several dives near Basalt Island (A, B and C), Bluff Island (D and E), Breakers Reef (F, G and H), Hoi Ha Wan (I and J), Ninepin Island (K), Tai Long Wan (L) and Wong Ngai Chau (M and N).
-(**all sponge photos presented here are not yet published. If you wish to use any of the photos, please contact ocessongwz@ust.hk for approval**)
-
-
-DIRECTION THREE: Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a GRF proposal, under review)
+DIRECTION TWO: Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a GRF proposal, under review)
 ---
 
 Black corals and octocorals, which exhibit distinct structural properties and may have different nutritional preferences, are abundant in the western Pacific Ocean. Corals often host diverse microbial symbionts that contribute to host growth, resilience and health. While shallow-water corals often rely on their associated photosynthetic zooxanthellae or prosthecochloris for nutrients, the absence of light in deep sea suggests that microbial symbionts play an especially critical role in the survival of deep-sea corals. Previous studies of deep-sea coral microbiomes have mainly focused on a few octocorals, whereas only two black coral species have been examined to date, leaving a significant knowledge gap regarding the overall diversity, abundance and functions of deep-sea coral-associated microbiomes.
@@ -56,14 +40,30 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 
 ![logo](assets/images/research/Coral_Figure_1.jpg)
 
-**Figure 3** Representative coral samples we collected from the western Pacific Ocean seamounts. Black coral samples from the Schizopathidae (A, B, and C) and Cladopathidae (D) families. Octocoral samples from the Chrysogorgiidae (E), Primnoidae (F and G), Victorgorgiidae (H), Paramuriceidae (I), Coralliidae (J and K), Keratoisididae (L), and Plexauridae (M) families.
+**Figure 2** Representative coral samples we collected from the western Pacific Ocean seamounts. Black coral samples from the Schizopathidae (A, B, and C) and Cladopathidae (D) families. Octocoral samples from the Chrysogorgiidae (E), Primnoidae (F and G), Victorgorgiidae (H), Paramuriceidae (I), Coralliidae (J and K), Keratoisididae (L), and Plexauridae (M) families.
 
 ![logo](assets/images/research/Coral_Figure_2.jpg)
 
-**Figure 4** Domain level community structure of the microbiomes across coral, seawater and sediment samples (A). NMDS plot showing the similarity of microbial communities among coral families (B) and genera (C). 
+**Figure 3** Domain level community structure of the microbiomes across coral, seawater and sediment samples (A). NMDS plot showing the similarity of microbial communities among coral families (B) and genera (C). 
 
 **Related work**
 - **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum, ([10.1128/spectrum.02093-25](assets/pdf/Spectrum02093-25.pdf))
+
+
+DIRECTION THREE: Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts (an ECF proposal, under review)
+---
+
+Marine sponges (phylum Porifera) are reported to be distributed widely in Hong Kong waters and to exhibit high morphological diversity, highlighting their ecological importance. However, Hong Kong sponges remain poorly documented, leading to the reduced visibility of Hong Kong species in international databases, their absence from large international research initiatives, a lack of baseline data for environmental and ecosystem monitoring, and insufficient public awareness of sponge diversity and their ecological importance.
+
+In this project, we aim to carry out comprehensive biodiversity surveys in Hong Kong waters, building a specimen library and developing a publicly accessible database that integrates geological and environmental metadata, morphological descriptions, digital 3D models, molecule-based taxonomic classifications, and information about the associated symbiotic microorganisms. The database to be generated, combined with the specimen library, will serve as a valuable resource to support scientific research, advance marine conservation, enhance public engagement, and promote public education and awareness of the biodiversity and ecological significance of Hong Kong sponges.
+
+Here is a single-page website to illustrate the diversity, distribution of some sponges we observed across Hong Kong waters: [https://hkspongedb.github.io](https://hkspongedb.github.io)
+
+![logo](assets/images/research/Hong_Kong_Sponge.jpg)
+
+**Figure 4** On the left is the distribution of the 463 reported Porifera observations on iNaturalist across Hong Kong waters (accessed on December 3rd, 2025). 
+on the right are Hong Kong sponges (some may need further confirmation) we observed during several dives near Basalt Island (A, B and C), Bluff Island (D and E), Breakers Reef (F, G and H), Hoi Ha Wan (I and J), Ninepin Island (K), Tai Long Wan (L) and Wong Ngai Chau (M and N).
+(**all sponge photos presented here are not yet published. If you wish to use any of the photos, please contact ocessongwz@ust.hk for approval**)
 
 
 DIRECTION FOUR: Bioinformatics and Software Development
