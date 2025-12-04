@@ -68,6 +68,7 @@ High-throughput sequencing provides a powerful way to study the ‘unexplored’
 - **Song W**, Zhang S, Thomas T, 2022, 'MarkerMAG: linking metagenome-assembled genomes (MAGs) with 16S rRNA marker genes using paired-end short reads', Bioinformatics, btac398. (IF: **6.931**)-
 - **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
 - **Song W**; Thomas T, 2017, 'Binning-refiner: Improving genome bins through the combination of different binning programs', Bioinformatics, vol. 33, pp. 1873 – 1875. (IF: **6.931**)
+- **Song W**; Steensen K; Thomas T, 2017, 'HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities', PeerJ, vol. 2017. (IF: 3.061)
 
 
 ## Horizontal gene transfer (HGT) and microbial evolution/adaptation
