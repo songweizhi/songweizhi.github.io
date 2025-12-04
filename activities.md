@@ -1,5 +1,5 @@
 ---
-title: Activities
+title: Academic activities
 ---
 
 ## Journal Editor
