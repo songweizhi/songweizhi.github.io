@@ -24,4 +24,4 @@ title: Academic activities
 + [Tree visualization with iTOL](https://github.com/songweizhi/BioSAK/tree/master/BioSAK_tutorial/Demo_tree_visualization_with_iTol)
 + Some Python/R scripts I wrote for the processing of amplicon sequencing data ([link](https://github.com/songweizhi/Coral_Microbiome_Project_Script))
 + Build a map-based single-page website to visualize biodiversity data ([link](https://github.com/songweizhi/BioSAK/tree/master/BioSAK_tutorial/Demo_single_page_web))
-+ Anything else you would like to have? Just shoot me a message! 
++ Anything else you would like to have? Just shoot me an email ([songwz03@gmail.com](songwz03@gmail.com))! 
