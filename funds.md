@@ -30,20 +30,21 @@ Funds under review
    - 1,215,590 HKD (requested)
    - Result release date: June 2026
 
+
 Awards
 ---
-1. **Tuition Fee Scholarship** (UNSW)
+- **Tuition Fee Scholarship** (UNSW)
    - 2015 - 2019
    - AUD 147,000
 
-1. **Overseas Student Scholarship** (China Scholarship Council)
+- **Overseas Student Scholarship** (China Scholarship Council)
    - 2015 - 2019
    - AUD 61,000
 
-1. **Conference Travel Funding** (UNSW)
+- **Conference Travel Funding** (UNSW)
    - 2017, AUD 800
    - 2018, AUD 2,600
 
-1. **PhD Top-Up Scholarship** (UNSW)
+- **PhD Top-Up Scholarship** (UNSW)
    - 2017, AUD 5,000
    - 2018, AUD 2,500
