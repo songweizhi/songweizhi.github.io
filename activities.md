@@ -27,4 +27,4 @@ title: Academic activities
 1. You may want to go through a list of tools/scripts I integrated into the BioSAK and TreeSAK pipelines
    + BioSAK:  A Swiss-Army-Knife for bioinformaticians ([link](https://github.com/songweizhi/BioSAK))
    + TreeSAK: A Swiss-Army-Knife for manipulating phylogenetic trees ([link](https://github.com/songweizhi/TreeSAK))
-1. Anything else you would like to have? Just shoot me an email! 
+1. Anything else you would like to have? PLease just shoot me an email! 
