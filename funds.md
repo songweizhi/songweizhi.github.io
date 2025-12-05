@@ -1,14 +1,13 @@
 Funds
 ---
-- **The origin and evolution of archaeal symbiosis in sponges**
+1. **The origin and evolution of archaeal symbiosis in sponges**
    - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
    - **Principal Investigator**
    - 2026 - 2028
    - 1,062,475 HKD
    - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925)
 
-
-- **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
+1. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
    - UNSW Science ECAN Seed Grant scheme
    - **Principal Investigator**
    - 2000 AUD
@@ -17,15 +16,14 @@ Funds
 
 Funds under review
 ---
-- **Development of a Specimen Library and Database for Hong Kong Sponges and Their Associated Microbial Symbionts**
+1. **Development of a Specimen Library and Database for Hong Kong Sponges and Their Associated Microbial Symbionts**
    - Research and Development (R&D) Project - Environment and Conservation Fund (ECF)
    - **Principal Investigator**
    - 2026-2028 (proposed)
    - 1,199,870 HKD (requested)
    - Result release date: Early 2026
 
-
-- **Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals**
+1. **Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals**
    - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
    - **Principal Investigator**
    - 2027-2029 (proposed)
@@ -34,18 +32,18 @@ Funds under review
 
 Awards
 ---
-- **Tuition Fee Scholarship** (UNSW)
+1. **Tuition Fee Scholarship** (UNSW)
    - 2015 - 2019
    - AUD 147,000
 
-- **Overseas Student Scholarship** (China Scholarship Council)
+1. **Overseas Student Scholarship** (China Scholarship Council)
    - 2015 - 2019
    - AUD 61,000
 
-- **Conference Travel Funding** (UNSW)
+1. **Conference Travel Funding** (UNSW)
    - 2017, AUD 800
    - 2018, AUD 2,600
 
-- **PhD Top-Up Scholarship** (UNSW)
+1. **PhD Top-Up Scholarship** (UNSW)
    - 2017, AUD 5,000
    - 2018, AUD 2,500
