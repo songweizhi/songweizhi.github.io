@@ -28,6 +28,7 @@ In this project, we will
 2) reconstruct the evolutionary history of archaeal symbionts, estimate their divergence time and co-relate with the divergence of the sponge hosts; 
 3) deduce genome content of the symbiont ancestors, reconstruct their metabolic potentials and trace their evolutionary trajectory;
 4) evaluate how the establishment of AOA–sponge symbiosis influenced the transition of AOA from terrestrial to marine environments and, in turn, shaped global nitrogen cycling. 
+
 Our research will offer comprehensive insights into the origin and evolution of archaeal symbiosis in sponges, highlight the crucial roles of archaea in supporting sponge functionality, and illuminate how these relationships adapt to environmental changes, which could aid in protecting marine ecosystems under climate change.
 
 ![logo](assets/images/research/sponge_aoa.jpg)
