@@ -75,7 +75,6 @@ To address the long-standing neglect of Hong Kong sponges and the resulted knowl
 
 In addition, sponges are rich source of natural products, the sponge samples collected in this project will serve as a valuable resource for discovering new natural products, such as those with antibacterial, antiviral, antifungal, and anticancer activities. 
 Furthermore, sponges obtain nutrients by filtering vast volumes of seawater, the specimens collected in this project can also be leveraged for environmental DNA analyses, enabling comprehensive assessments of biodiversity across Hong Kong waters.
-Here is a single-page website to illustrate the diversity, distribution of some sponges we observed across Hong Kong waters: 
 
 With this project, I aim to establish a leading laboratory for sponge research in Hong Kong by fostering strong collaborations with experts in natural product discovery and environmental DNA studies. These partnerships will enable integrative, multidisciplinary research that advances our understanding of sponges, their symbionts, and their ecological and biotechnological importance.
 
