@@ -15,19 +15,24 @@ DIRECTION ONE: The origin and evolution of symbiosis between archaea and sponges
 Marine sponges (phylum Porifera) have existed for more than 500 million years, making them one of the most primitive extant animals. 
 Many sponges host dense and diverse microorganisms and form stable and highly specific relationships with them ([Zhang, **Song** et al., 2024](https://doi.org/10.1038/s41467-024-55222-w) and [Wang, **Song** et al., 2024](https://doi.org/10.1038/s41467-024-52464-6)). 
 Sponges’ unique phylogenetic position makes them ideal models for the study of animal-microbe symbiosis that could reveal a wide variety of symbiotic strategies and the core features of all extant symbiosis. 
-Marine sponges are frequently reported to be associated with ammonia-oxidizing archaea ([Zhang, **Song** et al., 2019](https://doi.org/10.1128/msystems.00288-19)) and archaeal communities in deep-sea sponges have been found to be orders of magnitude higher than in shallow-water sponges. 
-More importantly, specific archaeal lineages exhibit high degree of host specificity in deep-sea Hexactinellida sponges (hereafter referred to as glass sponges), suggesting a vertical transmission of these symbionts. 
+Marine sponges are frequently reported to be associated with ammonia-oxidizing archaea (AOA) ([Zhang, **Song** et al., 2019](https://doi.org/10.1128/msystems.00288-19)) and 95.2% of the currently known symbiotic AOA genomes are associated with sponges. Our preliminary analysis revealed that prior to the first symbiosis event between marine sponges and AOA, only four AOA genomes were recovered from marine ecosystems. 
+While after the first symbiosis event, 73.9% of AOA originated from marine ecosystems (**Figure 1**), indicating a strong impact of animal-microbe symbiosis on the transition of AOA from terrestrial to marine ecosystems, and thus on global nitrogen cycling during earth history.
 
-Despite recent findings with marker gene-based microbiome surveys, archaeal genomes associated with glass sponges remain significantly underrepresented, with only nine available in public databases. 
-This is likely due to predominant distributions of glass sponges in deep sea and limiting a comprehensive understanding of the origin and evolution of archaeal symbiosis in sponges. 
-During a recent cruise to the Northwestern Pacific Ocean, we collected 80 glass sponges, covering at least 18 species, from seamounts at depths ranging from 807 to 5,563 meters. 
-These samples serve as valuable resources to significantly reduce the sample bias related to the underrepresented archaeal symbionts associated with glass sponges. 
+Furthermore, archaeal communities in deep-sea sponges are often orders of magnitude more abundant than those in shallow-water sponges. 
+Specific archaeal lineages also show a high degree of host specificity in deep-sea Hexactinellida (glass sponges), suggesting vertical transmission of these symbionts. 
+However, archaeal genomes associated with glass sponges remain greatly underrepresented, with only nine AOA genomes are currently available in public databases, likely due to predominant distributions of glass sponges in deep sea. During a recent cruise to the Northwestern Pacific Ocean, we collected 80 glass sponges representing at least 18 species from seamounts at depths of 807 to 5,563 meters (**Figure 1**). 
+These samples serve as valuable resources to significantly reduce the sample bias related to the underrepresented archaeal symbionts associated with glass sponges.
 
-Our research will offer comprehensive insights into the origin and evolution of archaeal symbiosis in sponges, highlight the crucial roles of archaea in supporting sponge functionality, and illuminate how this relationships adapt to environmental changes, which could aid in protecting marine ecosystems under climate change.
+In this project, we will 
+1) address sample bias of the underrepresented archaeal symbionts from glass sponges by generating high-quality archaeal genomes from the 80 glass sponge samples; 
+2) reconstruct the evolutionary history of archaeal symbionts, estimate their divergence time and co-relate with the divergence of the sponge hosts; 
+3) deduce genome content of the symbiont ancestors, reconstruct their metabolic potentials and trace their evolutionary trajectory;
+4) evaluate how the establishment of AOA–sponge symbiosis influenced the transition of AOA from terrestrial to marine environments and, in turn, shaped global nitrogen cycling. 
+Our research will offer comprehensive insights into the origin and evolution of archaeal symbiosis in sponges, highlight the crucial roles of archaea in supporting sponge functionality, and illuminate how these relationships adapt to environmental changes, which could aid in protecting marine ecosystems under climate change.
 
-![logo](assets/images/research/deepsea_sponges.jpg)
+![logo](assets/images/research/sponge_aoa.jpg)
 
-**Figure 1** Representative sponge samples collected from Seamounts in the Northwestern Paciﬁc Ocean. A) Euplectellidae sponge; B) Nullarbora sponge; C) Bolosominae sponge; D) Glass sponge; E) Farrea sponge; F) Hyalonema sponge; G) Regadrella sponge; H) Giant stalked Caulophacus sponge; I) Sponge in sub-globular shape; J) Glass sponge; K) Sponge with coral; L) Farrea sponge; M) Sponge with ophiuroids living in its cavity; N) Glass sponges in symbiosis with other animals; O) Sponge with a number of sea stars living on it; P) Asbestopluma cf. flabellum sponge; Q) A flower basket sponge; and R) Euplectellidae sponge.
+**Figure 1** **Left panel**: The distribution of marine and non-marine AOAs before and after the first symbiosis event between sponges and AOAs (red arrow). **Right panel**: Representative sponge samples collected from Seamounts in the Northwestern Paciﬁc Ocean. A) Euplectellidae sponge; B) Nullarbora sponge; C) Bolosominae sponge; D) Glass sponge; E) Farrea sponge; F) Hyalonema sponge; G) Regadrella sponge; H) Giant stalked Caulophacus sponge; I) Sponge in sub-globular shape; J) Glass sponge; K) Sponge with coral; L) Farrea sponge; M) Sponge with ophiuroids living in its cavity; N) Glass sponges in symbiosis with other animals; O) Sponge with a number of sea stars living on it; P) Asbestopluma cf. flabellum sponge; Q) A flower basket sponge; and R) Euplectellidae sponge.
 
 **Related work**
 - Zhang S; **Song W**; Marinos G; Waschina S; Zimmermann J; Kaleta C; Thomas, T, 2024, Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont. Nature Communications, 15(1), 10858. (IF: **14.7**)
