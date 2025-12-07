@@ -14,6 +14,7 @@ title: Publications
 
 ## Complete list:
 - Li J, Del Olmo G, Zhang S, Philip C, Saha M, **Song W**, Egan S, Wood G, 2025, 'Host-Microbiome Ecology in a Seaweed Holobiont: Current Understanding, Technological Advancements, and Manipulation Approaches', Technological Advancements, and Manipulation Approaches.
+- Li Z, Zhao C, Mao Z, Zhang F, Dong L, Song C, Chen Y, Fu X, Ao Z, Xiong Y, Hui Q, 2025, 'Structure and metabolic function of spatiotemporal pit mud microbiome. Environmental microbiome', 20;20(1):10.
 - Khan T, **Song W**, Nappi J, Marzinelli E, Egan S, Thomas T, 2023, 'Functional guilds and drivers of diversity in seaweed-associated bacteria', FEMS Microbes, Dec 14:xtad023.
 - Fu S, Zhang Y, Wang R, Qiu Z, **Song W**, Yang Q, Shen L, 2023, ‘A novel culture-enriched metagenomic sequencing strategy effectively guarantee the microbial safety of drinking water by uncovering the low abundance pathogens’, Journal of Environmental Management, 345, 118737. (IF: 8.91)
 - Chen L, Hong T, Wu Z, **Song W**, Chen S, Liu Y, Shen L, 2023, ‘Genomic analyses reveal a low temperature adapted clade in Halorubrum, a widespread haloarchaeon across global hypersaline environments’, BMC Genomics, 24, 508. (IF: 4.558)
