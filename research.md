@@ -31,7 +31,8 @@ Our research will offer comprehensive insights into the origin and evolution of 
 
 **Related work**
 - Zhang S; **Song W**; Marinos G; Waschina S; Zimmermann J; Kaleta C; Thomas, T, 2024, Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont. Nature Communications, 15(1), 10858. (IF: **14.7**)
-- Wang W; **Song W**; Majzoub M; Feng X; Xu B; Tao J; ... ; Fan L, 2024, Decoupling of strain-and intrastrain-level interactions of microbiomes in a sponge holobiont. Nature Communications, 15(1), 8205. (IF: **14.7**)
+- Wang W; **Song W**; Majzoub M; Feng X; Xu B; Tao J ; Fan L, 2024, Decoupling of strain-and intrastrain-level interactions of microbiomes in a sponge holobiont. Nature Communications, 15(1), 8205. (IF: **14.7**)
+- Zhang S; **Song W**; Nothiasc L; Couvillion S; Webster N; Thomas T, 2022, 'Comparative metabolomic analysis reveals shared and unique chemical interactions in sponge holobionts', Microbiome, 10, 22. (IF: **16.837**)
 - Zhang S; **Song W**; Wemheuer B; Reveillaud J; Webster N; Thomas T, 2019, 'Comparative genomics reveals ecological and evolutionary insights into sponge associated Thaumarchaeota', mSystems, vol. 4. (IF: **7.324**)
 
 
@@ -93,5 +94,7 @@ HGT is considered an important driver of microbial evolution and niche adaptatio
 **Related work**
 - **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
 - **Song W**; Wemheuer B; Steinberg PD; Marzinelli EM; Thomas T, 2021, 'Contribution of horizontal gene transfer to the functionality of microbial biofilm on a macroalgae', ISME Journal, vol. 15, pp. 807 – 817. (IF: **13.214**)
-- Robbins SJ; **Song W**; Engelberts JP; Glasl B; Slaby BM; Boyd J; Marangon E; Botté ES; Laffy P; Thomas T; Webster NS, 2021, 'A genomic view of the microbiome of coral reef demosponges', ISME Journal, vol. 15, pp. 1641 – 1654. (IF: **13.214**)
 - **Song W**; Steensen K; Thomas T, 2017, 'HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities', PeerJ, vol. 2017. (IF: 3.061)
+- Robbins SJ; **Song W**; Engelberts JP; Glasl B; Slaby BM; Boyd J; Marangon E; Botté ES; Laffy P; Thomas T; Webster NS, 2021, 'A genomic view of the microbiome of coral reef demosponges', ISME Journal, vol. 15, pp. 1641 – 1654. (IF: **13.214**)
+- Dong X; Zhang C; Li W; Weng S; **Song W**; Li J; Wang Y, 2021, 'Functional diversity of microbial communities in inactive seafloor sulfide deposits', FEMS Microbiology Ecology, Aug;97(8): fiab108. (IF: 4.519)
+- Li Z, Zhao C, Mao Z, Zhang F, Dong L, Song C, Chen Y, Fu X, Ao Z, Xiong Y, Hui Q, **Song W**, Penttinen P, Zhang S, 2025, 'Structure and metabolic function of spatiotemporal pit mud microbiome. Environmental microbiome', 20;20(1):10.
