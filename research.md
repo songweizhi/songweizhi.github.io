@@ -97,8 +97,11 @@ High-throughput sequencing provides a powerful way to study the ‘unexplored’
 - **Song W**; Steensen K; Thomas T, 2017, 'HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities', PeerJ, vol. 2017. (IF: 3.061)
 - **Song W**; Thomas T; Edwards RJ, 2019, 'Complete genome sequences of pooled genomic DNA from 10 marine bacteria using PacBio long-read sequencing', Marine Genomics, vol. 48. (IF: 2.143)
 
+<div style="text-align: right"> 
+[:arrow_heading_up:](https://songweizhi.github.io/research) 
+</div>
 
-DIRECTION FIVE: Horizontal Gene Transfer (HGT) and Microbial Adaptation <div style="text-align: right"> [:arrow_heading_up:](https://songweizhi.github.io/research) </div>
+DIRECTION FIVE: Horizontal Gene Transfer (HGT) and Microbial Adaptation 
 ---
 
 HGT is considered an important driver of microbial evolution and niche adaptation. My research involves the identification of HGTs ([**Song** et al., 2017](https://doi.org/10.7717/peerj.4015) and [**Song** et al., 2019](https://doi.org/10.1186/s40168-019-0649-y)) in microorganisms from the natural environments, as well as assessment of the role of HGT in the adaptation of microorganisms to different hosts, including marine sponges ([Robbins, **Song** et al., 2021](https://www.nature.com/articles/s41396-020-00876-9)), macroalgae and human. For example, we found that HGTs in the macroalgal biofilms were frequently involved in genes for nutrient transport and degradation, as well as stress responses, which are considered beneficial for bacteria living in this host-associated niche ([**Song** et al., 2021](https://www.nature.com/articles/s41396-020-00815-8)). 
