@@ -45,7 +45,7 @@ Our research will offer comprehensive insights into the origin and evolution of 
 
 <a href="#" id="backToTopBtn" title="Go to top">↑</a>
 
-DIRECTION TWO: Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a GRF proposal, under review) [↑](https://songweizhi.github.io/research)
+DIRECTION TWO: Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a GRF proposal, under review) [:arrow_up:](https://songweizhi.github.io/research)
 ---
 
 Black corals and octocorals, which exhibit distinct structural properties and may have different nutritional preferences, are abundant in the western Pacific Ocean. Corals often host diverse microbial symbionts that contribute to host growth, resilience and health. While shallow-water corals often rely on their associated photosynthetic zooxanthellae or prosthecochloris for nutrients, the absence of light in deep sea suggests that microbial symbionts play an especially critical role in the survival of deep-sea corals. Previous studies of deep-sea coral microbiomes have mainly focused on a few octocorals, whereas only two black coral species have been examined to date, leaving a significant knowledge gap regarding the overall diversity, abundance and functions of deep-sea coral-associated microbiomes.
@@ -65,9 +65,8 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 **Related work**
 - **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum, ([https://doi.org/10.1128/spectrum.02093-25](https://doi.org/10.1128/spectrum.02093-25)) [↑](https://songweizhi.github.io/research)
 
-[back to top](https://songweizhi.github.io/research)
 
-DIRECTION THREE: Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts (an ECF proposal, under review) [↑](https://songweizhi.github.io/research)
+DIRECTION THREE: Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts (an ECF proposal, under review) [:arrow_up:](https://songweizhi.github.io/research)
 ---
 
 Marine sponges (phylum Porifera) are found to be distributed widely in Hong Kong waters and to exhibit high morphological diversity ([https://hkspongedb.github.io](https://hkspongedb.github.io)), highlighting their ecological importance. 
@@ -91,7 +90,7 @@ on the right are Hong Kong sponges (some may need further confirmation) we obser
 [back to top](https://songweizhi.github.io/research)
 
 
-DIRECTION FOUR: Bioinformatics and Software Development ([for more detail](https://songweizhi.github.io/software)) [↑](https://songweizhi.github.io/research)
+DIRECTION FOUR: Bioinformatics and Software Development ([for more detail](https://songweizhi.github.io/software)) [:arrow_up:](https://songweizhi.github.io/research)
 ---
 
 High-throughput sequencing provides a powerful way to study the ‘unexplored’ and uncultured diversity of microbial communities. My research involves the development of new computational algorithms and pipelines 1) for the processing of sequencing data from new sequencing strategy, including PacBio long read sequencing ([**Song** et al., 2019](https://doi.org/10.1016/j.margen.2019.05.002)) and the recently released Nanopore’s adaptive sampling technology; 2) to improve the quality of metagenome-assembled genomes ([**Song** and Thomas, 2017](https://doi.org/10.1093/bioinformatics/btx086)); 3) to link MAGs with their often-missing 16S rRNA gene sequences that are commonly used in phylogenetic analysis and environmental surveys ([**Song** et al., 2022](https://doi.org/10.1093/bioinformatics/btac398)).
@@ -105,7 +104,7 @@ High-throughput sequencing provides a powerful way to study the ‘unexplored’
 
 [back to top](https://songweizhi.github.io/research)
 
-DIRECTION FIVE: Horizontal Gene Transfer (HGT) and Microbial Adaptation [↑](https://songweizhi.github.io/research)
+DIRECTION FIVE: Horizontal Gene Transfer (HGT) and Microbial Adaptation [:arrow_up:](https://songweizhi.github.io/research)
 ---
 
 HGT is considered an important driver of microbial evolution and niche adaptation. My research involves the identification of HGTs ([**Song** et al., 2017](https://doi.org/10.7717/peerj.4015) and [**Song** et al., 2019](https://doi.org/10.1186/s40168-019-0649-y)) in microorganisms from the natural environments, as well as assessment of the role of HGT in the adaptation of microorganisms to different hosts, including marine sponges ([Robbins, **Song** et al., 2021](https://www.nature.com/articles/s41396-020-00876-9)), macroalgae and human. For example, we found that HGTs in the macroalgal biofilms were frequently involved in genes for nutrient transport and degradation, as well as stress responses, which are considered beneficial for bacteria living in this host-associated niche ([**Song** et al., 2021](https://www.nature.com/articles/s41396-020-00815-8)). 
