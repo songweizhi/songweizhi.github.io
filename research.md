@@ -114,3 +114,5 @@ HGT is considered an important driver of microbial evolution and niche adaptatio
 - Robbins SJ; **Song W**; Engelberts JP; Glasl B; Slaby BM; Boyd J; Marangon E; Botté ES; Laffy P; Thomas T; Webster NS, 2021, 'A genomic view of the microbiome of coral reef demosponges', ISME Journal, vol. 15, pp. 1641 – 1654. (IF: **13.214**)
 - Dong X; Zhang C; Li W; Weng S; **Song W**; Li J; Wang Y, 2021, 'Functional diversity of microbial communities in inactive seafloor sulfide deposits', FEMS Microbiology Ecology, Aug;97(8): fiab108. (IF: 4.519)
 - Li Z, Zhao C, Mao Z, Zhang F, Dong L, Song C, Chen Y, Fu X, Ao Z, Xiong Y, Hui Q, **Song W**, Penttinen P, Zhang S, 2025, 'Structure and metabolic function of spatiotemporal pit mud microbiome. Environmental microbiome', 20;20(1):10.
+
+[:arrow_up:](https://songweizhi.github.io/research)
