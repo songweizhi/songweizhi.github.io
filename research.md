@@ -43,7 +43,6 @@ Our research will offer comprehensive insights into the origin and evolution of 
 
 [:arrow_up:](https://songweizhi.github.io/research)
 
-
 DIRECTION TWO: Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a GRF proposal, under review)
 ---
 
@@ -64,8 +63,7 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 **Related work**
 - **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum, ([https://doi.org/10.1128/spectrum.02093-25](https://doi.org/10.1128/spectrum.02093-25))
 
-- [:arrow_up:](https://songweizhi.github.io/research)
-
+[:arrow_up:](https://songweizhi.github.io/research)
 
 DIRECTION THREE: Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts (an ECF proposal, under review)
 ---
@@ -90,7 +88,6 @@ on the right are Hong Kong sponges (some may need further confirmation) we obser
 
 [:arrow_up:](https://songweizhi.github.io/research)
 
-
 DIRECTION FOUR: Bioinformatics and Software Development ([for more detail](https://songweizhi.github.io/software))
 ---
 
@@ -105,7 +102,6 @@ High-throughput sequencing provides a powerful way to study the ‘unexplored’
 
 [:arrow_up:](https://songweizhi.github.io/research)
 
-
 DIRECTION FIVE: Horizontal Gene Transfer (HGT) and Microbial Adaptation
 ---
 
@@ -118,5 +114,3 @@ HGT is considered an important driver of microbial evolution and niche adaptatio
 - Robbins SJ; **Song W**; Engelberts JP; Glasl B; Slaby BM; Boyd J; Marangon E; Botté ES; Laffy P; Thomas T; Webster NS, 2021, 'A genomic view of the microbiome of coral reef demosponges', ISME Journal, vol. 15, pp. 1641 – 1654. (IF: **13.214**)
 - Dong X; Zhang C; Li W; Weng S; **Song W**; Li J; Wang Y, 2021, 'Functional diversity of microbial communities in inactive seafloor sulfide deposits', FEMS Microbiology Ecology, Aug;97(8): fiab108. (IF: 4.519)
 - Li Z, Zhao C, Mao Z, Zhang F, Dong L, Song C, Chen Y, Fu X, Ao Z, Xiong Y, Hui Q, **Song W**, Penttinen P, Zhang S, 2025, 'Structure and metabolic function of spatiotemporal pit mud microbiome. Environmental microbiome', 20;20(1):10.
-
-
