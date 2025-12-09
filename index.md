@@ -13,8 +13,8 @@ header:
   #actions:
   #  - label: label to be added!
   #    url: people#join-us
-  caption: Clear Water Bay, Hong Kong, 2024, W Song
-excerpt: Bioinformatics, Phylogenomics, Microbial Ecology, Animal-Microbe Symbioses
+  caption: Clear Water Bay Country Park, Hong Kong, 2024, Song W
+excerpt: Bioinformatics, Phylogenomics, Microbial Ecology, Animal-Microbe Symbiosis
 ---
 
 ### About me
