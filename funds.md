@@ -34,12 +34,10 @@ Funds under review
 Awards
 ---
 - **Tuition Fee Scholarship** (UNSW)
-   - 2015 - 2019
-   - AUD 147,000
+   - 2015-2019, AUD 147,000
 
 - **Overseas Student Scholarship** (China Scholarship Council)
-   - 2015 - 2019
-   - AUD 61,000
+   - 2015-2019, AUD 61,000
 
 - **Conference Travel Funding** (UNSW)
    - 2017, AUD 800
