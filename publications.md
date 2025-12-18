@@ -1,9 +1,10 @@
 ---
 title: Publications
 ---
+† authors contributed equally
 
 ## Representatives:
-- **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum. (IF: **3.8**) [https://doi.org/10.1128/spectrum.02093-25](https://doi.org/10.1128/spectrum.02093-25) 
+- **Song W**†, Zhang S†, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum. (IF: **3.8**) [https://doi.org/10.1128/spectrum.02093-25](https://doi.org/10.1128/spectrum.02093-25) 
 - Zhang S; **Song W**; Marinos G; Waschina S; Zimmermann J; Kaleta C; Thomas, T, 2024, Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont. Nature Communications, 15(1), 10858. (IF: **14.7**) [https://doi.org/10.1038/s41467-024-55222-W](https://doi.org/10.1038/s41467-024-55222-W)
 - Wang W; **Song W**; Majzoub M; Feng X; Xu B; Tao J; Fan L, 2024, Decoupling of strain-and intrastrain-level interactions of microbiomes in a sponge holobiont. Nature Communications, 15(1), 8205. (IF: **14.7**) [https://doi.org/10.1038/s41467-024-52464-6](https://doi.org/10.1038/s41467-024-52464-6)
 - **Song W**; Zhang S; Majzoub ME; Egan S; Kjelleberg S; Thomas T, 2023, 'The impact of interspecific competition on the genomic evolution of Phaeobacter inhibens and Pseudoalteromonas tunicata during biofilm growth', Environmental Microbiology, 2023 Dec 7. (IF: **5.476**) [https://doi.org/10.1111/1462-2920.16553](https://doi.org/10.1111/1462-2920.16553)
