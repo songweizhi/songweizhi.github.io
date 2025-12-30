@@ -16,12 +16,6 @@ Funds
 
 Funds under review
 ---
-1. **Development of a Specimen Library and Database for Hong Kong Sponges and Their Associated Microbial Symbionts**
-   - Research and Development (R&D) Project - Environment and Conservation Fund (ECF)
-   - **Principal Investigator**
-   - 2026-2028 (proposed)
-   - 1,199,870 HKD (requested)
-   - Result release date: Early 2026
 
 1. **Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals**
    - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)

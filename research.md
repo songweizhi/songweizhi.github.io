@@ -4,7 +4,7 @@ title: Research Projects/Directions
 
 1. [The origin and evolution of symbiosis between archaea and sponges, one of the most primitive animals (a RGC funded GRF project)](https://songweizhi.github.io/research#direction-one-the-origin-and-evolution-of-symbiosis-between-archaea-and-one-of-the-most-primitive-animals-a-rgc-funded-grf-project)
 1. [Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a GRF proposal)](https://songweizhi.github.io/research#direction-two-decoding-the-functional-basis-of-distinct-microbial-symbiont-associations-in-deep-sea-corals-a-grf-proposal-under-review)
-1. [Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts (an ECF proposal)](https://songweizhi.github.io/research#direction-three-development-of-a-specimen-library-and-database-for-hong-kong-sponges-and-their-associated-microbial-symbionts-an-ecf-proposal-under-review)
+1. [Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts](https://songweizhi.github.io/research#direction-three-development-of-a-specimen-library-and-database-for-hong-kong-sponges-and-their-associated-microbial-symbionts-an-ecf-proposal-under-review)
 1. [Bioinformatics and software development](https://songweizhi.github.io/research#direction-four-bioinformatics-and-software-development-for-more-detail)
 1. [Horizontal gene transfer (HGT) and microbial adaptation](https://songweizhi.github.io/research#direction-five-horizontal-gene-transfer-hgt-and-microbial-adaptation)
 
@@ -65,7 +65,7 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 
 [:arrow_up:](https://songweizhi.github.io/research)
 
-DIRECTION THREE: Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts (an ECF proposal, under review)
+DIRECTION THREE: Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts
 ---
 
 Marine sponges (phylum Porifera) are found to be distributed widely in Hong Kong waters and to exhibit high morphological diversity ([https://hkspongedb.github.io](https://hkspongedb.github.io)), highlighting their ecological importance. 
