@@ -14,7 +14,7 @@ Funds
    - 2022 
 
 
-Funds under review
+Funds under review/preparation
 ---
 
 1. **Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals**
@@ -23,6 +23,12 @@ Funds under review
    - 2027-2029 (proposed)
    - 1,215,590 HKD (requested)
    - Result release date: June 2026
+
+1. **Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts**
+   - Target Funding Scheme: Research and Development Projects - Environment and Conservation Fund (R&D - ECF)
+   - **Principal Investigator**
+   - 2027-2029 (proposed)
+   - Ready for submission
 
 
 Awards

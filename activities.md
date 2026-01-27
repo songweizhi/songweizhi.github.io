@@ -11,6 +11,7 @@ title: Academic activities
 + [Wellcome open research](https://wellcomeopenresearch.org)
 + [Microbiome](https://link.springer.com/journal/40168)
 + [Genes](https://www.mdpi.com/journal/genes)
++ [PLOS One](https://journals.plos.org/plosone)
 
 
 ## Supervision
