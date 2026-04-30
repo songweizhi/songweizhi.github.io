@@ -14,11 +14,6 @@ title: Academic activities
 + [PLOS One](https://journals.plos.org/plosone)
 
 
-## Supervision
-+ Tom Kwok Lun HUI (PhD student, co-supervised with Prof. Charmaine YUNG)
-+ Jiayu Yang (Master student, co-supervised with Prof. Peiyuan QIAN)
-
-
 ## Tutorials
 1. Functional annotation ([link](https://github.com/songweizhi/BioSAK/tree/master/BioSAK_tutorial/Demo_functional_annotation))
 1. Functional prediction using Tax4Fun2 ([link](https://github.com/songweizhi/Tax4Fun2_short_tutorial))
