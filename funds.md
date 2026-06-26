@@ -21,7 +21,7 @@ Funds
    - 2,000 AUD
    - 2022 
 
-Funds under review/preparation
+Funds under review
 ---
 
 1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
