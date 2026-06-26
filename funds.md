@@ -21,14 +21,16 @@ Funds
    - 2,000 AUD
    - 2022 
 
+
 Funds under review
 ---
 
 1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
-   - Target Funding Scheme: Marine Conservation Enhancement Fund (MCEF)
+   - Targeting Funding Scheme: Marine Conservation Enhancement Fund (MCEF)
    - **Principal Investigator**
-   - 2026-2027 (proposed)
+   - 2026-2027
    - Under review
+
 
 Awards
 ---
