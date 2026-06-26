@@ -1,5 +1,13 @@
 Funds
 ---
+
+1. **Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals**
+   - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
+   - **Principal Investigator**
+   - 2027 - 2029
+   - 984,743 HKD
+   - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16101126&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=2026&theSubmit=16101126)
+
 1. **The origin and evolution of archaeal symbiosis in sponges**
    - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
    - **Principal Investigator**
@@ -13,23 +21,14 @@ Funds
    - 2,000 AUD
    - 2022 
 
-
 Funds under review/preparation
 ---
 
-1. **Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals**
-   - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
+1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
+   - Target Funding Scheme: Marine Conservation Enhancement Fund (MCEF)
    - **Principal Investigator**
-   - 2027-2029 (proposed)
-   - 1,215,590 HKD (requested)
-   - Result release date: June 2026
-
-1. **Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts**
-   - Target Funding Scheme: Research and Development Projects - Environment and Conservation Fund (R&D - ECF)
-   - **Principal Investigator**
-   - 2027-2029 (proposed)
-   - Ready for submission
-
+   - 2026-2027 (proposed)
+   - Under review
 
 Awards
 ---
