@@ -14,6 +14,7 @@ Funds
    - 1,062,475 HKD
    - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925)
 
+
 Funds under review
 ---
 1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
@@ -21,6 +22,7 @@ Funds under review
    - **Principal Investigator**
    - 2026-2027
    - Under review
+
 
 Funds completed
 ---
