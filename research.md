@@ -43,7 +43,7 @@ Our research will offer comprehensive insights into the origin and evolution of 
 
 [:arrow_up:](https://songweizhi.github.io/research)
 
-DIRECTION TWO: Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a GRF proposal, under review)
+DIRECTION TWO: Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals ([a RGC funded GRF project](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16101126&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=2026&theSubmit=16101126))
 ---
 
 Black corals and octocorals, which exhibit distinct structural properties and may have different nutritional preferences, are abundant in the western Pacific Ocean. Corals often host diverse microbial symbionts that contribute to host growth, resilience and health. While shallow-water corals often rely on their associated photosynthetic zooxanthellae or prosthecochloris for nutrients, the absence of light in deep sea suggests that microbial symbionts play an especially critical role in the survival of deep-sea corals. Previous studies of deep-sea coral microbiomes have mainly focused on a few octocorals, whereas only two black coral species have been examined to date, leaving a significant knowledge gap regarding the overall diversity, abundance and functions of deep-sea coral-associated microbiomes.
