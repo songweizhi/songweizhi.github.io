@@ -1,6 +1,5 @@
 Funds
 ---
-
 1. **Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals**
    - General Research Fund (GRF) - Hong Kong Research Grants Council (RGC)
    - **Principal Investigator**
@@ -15,21 +14,21 @@ Funds
    - 1,062,475 HKD
    - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925)
 
-1. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
-   - UNSW Science ECAN Seed Grant scheme
-   - **Principal Investigator**
-   - 2,000 AUD
-   - 2022 
-
-
 Funds under review
 ---
-
 1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
    - Targeting Funding Scheme: Marine Conservation Enhancement Fund (MCEF)
    - **Principal Investigator**
    - 2026-2027
    - Under review
+
+Funds completed
+---
+1. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
+   - UNSW Science ECAN Seed Grant scheme
+   - **Principal Investigator**
+   - 2,000 AUD
+   - 2022 
 
 
 Awards

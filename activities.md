@@ -12,6 +12,7 @@ title: Academic activities
 + [Microbiome](https://link.springer.com/journal/40168)
 + [Genes](https://www.mdpi.com/journal/genes)
 + [PLOS One](https://journals.plos.org/plosone)
++ [Marine Ecology Progress Series](https://www.int-res.com/journals/meps)
 
 
 ## Tutorials
