@@ -2,8 +2,8 @@
 title: Research Projects/Directions
 ---
 
-1. [The origin and evolution of symbiosis between archaea and sponges (a RGC funded GRF project)](https://songweizhi.github.io/research#direction-one-the-origin-and-evolution-of-symbiosis-between-archaea-and-one-of-the-most-primitive-animals-a-rgc-funded-grf-project)
-1. [Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals (a RGC funded GRF project)](https://songweizhi.github.io/research#direction-two-decoding-the-functional-basis-of-distinct-microbial-symbiont-associations-in-deep-sea-corals-a-rgc-funded-grf-project)
+1. [The origin and evolution of symbiosis between archaea and sponges](https://songweizhi.github.io/research#direction-one-the-origin-and-evolution-of-symbiosis-between-archaea-and-one-of-the-most-primitive-animals-a-rgc-funded-grf-project)
+1. [Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals](https://songweizhi.github.io/research#direction-two-decoding-the-functional-basis-of-distinct-microbial-symbiont-associations-in-deep-sea-corals-a-rgc-funded-grf-project)
 1. [Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts](https://songweizhi.github.io/research#direction-three-development-of-a-specimen-library-and-database-for-hong-kong-sponges-and-their-associated-microbial-symbionts)
 1. [Bioinformatics and software development](https://songweizhi.github.io/research#direction-four-bioinformatics-and-software-development-for-more-detail)
 1. [Horizontal gene transfer (HGT) and microbial adaptation](https://songweizhi.github.io/research#direction-five-horizontal-gene-transfer-hgt-and-microbial-adaptation)
