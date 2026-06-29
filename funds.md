@@ -20,7 +20,6 @@ Funds under review
 1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
    - Targeting Funding Scheme: Marine Conservation Enhancement Fund (MCEF)
    - **Principal Investigator**
-   - 2026-2027
    - Under review
 
 
