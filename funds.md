@@ -19,7 +19,7 @@ Funds under review
 ---
 1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
    - Targeting Funding Scheme: Marine Conservation Enhancement Fund (MCEF)
-   - **Principal Investigator**
+   - Principal Investigator
    - Under review
 
 
@@ -27,7 +27,7 @@ Funds completed
 ---
 1. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
    - UNSW Science ECAN Seed Grant scheme
-   - **Principal Investigator**
+   - Principal Investigator
    - 2,000 AUD
    - 2022 
 
