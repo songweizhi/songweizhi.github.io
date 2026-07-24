@@ -7,4 +7,4 @@ title: Contact
 - songwz03(at)gmail.com
 
 **Address**
-- Room 3641 (LIFT 31-32), Academic Building, HKUST, Clear Water Bay, Hong Kong
+- [Room 3641](http://pathadvisor.ust.hk/interface.php?roomno=3641), Academic Building, HKUST, Clear Water Bay, Hong Kong
