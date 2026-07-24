@@ -14,7 +14,7 @@ Funds
    - HK$ 984,743
    - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16101126&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=2026&theSubmit=16101126)
 
-1. HKUST Internal Research Support (PGS)
+1. **HKUST Internal Research Support (PGS)**
    - 2025, HK$ 229,620
    - 2026, HK$ (to be added)
 
