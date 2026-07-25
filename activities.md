@@ -35,4 +35,4 @@ title: Academic activities
    + BioSAK:  A Swiss-Army-Knife for bioinformaticians ([link](https://github.com/songweizhi/BioSAK))
    + TreeSAK: A Swiss-Army-Knife for manipulating phylogenetic trees ([link](https://github.com/songweizhi/TreeSAK))
 
-Anything else you would like to have? Shoot me an email!
+**Anything else you would like to have? Shoot me an email!**
