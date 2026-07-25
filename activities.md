@@ -16,9 +16,8 @@ title: Academic activities
 
 
 ## Supervision
-
-+ Jiayu Yang, Master student, Co-supervised with Prof. Peiyuan QIAN
 + Tom Kwok Lun HUI, PhD student, Co-supervised with Prof. Charmaine YUNG
++ Jiayu Yang, Master student, Co-supervised with Prof. Peiyuan QIAN
 
 
 ## Teaching
@@ -35,4 +34,5 @@ title: Academic activities
 1. You may want to go through a list of tools/scripts I integrated into the BioSAK and TreeSAK pipelines
    + BioSAK:  A Swiss-Army-Knife for bioinformaticians ([link](https://github.com/songweizhi/BioSAK))
    + TreeSAK: A Swiss-Army-Knife for manipulating phylogenetic trees ([link](https://github.com/songweizhi/TreeSAK))
-1. Anything else you would like to have? Shoot me an email!
+
+Anything else you would like to have? Shoot me an email!
