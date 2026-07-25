@@ -9,7 +9,5 @@ main:
     url: software
   - title: Activities
     url: activities
-  - title: Photos
-    url: photos
   - title: Contact
     url: contact
