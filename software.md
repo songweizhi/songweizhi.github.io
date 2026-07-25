@@ -15,7 +15,7 @@ main:
     url: https://github.com/songweizhi/MetaCHIP
     btn_label: "Learn More"
     btn_class: "btn--info"
-    excerpt: Metagenomic datasets provide an opportunity to study horizontal gene transfer (HGT) on the level of a microbial community. However, current HGT detection methods cannot be applied to community-level datasets or require reference genomes. Here, we present MetaCHIP, a pipeline for reference-independent HGT identification at the community level.
+    excerpt: Metagenomic datasets provide an opportunity to study horizontal gene transfer (HGT) on the level of a microbial community. However, current HGT detection methods cannot be applied to community-level datasets or require reference genomes. Here, we present MetaCHIP, a pipeline for reference-independent HGT identification at the community level ([https://doi.org/10.1186/s40168-019-0649-y](https://doi.org/10.1186/s40168-019-0649-y)).
       
 
   - title: Binning_refiner
@@ -23,7 +23,7 @@ main:
     url: https://github.com/songweizhi/Binning_refiner
     btn_label: "Learn More"
     btn_class: "btn--info"
-    excerpt: Microbial genomes have recently been reconstructed from metagenomic datasets using binning approaches. Inconsistent binning results are however often observed between different binning programs, likely due to the different algorithms or statistical models used. We present Binning_refiner, a pipeline that merges the results of different binning programs. 
+    excerpt: Microbial genomes have recently been reconstructed from metagenomic datasets using binning approaches. Inconsistent binning results are however often observed between different binning programs, likely due to the different algorithms or statistical models used. We present Binning_refiner, a pipeline that merges the results of different binning programs ([https://doi.org/10.1093/bioinformatics/btx086](https://doi.org/10.1093/bioinformatics/btx086)). 
   
 
   - title: HgtSIM
@@ -31,7 +31,7 @@ main:
     url: https://github.com/songweizhi/HgtSIM
     btn_label: "Learn More"
     btn_class: "btn--info"
-    excerpt: A simulator for horizontal gene transfer (HGT) in microbial communities
+    excerpt: A simulator for horizontal gene transfer (HGT) in microbial communities ([https://doi.org/10.7717/peerj.4015](https://doi.org/10.7717/peerj.4015))
     
 
   - title: BioSAK
