@@ -7,7 +7,7 @@ main:
     url: https://github.com/songweizhi/MarkerMAG
     btn_label: "Learn More"
     btn_class: "btn--info"
-    excerpt: Metagenome-assembled genomes (MAGs) have substantially extended our understanding of microbial functionality. However, 16S rRNA genes, which are commonly used in phylogenetic analysis and environmental surveys, are often missing from MAGs. MarkerMAG can link 16S rRNA genes to MAGs using paired-end sequencing reads.
+    excerpt: Metagenome-assembled genomes (MAGs) have substantially extended our understanding of microbial functionality. However, 16S rRNA genes, which are commonly used in phylogenetic analysis and environmental surveys, are often missing from MAGs. MarkerMAG can link 16S rRNA genes to MAGs using paired-end sequencing reads ([https://doi.org/10.1093/bioinformatics/btac398](https://doi.org/10.1093/bioinformatics/btac398)).
       
 
   - title: MetaCHIP
