@@ -2,26 +2,9 @@
 title: Academic activities
 ---
 
-## Journal Editor
-+ [Diversity](https://www.mdpi.com/journal/Diversity)
-
-
-## Journal Reviewer
-+ [Nature communications](https://www.nature.com/ncomms/)
-+ [Wellcome open research](https://wellcomeopenresearch.org)
-+ [Microbiome](https://link.springer.com/journal/40168)
-+ [Genes](https://www.mdpi.com/journal/genes)
-+ [PLOS One](https://journals.plos.org/plosone)
-+ [Marine Ecology Progress Series](https://www.int-res.com/journals/meps)
-
-
-## Supervision
+## Student supervision
 + Tom Kwok Lun HUI, PhD student, Co-supervised with Prof. Charmaine YUNG
 + Jiayu Yang, Master student, Co-supervised with Prof. Peiyuan QIAN
-
-
-## Teaching
-+ To be added
 
 
 ## Tutorials
@@ -36,3 +19,17 @@ title: Academic activities
    + TreeSAK: A Swiss-Army-Knife for manipulating phylogenetic trees ([link](https://github.com/songweizhi/TreeSAK))
 
 **Anything else you would like to have? Shoot me an email!**
+
+
+## Journal Editor
++ [Diversity](https://www.mdpi.com/journal/Diversity)
+
+
+## Journal Reviewer
++ [Nature communications](https://www.nature.com/ncomms/)
++ [Wellcome open research](https://wellcomeopenresearch.org)
++ [Microbiome](https://link.springer.com/journal/40168)
++ [Genes](https://www.mdpi.com/journal/genes)
++ [PLOS One](https://journals.plos.org/plosone)
++ [Marine Ecology Progress Series](https://www.int-res.com/journals/meps)
+
