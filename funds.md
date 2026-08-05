@@ -18,9 +18,9 @@ Funds
 1. **HKUST Internal Research Support**
 
     | Year |           Role           | Amount (HK$) |
-    |:----:|:------------------------:|:-----------:|
-    | 2025 |  Principal Investigator  |   229,620   |
-    | 2026 |     |             |
+    |:----:|:------------------------:|:------------:|
+    | 2025 |  Principal Investigator  |   229,620    |
+    | 2026 |  Principal Investigator  | to be added  |
 
 
 Funds under review
