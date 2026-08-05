@@ -1,4 +1,4 @@
-Funds
+Funds ongoing
 ---
 
 1. **The origin and evolution of archaeal symbiosis in sponges**
@@ -43,7 +43,7 @@ Funds completed
 Awards
 ---
 
-|  Year     |       Scheme                 |        Organization           | Amount (AUD)           |
+|   Year    |       Scheme                 |        Organization           | Amount (AUD)           |
 |:---------:|:----------------------------:|:-----------------------------:|:----------------------:|
 | 2015-2019 |   Tuition Fee Scholarship    | University of New South Wales |        147,000         |
 | 2015-2019 | Overseas Student Scholarship |   China Scholarship Council   |         61,000         |
