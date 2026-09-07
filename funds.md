@@ -26,7 +26,7 @@ Funds ongoing
 Funds under review
 ---
 1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
-   - Targeting Funding Scheme: Marine Conservation Enhancement Fund (MCEF)
+   - Targeting Scheme: Marine Conservation Enhancement Fund (MCEF)
    - Principal Investigator
    - Under review
 
@@ -51,3 +51,4 @@ Awards
 |   2017    |    PhD Top-Up Scholarship    | University of New South Wales |         5,000          |
 |   2018    |  Conference Travel Funding   | University of New South Wales |         2,600          |
 |   2018    |    PhD Top-Up Scholarship    | University of New South Wales |         2,500          |
+
