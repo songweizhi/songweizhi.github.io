@@ -27,6 +27,13 @@ Mainland China	Yunnan	玉龙雪山	assets/photos/2024_Yunnan/Yulong_snow_mountai
 Mainland China	Yunnan	普拉错国家公园	assets/photos/2024_Yunnan/Pudacuo_Natioal_Park_1.jpg
 Mainland China	Yunnan	洱海	assets/photos/2024_Yunnan/Erhai_Shan.jpg
 Mainland China	Yunnan	洱海	assets/photos/2024_Yunnan/Erhai_Weizhi.jpg
+New Zealand and ISME20 (2026)	main	Travel Map	assets/photos/2026_NZ/Travel_map.png
+New Zealand and ISME20 (2026)	main	Coogee Beach, NSW	assets/photos/2026_NZ/.jpg
+New Zealand and ISME20 (2026)	main	Palm Beach, NSW	assets/photos/2026_NZ/.jpg
+New Zealand and ISME20 (2026)	main	Blue Mountains, NSW	assets/photos/2026_NZ/.jpg
+New Zealand and ISME20 (2026)	main	Sea Cliff Bridge, NSW	assets/photos/2026_NZ/.jpg
+New Zealand and ISME20 (2026)	main	Bombo Headland, NSW	assets/photos/2026_NZ/.jpg
+New Zealand and ISME20 (2026)	main	Jenolan Caves, NSW	assets/photos/2026_NZ/.jpg
 Australia (2015-2023)	main	Opera House	assets/photos/Australia/Opera_House.jpg
 Australia (2015-2023)	main	Coogee Beach, NSW	assets/photos/Australia/Coogee_Beach.jpg
 Australia (2015-2023)	main	Palm Beach, NSW	assets/photos/Australia/Palm_Beach.jpg

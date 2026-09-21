@@ -17,6 +17,18 @@ title: Photos
 </div>
 
 
+### New Zealand and ISME20 (2026)
+<div id="banner">
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2026_NZ/Travel_map.png"><img src="assets/photos/2026_NZ/Travel_map.png" style="height: 120px;"></a><div><p>Travel Map</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2026_NZ/Coogee_Beach.jpg"><img src="assets/photos/2026_NZ/Coogee_Beach.jpg" style="height: 120px;"></a><div><p>Coogee Beach, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2026_NZ/Palm_Beach.jpg"><img src="assets/photos/2026_NZ/Palm_Beach.jpg" style="height: 120px;"></a><div><p>Palm Beach, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2026_NZ/Blue_Mountains.jpg"><img src="assets/photos/2026_NZ/Blue_Mountains.jpg" style="height: 120px;"></a><div><p>Blue Mountains, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2026_NZ/Sea_Cliff_Bridge.jpg"><img src="assets/photos/2026_NZ/Sea_Cliff_Bridge.jpg" style="height: 120px;"></a><div><p>Sea Cliff Bridge, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2026_NZ/Bombo_Headland.jpg"><img src="assets/photos/2026_NZ/Bombo_Headland.jpg" style="height: 120px;"></a><div><p>Bombo Headland, NSW</p></div></div>
+	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2026_NZ/Jenolan_Caves.jpg"><img src="assets/photos/2026_NZ/Jenolan_Caves.jpg" style="height: 120px;"></a><div><p>Jenolan Caves, NSW</p></div></div>
+</div>
+
+
 ### Australia (2015-2023)
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/Australia/Opera_House.jpg"><img src="assets/photos/Australia/Opera_House.jpg" style="height: 120px;"></a><div><p>Opera House</p></div></div>
@@ -44,9 +56,13 @@ title: Photos
 
 ### Taiwan (2017)
 
+Best wishes to Taiwan. I also wish for every individual in the Greater China Area a peaceful and dignified life (January 13th, 2024).
+
 <div id="banner">
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2017_Taiwan/Taiwan_1.jpg"><img src="assets/photos/2017_Taiwan/Taiwan_1.jpg" style="height: 120px;"></a><div><p>台湾</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2017_Taiwan/Taipei.jpg"><img src="assets/photos/2017_Taiwan/Taipei.jpg" style="height: 120px;"></a><div><p>台北101</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2017_Taiwan/Taiwan_2.jpg"><img src="assets/photos/2017_Taiwan/Taiwan_2.jpg" style="height: 120px;"></a><div><p>花莲</p></div></div>
 	<div class="inline-block" style="display:inline-block;"><a href="assets/photos/2017_Taiwan/Taiwan_3.jpg"><img src="assets/photos/2017_Taiwan/Taiwan_3.jpg" style="height: 120px;"></a><div><p>九份</p></div></div>
 </div>
+
+
