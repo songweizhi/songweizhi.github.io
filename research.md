@@ -24,7 +24,7 @@ Specific archaeal lineages also show a high degree of host specificity in deep-s
 However, archaeal genomes associated with glass sponges remain greatly underrepresented, with only nine AOA genomes are currently available in public databases, likely due to predominant distributions of glass sponges in deep sea. During a recent cruise to the Northwestern Pacific Ocean, we collected 80 glass sponges representing at least 18 species from seamounts at depths of 807 to 5,563 meters (**Figure**). 
 These samples serve as valuable resources to significantly reduce the sample bias related to the underrepresented archaeal symbionts associated with glass sponges.
 
-In this project, we will 
+In this project, we will
 1) address sample bias of the underrepresented archaeal symbionts from glass sponges by generating high-quality archaeal genomes from the 80 glass sponge samples; 
 2) reconstruct the evolutionary history of archaeal symbionts, estimate their divergence time and co-relate with the divergence of the sponge hosts; 
 3) deduce genome content of the symbiont ancestors, reconstruct their metabolic potentials and trace their evolutionary trajectory;
