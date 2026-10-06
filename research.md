@@ -30,8 +30,6 @@ In this project, we will
 3) deduce genome content of the symbiont ancestors, reconstruct their metabolic potentials and trace their evolutionary trajectory;
 4) evaluate how the establishment of AOA–sponge symbiosis influenced the transition of AOA from terrestrial to marine environments and, in turn, shaped global nitrogen cycling. 
 
-Our research will offer comprehensive insights into the origin and evolution of archaeal symbiosis in sponges, highlight the crucial roles of archaea in supporting sponge functionality, and illuminate how these relationships adapt to environmental changes, which could aid in protecting marine ecosystems under climate change.
-
 ![logo](assets/images/research/sponge_aoa.jpg)
 
 **Figure** **Left panel**: The distribution of marine and non-marine AOAs before and after the first symbiosis event between sponges and AOAs (red arrow). **Right panel**: Representative sponge samples collected from Seamounts in the Northwestern Paciﬁc Ocean. A) Euplectellidae sponge; B) Nullarbora sponge; C) Bolosominae sponge; D) Glass sponge; E) Farrea sponge; F) Hyalonema sponge; G) Regadrella sponge; H) Giant stalked Caulophacus sponge; I) Sponge in sub-globular shape; J) Glass sponge; K) Sponge with coral; L) Farrea sponge; M) Sponge with ophiuroids living in its cavity; N) Glass sponges in symbiosis with other animals; O) Sponge with a number of sea stars living on it; P) Asbestopluma cf. flabellum sponge; Q) A flower basket sponge; and R) Euplectellidae sponge.
