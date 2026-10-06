@@ -6,8 +6,8 @@ title: Research Projects/Directions
 2. [Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals](https://songweizhi.github.io/research#direction-two-decoding-the-functional-basis-of-distinct-microbial-symbiont-associations-in-deep-sea-corals-a-grf-project)
 3. [Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts](https://songweizhi.github.io/research#direction-three-development-of-a-specimen-library-and-database-for-hong-kong-sponges-and-their-associated-microbial-symbionts)
 4. [The diversity, functions, pathogenicity, antibiotic resistance, and plastic degradation potentials of ghost net microbiomes](https://songweizhi.github.io/research#direction-four-the-diversity-functions-pathogenicity-antibiotic-resistance-and-plastic-degradation-potentials-of-ghost-net-microbiomes)
-5. [Bioinformatics and software development](https://songweizhi.github.io/research#direction-five-bioinformatics-and-software-development-for-more-detail)
-6. [Horizontal gene transfer (HGT) and microbial adaptation](https://songweizhi.github.io/research#direction-six-horizontal-gene-transfer-hgt-and-microbial-adaptation)
+5. [Horizontal gene transfer (HGT) and microbial adaptation](https://songweizhi.github.io/research#direction-five-horizontal-gene-transfer-hgt-and-microbial-adaptation)
+6. [Bioinformatics and software development](https://songweizhi.github.io/research#direction-six-bioinformatics-and-software-development-for-more-detail)
 
 
 DIRECTION ONE: The origin and evolution of symbiosis between archaea and sponges ([a GRF project](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925))
@@ -92,7 +92,20 @@ Ghost nets are pervasive sources of plastic pollution in Hong Kong waters. Their
 
 [:arrow_up:](https://songweizhi.github.io/research)
 
-DIRECTION FIVE: Bioinformatics and Software Development ([for more detail](https://songweizhi.github.io/software))
+DIRECTION FIVE: Horizontal Gene Transfer (HGT) and Microbial Adaptation
+---
+
+HGT is an important driver of microbial evolution and niche adaptation. My research involves the identification of HGTs ([**Song** et al., 2017](https://doi.org/10.7717/peerj.4015) and [**Song** et al., 2019](https://doi.org/10.1186/s40168-019-0649-y)) in microorganisms from the natural environments, as well as assessment of the role of HGT in the adaptation of microorganisms to different hosts, including marine sponges ([Robbins, **Song** et al., 2021](https://www.nature.com/articles/s41396-020-00876-9)), macroalgae and human. For example, we found that HGTs in the macroalgal biofilms were frequently involved in genes for nutrient transport and degradation, as well as stress responses, which are considered beneficial for bacteria living in this host-associated niche ([**Song** et al., 2021](https://www.nature.com/articles/s41396-020-00815-8)). 
+
+**Related work**
+- **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
+- **Song W**; Wemheuer B; Steinberg PD; Marzinelli EM; Thomas T, 2021, 'Contribution of horizontal gene transfer to the functionality of microbial biofilm on a macroalgae', ISME Journal, vol. 15, pp. 807 – 817. (IF: **13.214**)
+- **Song W**; Steensen K; Thomas T, 2017, 'HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities', PeerJ, vol. 2017. (IF: 3.061)
+- Robbins SJ; **Song W**; Engelberts JP; Glasl B; Slaby BM; Boyd J; Marangon E; Botté ES; Laffy P; Thomas T; Webster NS, 2021, 'A genomic view of the microbiome of coral reef demosponges', ISME Journal, vol. 15, pp. 1641 – 1654. (IF: **13.214**)
+
+[:arrow_up:](https://songweizhi.github.io/research)
+
+DIRECTION SIX: Bioinformatics and Software Development ([for more detail](https://songweizhi.github.io/software))
 ---
 
 High-throughput sequencing provides a powerful way to study the ‘unexplored’ and uncultured diversity of microbial communities. My research involves the development of new computational algorithms and pipelines 1) for the processing of sequencing data from new sequencing strategy, including PacBio long read sequencing ([**Song** et al., 2019](https://doi.org/10.1016/j.margen.2019.05.002)) and the recently released Nanopore’s adaptive sampling technology; 2) to improve the quality of metagenome-assembled genomes ([**Song** and Thomas, 2017](https://doi.org/10.1093/bioinformatics/btx086)); 3) to link MAGs with their often-missing 16S rRNA gene sequences that are commonly used in phylogenetic analysis and environmental surveys ([**Song** et al., 2022](https://doi.org/10.1093/bioinformatics/btac398)).
@@ -103,18 +116,5 @@ High-throughput sequencing provides a powerful way to study the ‘unexplored’
 - **Song W**; Thomas T, 2017, 'Binning-refiner: Improving genome bins through the combination of different binning programs', Bioinformatics, vol. 33, pp. 1873 – 1875. (IF: **6.931**)
 - **Song W**; Steensen K; Thomas T, 2017, 'HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities', PeerJ, vol. 2017. (IF: 3.061)
 - **Song W**; Thomas T; Edwards RJ, 2019, 'Complete genome sequences of pooled genomic DNA from 10 marine bacteria using PacBio long-read sequencing', Marine Genomics, vol. 48. (IF: 2.143)
-
-[:arrow_up:](https://songweizhi.github.io/research)
-
-DIRECTION SIX: Horizontal Gene Transfer (HGT) and Microbial Adaptation
----
-
-HGT is an important driver of microbial evolution and niche adaptation. My research involves the identification of HGTs ([**Song** et al., 2017](https://doi.org/10.7717/peerj.4015) and [**Song** et al., 2019](https://doi.org/10.1186/s40168-019-0649-y)) in microorganisms from the natural environments, as well as assessment of the role of HGT in the adaptation of microorganisms to different hosts, including marine sponges ([Robbins, **Song** et al., 2021](https://www.nature.com/articles/s41396-020-00876-9)), macroalgae and human. For example, we found that HGTs in the macroalgal biofilms were frequently involved in genes for nutrient transport and degradation, as well as stress responses, which are considered beneficial for bacteria living in this host-associated niche ([**Song** et al., 2021](https://www.nature.com/articles/s41396-020-00815-8)). 
-
-**Related work**
-- **Song W**; Wemheuer B; Zhang S; Steensen K; Thomas T, 2019, 'MetaCHIP: Community-level horizontal gene transfer identification through the combination of best-match and phylogenetic approaches', Microbiome, vol. 7, pp. 36. (IF: **16.837**)
-- **Song W**; Wemheuer B; Steinberg PD; Marzinelli EM; Thomas T, 2021, 'Contribution of horizontal gene transfer to the functionality of microbial biofilm on a macroalgae', ISME Journal, vol. 15, pp. 807 – 817. (IF: **13.214**)
-- **Song W**; Steensen K; Thomas T, 2017, 'HgtSIM: A simulator for horizontal gene transfer (HGT) in microbial communities', PeerJ, vol. 2017. (IF: 3.061)
-- Robbins SJ; **Song W**; Engelberts JP; Glasl B; Slaby BM; Boyd J; Marangon E; Botté ES; Laffy P; Thomas T; Webster NS, 2021, 'A genomic view of the microbiome of coral reef demosponges', ISME Journal, vol. 15, pp. 1641 – 1654. (IF: **13.214**)
 
 [:arrow_up:](https://songweizhi.github.io/research)
