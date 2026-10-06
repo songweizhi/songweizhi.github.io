@@ -30,6 +30,10 @@ Funds under review
    - Principal Investigator
    - Under review
 
+1. **The Diversity, Functions, Pathogenicity, Antibiotic Resistance, and Plastic Degradation Potentials of Ghost Net-Associated Microorganisms in Hong Kong Waters**
+   - Targeting Scheme: Environment and Conservation Fund (ECF)
+   - Principal Investigator
+   - Under review
 
 Funds completed
 ---
@@ -38,7 +42,6 @@ Funds completed
    - Principal Investigator
    - AUD 2,000
    - 2022 
-
 
 Awards
 ---
