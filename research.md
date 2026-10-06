@@ -9,7 +9,6 @@ title: Research Projects/Directions
 + [Horizontal gene transfer (HGT) and microbial adaptation](https://songweizhi.github.io/research#horizontal-gene-transfer-hgt-and-microbial-adaptation)
 + [Bioinformatics and software development](https://songweizhi.github.io/research#bioinformatics-and-software-development-for-more-detail)
 
-
 The origin and evolution of symbiosis between archaea and sponges ([a GRF project](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925))
 ---
 
