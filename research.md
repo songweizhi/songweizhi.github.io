@@ -3,11 +3,11 @@ title: Research Projects/Directions
 ---
 
 1. [The origin and evolution of symbiosis between archaea and sponges](https://songweizhi.github.io/research#direction-one-the-origin-and-evolution-of-symbiosis-between-archaea-and-sponges-a-rgc-grf-project)
-1. [Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals](https://songweizhi.github.io/research#direction-two-decoding-the-functional-basis-of-distinct-microbial-symbiont-associations-in-deep-sea-corals-a-rgc-grf-project)
-1. [Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts](https://songweizhi.github.io/research#direction-three-development-of-a-specimen-library-and-database-for-hong-kong-sponges-and-their-associated-microbial-symbionts)
-1. [The diversity, functions, pathogenicity, antibiotic resistance, and plastic degradation potentials of ghost net microbiomes](https://songweizhi.github.io/research#direction-three-development-of-a-specimen-library-and-database-for-hong-kong-sponges-and-their-associated-microbial-symbionts)
-1. [Bioinformatics and software development](https://songweizhi.github.io/research#direction-five-bioinformatics-and-software-development-for-more-detail)
-1. [Horizontal gene transfer (HGT) and microbial adaptation](https://songweizhi.github.io/research#direction-six-horizontal-gene-transfer-hgt-and-microbial-adaptation)
+2. [Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals](https://songweizhi.github.io/research#direction-two-decoding-the-functional-basis-of-distinct-microbial-symbiont-associations-in-deep-sea-corals-a-rgc-grf-project)
+3. [Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts](https://songweizhi.github.io/research#direction-three-development-of-a-specimen-library-and-database-for-hong-kong-sponges-and-their-associated-microbial-symbionts)
+4. [The diversity, functions, pathogenicity, antibiotic resistance, and plastic degradation potentials of ghost net microbiomes](https://songweizhi.github.io/research#direction-four-the-diversity-functions-pathogenicity-antibiotic-resistance-and-plastic-degradation-potentials-of-ghost-net-microbiomes)
+5. [Bioinformatics and software development](https://songweizhi.github.io/research#direction-five-bioinformatics-and-software-development-for-more-detail)
+6. [Horizontal gene transfer (HGT) and microbial adaptation](https://songweizhi.github.io/research#direction-six-horizontal-gene-transfer-hgt-and-microbial-adaptation)
 
 
 DIRECTION ONE: The origin and evolution of symbiosis between archaea and sponges ([a RGC-GRF project](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925))
