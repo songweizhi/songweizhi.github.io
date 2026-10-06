@@ -34,7 +34,7 @@ Our research will offer comprehensive insights into the origin and evolution of 
 
 ![logo](assets/images/research/sponge_aoa.jpg)
 
-**Figure 1** **Left panel**: The distribution of marine and non-marine AOAs before and after the first symbiosis event between sponges and AOAs (red arrow). **Right panel**: Representative sponge samples collected from Seamounts in the Northwestern Paciﬁc Ocean. A) Euplectellidae sponge; B) Nullarbora sponge; C) Bolosominae sponge; D) Glass sponge; E) Farrea sponge; F) Hyalonema sponge; G) Regadrella sponge; H) Giant stalked Caulophacus sponge; I) Sponge in sub-globular shape; J) Glass sponge; K) Sponge with coral; L) Farrea sponge; M) Sponge with ophiuroids living in its cavity; N) Glass sponges in symbiosis with other animals; O) Sponge with a number of sea stars living on it; P) Asbestopluma cf. flabellum sponge; Q) A flower basket sponge; and R) Euplectellidae sponge.
+**Figure** **Left panel**: The distribution of marine and non-marine AOAs before and after the first symbiosis event between sponges and AOAs (red arrow). **Right panel**: Representative sponge samples collected from Seamounts in the Northwestern Paciﬁc Ocean. A) Euplectellidae sponge; B) Nullarbora sponge; C) Bolosominae sponge; D) Glass sponge; E) Farrea sponge; F) Hyalonema sponge; G) Regadrella sponge; H) Giant stalked Caulophacus sponge; I) Sponge in sub-globular shape; J) Glass sponge; K) Sponge with coral; L) Farrea sponge; M) Sponge with ophiuroids living in its cavity; N) Glass sponges in symbiosis with other animals; O) Sponge with a number of sea stars living on it; P) Asbestopluma cf. flabellum sponge; Q) A flower basket sponge; and R) Euplectellidae sponge.
 
 **Related work**
 - Zhang S; **Song W**; Marinos G; Waschina S; Zimmermann J; Kaleta C; Thomas, T, 2024, Genome-scale metabolic modelling reveals interactions and key roles of symbiont clades in a sponge holobiont. Nature Communications, 15(1), 10858. (IF: **14.7**)
@@ -53,13 +53,9 @@ To fill this knowledge gap, we collected 50 deep-sea coral specimens (18 of whic
 
 In the proposed project, we will combine metagenomics and genome-scale metabolic modelling to investigate the functional basis underlying the frequently observed dominance of single microbial species in deep-sea corals, and particularly the previously unreported dominance of AOA in schizopathid black corals. Genome-scale metabolic models for the symbionts will be reconstructed to simulate metabolic interactions and reveal how the symbionts collectively benefit the hosts. Functional redundancy, which enhances ecosystem resilience by buffering against symbiont loss, will be assessed. Adaptation mechanisms, such as horizontal gene transfer, of the symbionts towards a coral-associated lifestyle will also be investigated.
 
-![logo](assets/images/research/Coral_Figure_1.jpg)
-
-**Figure 2** Representative coral samples we collected from the western Pacific Ocean seamounts. Black coral samples from the Schizopathidae (A, B, and C) and Cladopathidae (D) families. Octocoral samples from the Chrysogorgiidae (E), Primnoidae (F and G), Victorgorgiidae (H), Paramuriceidae (I), Coralliidae (J and K), Keratoisididae (L), and Plexauridae (M) families.
-
 ![logo](assets/images/research/Coral_Figure_2.jpg)
 
-**Figure 3** Domain level community structure of the microbiomes across coral, seawater and sediment samples (A). NMDS plot showing the similarity of microbial communities among coral families (B) and genera (C). 
+**Figure** Domain level community structure of the microbiomes across coral, seawater and sediment samples (A). NMDS plot showing the similarity of microbial communities among coral families (B) and genera (C). 
 
 **Related work**
 - **Song W**, Zhang S, Perez M, Li J, Ma H, Thomas T,  Qiu J, Qian P, 2025, 'Distinct patterns of microbial association across deep-sea corals from the Western Pacific Magellan Seamounts', Microbiology Spectrum, ([https://doi.org/10.1128/spectrum.02093-25](https://doi.org/10.1128/spectrum.02093-25))
@@ -83,7 +79,7 @@ With this project, I aim to establish a leading laboratory for sponge research i
 
 ![logo](assets/images/research/Hong_Kong_Sponge.jpg)
 
-**Figure 4** On the left is the distribution of the 463 reported Porifera observations on iNaturalist across Hong Kong waters (accessed on December 3rd, 2025). 
+**Figure** On the left is the distribution of the 463 reported Porifera observations on iNaturalist across Hong Kong waters (accessed on December 3rd, 2025). 
 on the right are Hong Kong sponges (some may need further confirmation) we observed during several dives near Basalt Island (A, B and C), Bluff Island (D and E), Breakers Reef (F, G and H), Hoi Ha Wan (I and J), Ninepin Island (K), Tai Long Wan (L) and Wong Ngai Chau (M and N).
 (All sponge photos presented here are **not yet published**. If you wish to use any of them, please **contact me for approval**. I would like to thank Mr **Markus Rummel** and Miss **Lucia Hu** (OCES, HKUST) for their great contributions in capturing the stunning photos, collecting sponge samples, and preparing the proposal)
 
