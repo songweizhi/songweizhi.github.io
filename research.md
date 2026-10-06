@@ -63,7 +63,7 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 DIRECTION THREE: Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts
 ---
 
-Marine sponges (phylum Porifera) are found to be distributed widely in Hong Kong waters and to exhibit high morphological diversity ([https://hkspongedb.github.io](https://hkspongedb.github.io)), highlighting their ecological importance. 
+Marine sponges (phylum Porifera) are found to be distributed widely in Hong Kong waters and to exhibit high morphological diversity, highlighting their ecological importance. 
 However, Hong Kong sponges remain poorly documented, the most recent scientific publication on Hong Kong sponges dating back to 2014, over a decade ago, focusing on the response of sponge-associated bacterial symbionts to copper exposure (Tian et al., 2014). The remaining studies on Hong Kong sponges were conducted even earlier, between 2005 and 2007, primarily investigating their antifouling, anti-bacteria and anti-diatom properties (Dobretsov et al., 2005a; Dobretsov et al., 2005b; Qian et al., 2006; On et al., 2007).
 This prolonged neglect has resulted in the reduced visibility of Hong Kong sponges in international biological/biodiversity databases (including [the Sponge Barcoding Project](https://www.spongebarcoding.org), [The Sponge Genetree Server](https://www.spongegenetrees.org/methods.php) and 
 [The World Porifera Database](https://www.marinespecies.org/porifera)) and the absence of Hong Kong sponges in large international research initiatives, such as the [Tree of Life - Aquatic Symbiosis Genomics project](https://www.sanger.ac.uk/collaboration/aquatic-symbiosis-genomics-project).
