@@ -1,4 +1,4 @@
-Funds ongoing
+Ongoing
 ---
 
 1. **The origin and evolution of archaeal symbiosis in sponges**
@@ -23,7 +23,7 @@ Funds ongoing
     | 2026 |  Principal Investigator  |      50,000       |
 
 
-Funds under review
+Under Review
 ---
 1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
    - Targeting Scheme: Marine Conservation Enhancement Fund (MCEF)
@@ -35,7 +35,7 @@ Funds under review
    - Principal Investigator
    - Under review
 
-Funds completed
+Completed
 ---
 1. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
    - UNSW Science ECAN Seed Grant scheme
