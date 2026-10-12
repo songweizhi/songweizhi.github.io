@@ -2,14 +2,14 @@ Ongoing
 ---
 
 1. **The origin and evolution of archaeal symbiosis in sponges**
-   - RGC - General Research Fund
+   - General Research Fund - RGC
    - Principal Investigator
    - 2026 - 2028
    - HK$ 1,062,475
    - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16103925&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=&theSubmit=16103925)
 
 1. **Decoding the functional basis of distinct microbial symbiont associations in deep-sea corals**
-   - RGC - General Research Fund
+   - General Research Fund - RGC
    - Principal Investigator
    - 2027 - 2029
    - HK$ 984,743
@@ -25,18 +25,23 @@ Ongoing
 
 Under Review
 ---
-1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
+
+1. **Hong Kong sponges: from invisible to unignorable**
+   - Targeting Scheme: General Research Fund - RGC
+   - Principal Investigator
+   
+2. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
    - Targeting Scheme: Marine Conservation Enhancement Fund (MCEF)
    - Principal Investigator
-   - Under review
 
 1. **The Diversity, Functions, Pathogenicity, Antibiotic Resistance, and Plastic Degradation Potentials of Ghost Net-Associated Microorganisms in Hong Kong Waters**
    - Targeting Scheme: Environment and Conservation Fund (ECF)
    - Principal Investigator
-   - Under review
+
 
 Completed
 ---
+
 1. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
    - UNSW Science ECAN Seed Grant scheme
    - Principal Investigator
