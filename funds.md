@@ -26,7 +26,7 @@ Ongoing
 Under Review
 ---
 
-1. **Hong Kong sponges: from invisible to unignorable**
+1. **Hong Kong Sponges: From Invisible to Unignorable**
    - Targeting Scheme: General Research Fund - RGC
    - Principal Investigator
 
