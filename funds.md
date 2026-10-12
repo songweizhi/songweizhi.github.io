@@ -29,13 +29,13 @@ Under Review
 1. **Hong Kong sponges: from invisible to unignorable**
    - Targeting Scheme: General Research Fund - RGC
    - Principal Investigator
-   
-2. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
-   - Targeting Scheme: Marine Conservation Enhancement Fund (MCEF)
-   - Principal Investigator
 
 1. **The Diversity, Functions, Pathogenicity, Antibiotic Resistance, and Plastic Degradation Potentials of Ghost Net-Associated Microorganisms in Hong Kong Waters**
    - Targeting Scheme: Environment and Conservation Fund (ECF)
+   - Principal Investigator
+
+1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
+   - Targeting Scheme: Marine Conservation Enhancement Fund (MCEF)
    - Principal Investigator
 
 
