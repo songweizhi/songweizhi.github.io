@@ -25,7 +25,7 @@ Later in 2023, I joined The Hong Kong University of Science and Technology (**HK
 
 ### Links
 
-+ [HKUST Profile](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=weizhi-song-ocessongwz) (2023 - Present)
++ [HKUST Profile](https://researchportal.hkust.edu.hk/en/persons/weizhi-song) (2023 - Present)
 + [UNSW Profile](https://www.unsw.edu.au/staff/weizhi-song) (2019 - 2023)
 + [Google Scholar](http://scholar.google.com/citations?user=4BMYEv8AAAAJ)
 + [ORCID](https://orcid.org/0000-0001-5890-5361)
