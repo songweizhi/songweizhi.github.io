@@ -1,6 +1,4 @@
 main:
-  - title: Research
-    url: research
   - title: Funds
     url: funds
   - title: Publications
