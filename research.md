@@ -59,6 +59,27 @@ In the proposed project, we will combine metagenomics and genome-scale metabolic
 
 [:arrow_up:](https://songweizhi.github.io/research)
 
+Development of a specimen library and database for Hong Kong sponges and their associated microbial symbionts
+---
+
+Marine sponges (phylum Porifera) are found to be distributed widely in Hong Kong waters and to exhibit high morphological diversity, highlighting their ecological importance.
+However, Hong Kong sponges remain poorly documented, the most recent scientific publication on Hong Kong sponges dating back to 2014, over a decade ago, focusing on the response of sponge-associated bacterial symbionts to copper exposure (Tian et al., 2014). The remaining studies on Hong Kong sponges were conducted even earlier, between 2005 and 2007, primarily investigating their antifouling, anti-bacteria and anti-diatom properties.
+This prolonged neglect has resulted in the reduced visibility of Hong Kong sponges in international biological/biodiversity databases (including The Sponge Barcoding Project, The Sponge Genetree Server and The World Porifera Database) and the absence of Hong Kong sponges in large international research initiatives, such as the [Tree of Life - Aquatic Symbiosis Genomics project](https://www.sanger.ac.uk/collaboration/aquatic-symbiosis-genomics-project).
+
+To address the long-standing neglect of Hong Kong sponges and the resulted knowledge gap on their diversity, distribution, abundance and ecology, in this project we propose to carry out comprehensive biodiversity surveys of sponges in Hong Kong waters, building a specimen library, and developing a publicly accessible database that integrates geological and environmental metadata, morphological descriptions, digital 3D models, molecule-based taxonomic classifications and information about the associated symbiotic microorganisms. The database to be generated, along with the specimen library, will serve as a valuable resource to support scientific research, advance marine conservation, enhance public engagement, and promote public education and awareness of the biodiversity and ecological significance of Hong Kong sponges.
+
+In addition, sponges are rich source of natural products, the sponge samples collected in this project will serve as a valuable resource for discovering new natural products, such as those with antibacterial, antiviral, antifungal, and anticancer activities.
+Furthermore, sponges obtain nutrients by filtering vast volumes of seawater, the specimens collected in this project can also be leveraged for environmental DNA analyses, enabling comprehensive assessments of biodiversity across Hong Kong waters.
+
+With this project, I aim to establish a leading laboratory for sponge research in Hong Kong (**perhaps the only one in Hong Kong with a research focus on sponges**) by fostering collaborations with experts in natural product discovery and environmental DNA studies. These partnerships will enable integrative, multidisciplinary research that advances our understanding of sponges, their symbionts, and their ecological and biotechnological importance.
+
+![logo](assets/images/research/Hong_Kong_Sponge2.jpg)
+
+**Figure** On the left is the distribution of the 463 reported Porifera observations on iNaturalist across Hong Kong waters (accessed on December 3rd, 2025).
+on the right are Hong Kong sponges (some may need further confirmation) we observed during several dives near Basalt Island (A, B and C), Bluff Island (D and E), Breakers Reef (F, G and H), Hoi Ha Wan (I and J), Ninepin Island (K), Tai Long Wan (L) and Wong Ngai Chau (M and N).
+(All sponge photos presented here are **not yet published**. If you wish to use any of them, please **contact me for approval**. I would like to thank Mr **Markus Rummel** and Miss **Lucia Hu** (OCES, HKUST) for their great contributions in capturing the stunning photos, collecting sponge samples, and preparing the proposal)
+
+[:arrow_up:](https://songweizhi.github.io/research)
 
 The diversity, functions, pathogenicity, antibiotic resistance, and plastic degradation potentials of ghost net microbiomes
 ---
