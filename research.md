@@ -75,9 +75,13 @@ With this project, I aim to establish a leading laboratory for sponge research i
 
 ![logo](assets/images/research/Hong_Kong_Sponge3.jpg)
 
-**Figure** On the left is the distribution of the 463 reported Porifera observations on iNaturalist across Hong Kong waters (accessed on December 3rd, 2025).
-on the right are Hong Kong sponges (some may need further confirmation) we observed during several dives near Basalt Island (A, B and C), Bluff Island (D and E), Breakers Reef (F, G and H), Hoi Ha Wan (I and J), Ninepin Island (K), Tai Long Wan (L) and Wong Ngai Chau (M and N).
-(All sponge photos presented here are **not yet published**. If you wish to use any of them, please **contact me for approval**. I would like to thank **Tom Kwok Lun HUI**, **Markus Rummel** and **Lucia Hu** for their great contributions in capturing the photos, collecting sponge samples, and preparing the proposal)
+**Figure** 
+**On the left** is the distribution of the 704 reported Porifera observations on iNaturalist across Hong Kong waters (accessed on 23 September 2026).
+**In the middle** are some sponges we observed during several dives across Hong Kong waters. 
+**On the right** are some specimens we made for public education and outreach activities. 
+No samples were collected from Hong Kong’s marine reserves.
+All photos presented here are not yet published. If you wish to use any of them, please **contact me for approval**. 
+I would like to thank **Tom Kwok Lun HUI**, **Markus Rummel** and **Lucia Hu** for their contributions in capturing the photos, collecting sponge samples, and preparing the proposal.
 
 [:arrow_up:](https://songweizhi.github.io/research)
 
