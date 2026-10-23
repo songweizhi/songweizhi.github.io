@@ -80,7 +80,7 @@ With this project, I aim to establish a leading laboratory for sponge research i
 **In the middle** are some sponges we observed during several dives across Hong Kong waters. 
 **On the right** are some specimens we made for public education and outreach activities. 
 No samples were collected from Hong Kong’s marine reserves.
-All photos presented here are not yet published. If you wish to use any of them, please **contact me for approval**. 
+All sponge photos presented here are not yet published. If you wish to use any of them, please **contact me for approval**. 
 I would like to thank **Tom Kwok Lun HUI**, **Markus RUMMEL** and **Lucia HU** for their contributions in capturing the photos, collecting sponge samples, and preparing the proposal.
 
 [:arrow_up:](https://songweizhi.github.io/research)
