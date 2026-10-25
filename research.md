@@ -73,15 +73,15 @@ Furthermore, sponges obtain nutrients by filtering vast volumes of seawater, the
 
 With this project, I aim to establish a leading laboratory for sponge research in Hong Kong (**perhaps the only one in Hong Kong with a research focus on sponges**) by fostering collaborations with experts in natural product discovery and environmental DNA studies. These partnerships will enable integrative, multidisciplinary research that advances our understanding of sponges, their symbionts, and their ecological and biotechnological importance.
 
-![logo](assets/images/research/Hong_Kong_Sponge3.jpg)
+![logo](assets/images/research/Hong_Kong_Sponge.jpg)
 
 **Figure** 
-**On the left** is the distribution of the 704 reported Porifera observations on iNaturalist across Hong Kong waters (accessed on 23 September 2026).
-**In the middle** are some sponges we observed during several dives across Hong Kong waters. 
-**On the right** are some specimens we made for public education and outreach activities. 
+The distribution of the 704 reported Porifera observations on iNaturalist across Hong Kong waters (accessed on 23 September 2026) (A).
+Some sponges we observed during several dives across Hong Kong waters (B). 
+Some specimens we made for public education and outreach activities (C). 
 No samples were collected from Hong Kong’s marine reserves.
 All sponge photos presented here are not yet published. If you wish to use any of them, please **contact me for approval**. 
-I would like to thank **Tom Kwok Lun HUI**, **Markus RUMMEL** and **Lucia HU** for their contributions in capturing the photos, collecting sponge samples, and preparing the proposal.
+I would like to thank **Tom Kwok Lun HUI**, **Markus RUMMEL** and **Lucia HU** for their contributions in capturing the stunning photos, collecting sponge samples, and preparing the proposal.
 
 [:arrow_up:](https://songweizhi.github.io/research)
 
