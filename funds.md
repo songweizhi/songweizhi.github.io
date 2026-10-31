@@ -30,7 +30,7 @@ Under Review
    - Targeting Scheme: General Research Fund - RGC
    - Principal Investigator
 
-1. **The Diversity, Functions, Pathogenicity, Antibiotic Resistance, and Plastic Degradation Potentials of Ghost Net-Associated Microorganisms in Hong Kong Waters**
+1. **The Diversity, Functions, Pathogenicity, Antibiotic Resistance, and Plastic Degradation Potentials of Ghost Net Microbiomes**
    - Targeting Scheme: Environment and Conservation Fund (ECF)
    - Principal Investigator
 
