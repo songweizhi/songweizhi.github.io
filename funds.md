@@ -15,7 +15,7 @@ Ongoing
    - HK$ 984,743
    - [For more detail](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=16101126&old_proj_id=null&proj_title=&isname=&ioname=weizhi&institution=&subject=&pages=1&year=2026&theSubmit=16101126)
 
-1. **HKUST Internal Research Support**
+1. **HKUST Internal Research Support Grant**
 
     | Year |           Role           |   Amount (HK$)    |
     |:----:|:------------------------:|:-----------------:|
