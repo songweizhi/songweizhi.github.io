@@ -34,29 +34,27 @@ Under Review
    - Targeting Scheme: Environment and Conservation Fund (ECF)
    - Principal Investigator
 
-1. **Investigating Sponge diversity in the Western and Southern Hong Kong Waters**
-   - Targeting Scheme: Marine Conservation Enhancement Fund (MCEF)
-   - Principal Investigator
-
 
 Completed
 ---
 
 1. **Generating high-quality sponge symbiont genomes using Nanopore’s adaptive sampling strategy**
-   - UNSW Science ECAN Seed Grant scheme
+   - UNSW Science ECAN Seed Grant
    - Principal Investigator
    - AUD 2,000
    - 2022 
 
+
 Awards
 ---
 
-|    Year    |            Scheme            |         Organization          | Amount (AUD) |
-|:----------:|:----------------------------:|:-----------------------------:|:------------:|
-| 2015-2019  |   Tuition Fee Scholarship    | University of New South Wales |   147,000    |
-| 2015-2019  | Overseas Student Scholarship |   China Scholarship Council   |    61,000    |
-|    2017    |  Conference Travel Funding   | University of New South Wales |     800      |
-|    2017    |    PhD Top-Up Scholarship    | University of New South Wales |    5,000     |
-|    2018    |  Conference Travel Funding   | University of New South Wales |    2,600     |
-|    2018    |    PhD Top-Up Scholarship    | University of New South Wales |    2,500     |
-| **Total**  |                              |                               | **218,900**  |
+|    Year    |            Scheme            |         Organization          | Amount (AUD) |Amount (HK$) |
+|:----------:|:----------------------------:|:-----------------------------:|:------------:|:------------:|
+| 2015-2019  |   Tuition Fee Scholarship    | University of New South Wales |   147,000    |808,500|
+| 2015-2019  | Overseas Student Scholarship |   China Scholarship Council   |    61,000    |335,500|
+|    2017    |  Conference Travel Funding   | University of New South Wales |     800      |4,400|
+|    2017    |    PhD Top-Up Scholarship    | University of New South Wales |    5,000     |27,500|
+|    2018    |  Conference Travel Funding   | University of New South Wales |    2,600     |14,300|
+|    2018    |    PhD Top-Up Scholarship    | University of New South Wales |    2,500     |13,750|
+| **Total**  |                              |                               | **218,900**  | **~1,200,000** |
+
